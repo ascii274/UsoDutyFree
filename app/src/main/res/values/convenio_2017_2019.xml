@@ -8,38 +8,39 @@
         Ámbito Territorial.
     </string>
     <string formatted="false" name="art01Content">
-
+        \t
         El presente Convenio es de aplicación a todos los centros de trabajo ubicados en
     España que la Empresa World Duty Free Group, S.A., posee en la actualidad o que
-    puedan crearse durante su período de vigencia.\n\n
+    puedan crearse durante su período de vigencia.
+        \n\n
 
-        ok.
     </string>
 
     <string formatted="false" name="art02Head">
         Ámbito Funcional.
-
     </string>
     <string formatted="false" name="art02Content">
+        \t
         El presente Convenio Colectivo será de aplicación a los trabajadores World Duty Free
     Group, S.A incluidos en los ámbitos territorial y personal cualquiera que sea las funciones
-    que desempeñen.\n\n
-
-        ok
+    que desempeñen.
+        \n\n
     </string>
     
     <string formatted="false" name="art03Head">
         Ámbito Personal.
     </string>
     <string formatted="false" name="art03Content">
-
+        \t
         Se regirá por el presente Convenio el personal que presta sus servicios en World Duty
-    Free Group, S.A, con excepción del siguiente: \n\n
+    Free Group, S.A, con excepción del siguiente:
+        \n\n\t
      a) Presidente, Consejeros y Secretario del Consejo de Administración.\n
+        \n\t
      b) Consejero-Delegado, Directores, y todos aquellos trabajadores integrados en el
-    Grupo Profesional I, que se define en el artículo 24 del presente Convenio.\n\n
+    Grupo Profesional I, que se define en el artículo 24 del presente Convenio.
+        \n\n
 
-        ok
 
     </string>
     
@@ -47,24 +48,25 @@
         Ámbito Temporal.
     </string>
     <string formatted="false" name="art04Content">
+        \t
         El presente Convenio entrará en vigor en el momento de su publicación en el Boletín
     Oficial del Estado, sin perjuicio del carácter retroactivo del incremento salarial pactado, al
     1 de enero de 2017 o de la determinación de fechas específicas de entrada en vigor de
     aquellos conceptos en los que expresamente así se establezca. El Convenio extenderá su
-    vigencia hasta el 31 de diciembre de 2019. \n\n
-
-        ok
-    </string>
+    vigencia hasta el 31 de diciembre de 2019.
+        \n\n
+</string>
     
     <string formatted="false" name="art05Head">
         Incremento Salarial
     </string>
     <string formatted="false" name="art05Content">
-
+        \t
         Con efectos 1 de enero de 2017 el salario mínimo garantizado (SMG), se incrementará
     progresivamente a partir de la consecución de 685.000.000,00 euros (aplicando un
     incremento adicional del 0,25 % por cada 2,5 % de incremento sobre la superación de la
-    venta mínima) según la siguiente tabla:\n\n
+    venta mínima) según la siguiente tabla:
+        \n\n
 
 
         ---------------------------------------------------------------\n
@@ -79,7 +81,7 @@
         794.389.991,48 € \t|\t 2.00%\n
         814.249.741,26 € \t|\t 2.25%\n
         834.605.984,79 € \t|\t 2.50%\n
-        \n\n
+        \n\n\t
 
         Con efectos 1 de enero de 2018 el salario mínimo garantizado (SMG), se incrementará
     progresivamente a partir de la consecución de 715.000.000,00 euros (aplicando un
@@ -98,8 +100,8 @@
         829.180.794,02 € \t|\t 2.00%\n
         849.910.313,87 € \t|\t 2.25%\n
         871.158.071,72 € \t|\t 2.50%\n
-        \n\n
 
+        \n\n\t
         Con efectos 1 de enero de 2019 el salario mínimo garantizado (SMG), se incrementará
     progresivamente a partir de la consecución de 770.000.000,00 euros (aplicando un incremento adicional del 0,25 % por cada 2,5 % de incremento sobre la superación de la
     venta mínima) según la siguiente tabla:\n\n
@@ -117,14 +119,13 @@
         892.963.932,02 € \t|\t 2.00%\n
         915.288.030,32 € \t|\t 2.25%\n
         938.170.231,08 € \t|\t 2.50%\n
-        \n\n
 
-
-
+        \n\n\t
          Asimismo, los conceptos Ayuda Familiar, Becas, Prestación por Matrimonio, Prestación
     de Natalidad y el concepto Condición Más Beneficiosa Básica, se incrementarán en la
-    misma proporción.\n
-    A partir del 1 de enero de 2017 la Empresa entregará a cuenta un 1,25% de todos los
+    misma proporción.
+        \n\t
+        A partir del 1 de enero de 2017 la Empresa entregará a cuenta un 1,25% de todos los
     conceptos afectados por los incrementos salariales recogidos en el presente artículo.\n
     A partir del 1 de enero de 2018 la Empresa entregará a cuenta un 1% de todos los
     conceptos afectados por los incrementos salariales recogidos en el presente artículo.\n
@@ -860,22 +861,28 @@
     <string formatted="false" name="art31Head">
     Artículo 31. Conceptos Generales.
     </string>
-    <string formatted="false" name="art31Content">        
-    Retribución es la percepción económica del trabajador por el cumplimiento de su
+    <string formatted="false" name="art31Content">
+        \t
+        Retribución es la percepción económica del trabajador por el cumplimiento de su
     contrato de trabajo. Esta retribución puede ser de dos clases:
-    a) Salarial.
-    b) Extra-salarial.
-    Los conceptos salariales serán los siguientes:
-    1) 
-     Salario Mínimo Garantizado.
-    2) 
-     Complementos Personales.
-    3) 
-     Complementos de vencimiento periódico superior al mes.
-    4) 
-     Incentivos de Ventas.
-    5) 
-     Complemento de puesto de trabajo.
+        \n\t
+        a) Salarial.
+        \n\t
+        b) Extra-salarial.
+        \n\t\n
+        Los conceptos salariales serán los siguientes:
+        \n\t
+        1) Salario mínimo garantizado.
+        \n\t
+        2) Complementos personales.
+        \n\t
+        3) Complementos de vencimiento periódico superior al mes.
+        \n\t
+        4) Incentivos de ventas.
+        \n\t
+        5) Complemento de puesto de trabajo.
+        \n\n
+
     </string>
     
     
@@ -883,79 +890,92 @@
     <string formatted="false" name="art32Head">
     Artículo 32.
     </string>
-    <string formatted="false" name="art32Content">        
-    1) Salario Mínimo Garantizado.
-    Es la parte de la retribución del trabajador fijada por unidad de tiempo, de acuerdo
-    con la jornada normal de trabajo y que consta en la primera columna del Anexo de la
-    Tabla Salarial de este Convenio.
-    La cantidad que se establece en la Tabla Salarial lo es en cómputo anual, por lo que
+    <string formatted="false" name="art32Content">
+        \t
+
+        1) Salario mínimo garantizado. Es la parte de la retribución del trabajador fijada por
+    unidad de tiempo, de acuerdo con la jornada normal de trabajo y que consta en la primera
+    columna del Anexo de la Tabla Salarial de este Convenio.
+        \n\t
+        La cantidad que se establece en la Tabla Salarial lo es en cómputo anual, por lo que
     su distribución mensual se efectuará dividiendo la cantidad establecida entre 16 pagas.
-    El Salario Mínimo Garantizado, en caso de jornadas reducidas o especiales de
-    trabajo, será el que proporcionalmente corresponda a las mismas.
-    El Salario Mínimo Garantizado que para cada uno de los Grupos Profesionales se
+        \n\t
+        El Salario Mínimo Garantizado, en caso de jornadas reducidas o especiales de trabajo,
+    será el que proporcionalmente corresponda a las mismas.
+        \n\t
+        El Salario Mínimo Garantizado que para cada uno de los Grupos Profesionales se
     establece en la Tabla Salarial que figura como Anexo al presente Convenio Colectivo,
     integra en el mismo los anteriores niveles retributivos.
-    2) Complementos Personales.
-    Son los que se derivan de las condiciones personales del trabajador:
-    2.1 Antigüedad.
-    Como compensación por la permanencia en la empresa se establece un complemento,
-    que será abonado a todos los trabajadores incluidos dentro del ámbito de aplicación del
-    Convenio, a razón de 31,85 euros, por cada tres años de servicio en la Empresa.
-    Tal cantidad se abonará en el mes en que se cumplan los tres años correspondientes
+        \n\t
+        2) Complementos personales. Son los que se derivan de las condiciones personales
+    del trabajador:
+        \n\t
+        2.1 Antigüedad. Como compensación por la permanencia en la empresa se establece un
+    complemento, que será abonado a todos los trabajadores incluidos dentro del ámbito de
+    aplicación del Convenio, a razón de 31,85 euros, por cada tres años de servicio en la Empresa.
+        \n\t
+        Tal cantidad se abonará en el mes en que se cumplan los tres años correspondientes
     y se hará efectiva junto con las demás remuneraciones y en 12 mensualidades.
-    En el supuesto de que algún trabajador percibiera por el concepto de antigüedad una
-    cantidad superior a la que resulte de aplicación conforme a lo establecido en este
-    precepto, se le mantendrá tal cantidad como condición más beneficiosa que quedará
-    congelada, hasta que, por aplicación de esta fórmula, se supere la cantidad anteriormente
-    percibida.
-    2.2 Condición más Beneficiosa Básica.
-    Aquellos trabajadores que vinieran percibiendo, como consecuencia de la aplicación
-    de anteriores Convenios de Aldeasa, la denominada Condición Más Beneficiosa Básica,
-    continuarán percibiendo la cuantía consolidada.
-    2.3 Condición más Beneficiosa Complementaria.
-    Los trabajadores que como consecuencia de la aplicación de los anteriores Convenios
-    de Aldeasa vinieran percibiendo Pluses tales como Idioma, Jefatura y Juramento,
-    Transporte, establecidos en anteriores Convenios Colectivos, continuarán percibiendo las
-    cantidades consolidadas por tales pluses abonándose bajo el concepto de «Condición
-    más Beneficiosa Complementaria».
-    Tales cantidades se percibirán a titulo personal y no generarán derecho alguno para
+        \n\t
+        En el supuesto de que algún trabajador percibiera por el concepto de antigüedad una
+    cantidad superior a la que resulte de aplicación conforme a lo establecido en este precepto,
+    se le mantendrá tal cantidad como condición más beneficiosa que quedará congelada,
+    hasta que, por aplicación de esta fórmula, se supere la cantidad anteriormente percibida.
+        \n\t
+        2.2 Condición más Beneficiosa Básica. Aquellos trabajadores que vinieran
+    percibiendo, como consecuencia de la aplicación de anteriores Convenios de Aldeasa, la
+    denominada Condición Más Beneficiosa Básica, continuarán percibiendo la cuantía
+    consolidada.
+        \n\t
+        2.3 Condición más Beneficiosa Complementaria. Los trabajadores que como
+    consecuencia de la aplicación de los anteriores Convenios de Aldeasa vinieran percibiendo
+    Pluses tales como Idioma, Jefatura y Juramento, Transporte, establecidos en anteriores
+    Convenios Colectivos, continuarán percibiendo las cantidades consolidadas por tales
+    pluses abonándose bajo el concepto de «Condición más Beneficiosa Complementaria».
+        \n\t
+        Tales cantidades se percibirán a título personal y no generarán derecho alguno para
     trabajadores que se incorporen con posterioridad a la fecha de firma del Convenio a la
     empresa.
-    Este concepto salarial no podrá ser objeto de compensación y absorción con otras
+        \n\t
+        Este concepto salarial no podrá ser objeto de compensación y absorción con otras
     retribuciones que vinieran percibiendo los trabajadores.
-    2.4 Complemento individual.
-    Los trabajadores sujetos a la nueva estructura retributiva que perciban un
-    complemento individual, cualquiera que fuere su naturaleza e instrumento de concesión,
-    lo consolidarán en la cuantía existente con anterioridad a la integración de la prima
-    voluntaria (complemento puesto de trabajo) en tal concepto salarial, como complemento
-    salarial no compensable ni absorbible con los incrementos que se pacten en futuros
-    Convenios Colectivos, pudiendo ser objeto de compensación y absorción en el supuesto
-    de que el trabajador pasara a percibir los conceptos de condición más beneficiosa básica,
-    complementaria, incentivos o comisiones de ventas.
-    3) Complementos de vencimientos superior al mes.
-    3.1 Pagas Extraordinarias.
-    Los trabajadores tienen derecho a cuatro pagas extraordinarias en los meses de
-    Marzo, Junio, Septiembre y Diciembre, cuyo importe para cada empleado corresponde a
-    los conceptos Salario Mínimo Garantizado más Condición más Beneficiosa Básica para
-    aquellos que vinieran percibiendo tal concepto.
-    Se abonarán al final de cada uno de dichos meses y proporcionalmente al tiempo de
-    servicio prestado entre las fechas de devengo de cada una de ellas, que son las
-    siguientes:
-    1) 
-     Paga de marzo: de 1 de abril a 31 de marzo.
-    2) 
-     Paga de junio: de 1 de julio a 30 de junio siguiente.
-    3) 
-     Paga de septiembre: de 1 de octubre a 30 de septiembre siguientes.
-    4) 
-     Paga de diciembre: de 1 de enero a 31 de diciembre siguiente.
-    4) Retribución variable.
-    Los trabajadores adscritos a los puntos de venta, almacenes y almacenes
-    distribuidores tendrán derecho a la percepción de una retribución variable que se calculará
-    en función de los criterios que se establecen en el anexo n.o 4 del presente Convenio
-    Colectivo.
-    La retribución variable se percibirá, en su caso, de forma proporcional a los días
+        \n\t
+        2.4 Complemento individual. Los trabajadores sujetos a la nueva estructura retributiva
+    que perciban un complemento individual, cualquiera que fuere su naturaleza e instrumento
+    de concesión, lo consolidarán en la cuantía existente con anterioridad a la integración de
+    la prima voluntaria (complemento puesto de trabajo) en tal concepto salarial, como
+    complemento salarial no compensable ni absorbible con los incrementos que se pacten en
+    futuros Convenios Colectivos, pudiendo ser objeto de compensación y absorción en el
+    supuesto de que el trabajador pasara a percibir los conceptos de condición más beneficiosa
+    básica, complementaria, incentivos o comisiones de ventas.
+        \n\t
+        3) Complementos de vencimientos superiores al mes.
+        \n\t
+        3.1 Pagas extraordinarias. Los trabajadores tienen derecho a cuatro pagas
+    extraordinarias en los meses de Marzo, Junio, Septiembre y Diciembre, cuyo importe para
+    cada empleado corresponde a los conceptos Salario Mínimo Garantizado más Condición
+    más Beneficiosa Básica para aquellos que vinieran percibiendo tal concepto.
+        \n\t
+        Se abonarán al final de cada uno de dichos meses y proporcionalmente al tiempo de
+    servicio prestado entre las fechas de devengo de cada una de ellas, que son las siguientes:
+        \n\t
+        1) Paga de marzo: De 1 de abril a 31 de marzo.
+        \n\t
+        2) Paga de junio: De 1 de julio a 30 de junio siguiente.
+        \n\t
+        3) Paga de septiembre: De 1 de octubre a 30 de septiembre siguientes.
+        \n\t
+        4) Paga de diciembre: De 1 de enero a 31 de diciembre siguiente.
+        \n\t
+        4) Retribución variable. Los trabajadores adscritos a los puntos de venta, almacenes
+    y almacenes distribuidores tendrán derecho a la percepción de una retribución variable
+    que se calculará en función de los criterios que se establecen en el anexo no 4 del presente
+    Convenio Colectivo.
+        \n\t
+        La retribución variable se percibirá, en su caso, de forma proporcional a los días
     trabajados y al porcentaje de jornada del trabajador.
+
+        \n\n
     </string>
 
     <!---  -->    
@@ -963,17 +983,21 @@
     Artículo 33. Compensación por trabajos nocturnos.
     </string>
     <string formatted="false" name="art33Content">
-    Se considera nocturno el trabajo realizado entre las diez de la noche y las seis de la
+        \t
+        Se considera nocturno el trabajo realizado entre las diez de la noche y las seis de la
     mañana. Específicamente ambas partes convienen en computar la hora nocturna a razón
     de una hora y quince minutos hasta que el cómputo anual de horas de trabajo efectivas
     alcance 1.750 horas establecidas para cada uno de los años de vigencia del Convenio,
     considerándose como extraordinarias el exceso.
-    El cómputo de las horas nocturnas realizadas podrá ser compensado mediante su
+        \n\t
+        El cómputo de las horas nocturnas realizadas podrá ser compensado mediante su
     retribución dineraria a razón de 1,25 horas a elección del trabajador con carácter anual. Si
-    se opta por la retribución, ésta será satisfecha en el mes siguiente a la comunicación de
-    la realización.
-    El cómputo de tiempo horario de la nocturnidad no afecta al personal contratado
+    se opta por la retribución, ésta será satisfecha en el mes siguiente a la comunicación de la
+    realización.
+        \n\t
+        El cómputo de tiempo horario de la nocturnidad no afecta al personal contratado
     expresamente para realizar trabajos en horas nocturnas.
+        \n\n
     </string>
     
      <!---  -->    
@@ -981,15 +1005,21 @@
     Artículo 34. Retribuciones Extra-Salariales.
     </string>
     <string formatted="false" name="art34Content">
-    No tendrán la consideración legal de salario los siguientes conceptos, entre otros:
-    1) Periodo igual o inferior a 30 días: Todo desplazamiento del centro de trabajo
+        \t
+        No tendrán la consideración legal de salario los siguientes conceptos, entre otros:
+        \n\t
+        1) Periodo igual o inferior a 30 días: Todo desplazamiento del centro de trabajo
     habitual, ordenado por la Empresa, igual o inferior a 30 días, a cualquier población o país,
     devengará dietas en la forma y condiciones que tenga establecidas la Empresa, salvo
     pacto entre las partes.
-    2) Periodo superior a 30 días: Cuando el desplazamiento se realice a Tiendas de
+        \n\t
+        2) Periodo superior a 30 días: Cuando el desplazamiento se realice a Tiendas de
     apertura temporal o por cualquier otra causa ordenada por la Empresa, siempre que se
-    efectúe a población distinta a la de su residencia habitual y tenga una duración superior a
-    30 días, se estará a lo acordado entre las partes.
+    efectúe a población distinta a la de su residencia habitual y tenga una duración superior
+    a 30 días, se estará a lo acordado entre las partes.
+        \n\n
+
+
     </string>
     
     
@@ -998,21 +1028,26 @@
     Artículo 35. Anticipos reintegrables.
     </string>
     <string formatted="false" name="art35Content">
-    Mejorando lo dispuesto en el artículo 29 del estatuto de los Trabajadores, la Empresa
+        \t
+        Mejorando lo dispuesto en el artículo 29 del estatuto de los Trabajadores, la Empresa
     continuará aplicando el régimen de concesión de anticipos a cuenta, reintegrables y sin
     interés. El plazo máximo de devolución será de un año.
+        \nn
     </string>
-    
-    
+
     <!---  -->    
     <string formatted="false" name="art36Head">
         Artículo 36. Pago de haberes.
     </string>
     <string formatted="false" name="art36Content">
-    El pago del salario se efectuará mediante ingreso de su importe en la entidad bancaria
+        \t
+
+        El pago del salario se efectuará mediante ingreso de su importe en la entidad bancaria
     o de ahorro que el trabajador designe entregándose recibo del salario a los trabajadores.
     Esta obligación podrá cumplirse empleando medios telemáticos, cuando el empleado
     disponga de dirección de correo electrónico de la Empresa o así lo solicite voluntariamente.
+        \nn
+
     </string>
     
     <!---  -->    
@@ -1020,95 +1055,113 @@
     Artículo 37. Prestación por Matrimonio y Natalidad.
     </string>
     <string formatted="false" name="art37Content">
-    La empresa abonará a sus trabajadores, cuando contraigan matrimonio, la cantidad
-    de 242,36 euros. En el supuesto de que ambos contrayentes presten servicios en la
+        \t
+        La empresa abonará a sus trabajadores, cuando contraigan matrimonio, la cantidad
+    de 265,32 euros. En el supuesto de que ambos contrayentes presten servicios en la
     empresa, los dos tendrán derecho a la Prestación por Matrimonio.
-    Se reconocen los mismos derechos a las parejas de hecho.
-    Para acreditar la condición de pareja de hecho el solicitante del permiso deberá
-    aportar el certificado que acredite estar inscrito en el registro de uniones de hecho
-    establecido a tal efecto. Dicha certificación podrá sustituirse en aquellas poblaciones
-    donde no exista registro oficial mediante el correspondiente certificado de convivencia
-    expedido por la autoridad legal competente.
-    Igualmente la Empresa abonará la cantidad de 242,36 euros por el nacimiento o
+        \n\t
+        Para acreditar la condición de pareja de hecho el solicitante del permiso deberá aportar
+    el certificado que acredite estar inscrito en el registro de uniones de hecho establecido a
+    tal efecto. Dicha certificación podrá sustituirse en aquellas poblaciones donde no exista
+    registro oficial mediante el correspondiente certificado de convivencia expedido por la
+    autoridad legal competente.
+        \n\t
+        Igualmente la Empresa abonará la cantidad de 265,32 euros por el nacimiento o
     adopción de cada hijo.
-    
-    En el supuesto de que tanto el padre como la madre presten sus servicios en la
+        \n\t
+        En el supuesto de que tanto el padre como la madre presten sus servicios en la
     empresa sólo uno de ellos tendrá derecho a la percepción de la Prestación por Natalidad.
+        \nn
+
     </string>
     
     <!---  -->    
     <string formatted="false" name="art38Head">
     Artículo 38. Prestaciones en casos de baja por enfermedad o accidente y Absentismo.
     </string>
-    <string formatted="false" name="art38Content">        
-    1. Baja médica por enfermedad común, enfermedad profesional o por accidente
-    laboral.
-    En los supuestos de baja médica por enfermedad profesional y de accidente laboral la
-    Empresa abonará al trabajador las diferencias existentes en cada caso entre las
-    prestaciones que conceda al trabajador la Seguridad Social y el 100% de la retribución
-    fija salarial que el trabajador estuviese devengando en el momento de producirse la baja.
-    2. Baja médica por enfermedad común.
-    En los supuestos de baja médica por enfermedad, siempre que ésta no venga
-    derivada de enfermedad crónica diagnosticada ni de accidente no laboral con
-    hospitalización, la Empresa no abonará el complemento de IT a partir de la quinta baja en
-    que incurra el trabajador dentro del año natural.
-    3. Regulación común para todas las situaciones de baja.
-    Para todos los supuestos, con independencia de la naturaleza de la contingencia ya
-    sea profesional o común, la obligación de complementar de la Empresa coincidirá con la
-    duración de su obligación de «pago delegado»; por lo tanto, cuando el trabajador pase a
-    cargo de la Seguridad Social dejará de abonar cualquier complemento, coincidiendo con
-    su baja formal en el Sistema de Seguridad Social a cargo de la Empresa y hasta que sea
-    valorado por el EVI y la Dirección Provincial del INSS dicte la resolución que proceda en
-    función de su situación médica.
-    Las partes firmantes reconocen la necesidad del tratamiento del problema del
+    <string formatted="false" name="art38Content">
+        \t
+        1. Baja médica por enfermedad común, enfermedad profesional o por accidente
+    laboral. En los supuestos de baja médica por enfermedad profesional y de accidente
+    laboral la Empresa abonará al trabajador las diferencias existentes en cada caso entre las
+    prestaciones que conceda al trabajador la Seguridad Social y el 100% de la retribución fija
+    salarial que el trabajador estuviese devengando en el momento de producirse la baja.
+        \n\t
+        2. Baja médica por enfermedad común. En los supuestos de baja médica por
+    enfermedad, siempre que ésta no venga derivada de enfermedad crónica diagnosticada ni
+    de accidente no laboral con hospitalización, la Empresa no abonará el complemento de IT
+    a partir de la quinta baja en que incurra el trabajador dentro del año natural.
+        \n\t
+        3. Regulación común para todas las situaciones de baja. Para todos los supuestos,
+    con independencia de la naturaleza de la contingencia ya sea profesional o común, la
+    obligación de complementar de la Empresa coincidirá con la duración de su obligación de
+    «pago delegado»; por lo tanto, cuando el trabajador pase a cargo de la Seguridad Social
+    dejará de abonar cualquier complemento, coincidiendo con su baja formal en el Sistema
+    de Seguridad Social a cargo de la Empresa y hasta que sea valorado por el EVI y la
+    Dirección Provincial del INSS dicte la resolución que proceda en función de su situación
+    médica.
+        \n\t
+        Las partes firmantes reconocen la necesidad del tratamiento del problema del
     absentismo y entienden que su reducción implica tanto el aumento de la presencia del
     trabajador en el puesto de trabajo como las adecuadas condiciones de seguridad, higiene
     y ambiente de trabajo.
-    De igual forma, las partes son conscientes del grave quebrantamiento que en la
+        \n\t
+        De igual forma, las partes son conscientes del grave quebrantamiento que en la
     atención a los clientes produce el absentismo cuando se superan determinados niveles,
     así como la necesidad de disminuirlo dada su negativa incidencia en la eficacia de los
     servicios.
-    Se regulan las siguientes situaciones:
-    1. Ausencias aisladas.
-    Las ausencias aisladas de horas cuyo origen no esté contemplado como permiso
-    retribuido o licencia en el presente Convenio deberán justificarse en el plazo de
-    veinticuatro horas por los medios adecuados al origen de la ausencia.
-    Sin perjuicio de las medidas disciplinarias que puedan adoptarse en caso de no
+        \n\t
+        Se regulan las siguientes situaciones:
+        \n\t
+        1. Ausencias aisladas. Las ausencias aisladas de horas cuyo origen no esté
+    contemplado como permiso retribuido o licencia en el presente Convenio deberán
+    justificarse en el plazo de veinticuatro horas por los medios adecuados al origen de la
+    ausencia.
+        \n\t
+        Sin perjuicio de las medidas disciplinarias que puedan adoptarse en caso de no
     acreditarse el motivo de la ausencia en el puesto de trabajo, éste no será retribuido en
     ningún caso, descontándose el número de horas en que no haya habido prestación
     efectiva de trabajo. Previo acuerdo entre empresa y trabajador, el tiempo invertido en la
-    ausencia, podrá ser recuperado en los siete días posteriores como alternativa al
-    descuento.
-    Las ausencias de jornadas completas cuyo origen no esté contemplado como permiso
-    retribuido o licencia en el presente Convenio deberán justificarse en el plazo de
-    veinticuatro horas por los medios adecuados al origen de la ausencia.
-    Sin perjuicio de las medidas disciplinarias que puedan adoptarse en caso de no
+    ausencia, podrá ser recuperado en los siete días posteriores como alternativa al descuento.
+        \n\t
+        Las ausencias de jornadas completas cuyo origen no esté contemplado como permiso
+    retribuido o licencia en el presente Convenio deberán justificarse en el plazo de veinticuatro
+    horas por los medios adecuados al origen de la ausencia.
+        \n\t
+        Sin perjuicio de las medidas disciplinarias que puedan adoptarse en caso de no
     acreditarse el motivo de la ausencia en el puesto de trabajo, éste no será retribuido en
     ningún caso, descontándose de nómina el importe equivalente a las jornadas en que no
     haya habido prestación efectiva de trabajo.
-    
-    2. Ausencias por enfermedad común o accidente no laboral de uno a tres días.
-    2.1 Ausencias aisladas:
-    El trabajador comunicará su ausencia a la Unidad de Control de Presencia, en el caso
-    de OO.CC., o persona responsable en el centro con preferencia hasta una hora después
-    del inicio de la jornada, salvo causas de fuerza mayor que lo impidan.
-    En todo caso, de no producirse con posterioridad la justificación pertinente se
+        \n\t
+        2. Ausencias por enfermedad común o accidente no laboral de uno a tres días.
+        \n\t
+        2.1 Ausencias aisladas. El trabajador comunicará su ausencia a la Unidad de Control
+    de Presencia, en el caso de OO.CC, o persona responsable en el centro con preferencia
+    hasta una hora después del inicio de la jornada, salvo causas de fuerza mayor que lo
+    impidan.
+        \n\t
+        En todo caso, de no producirse con posterioridad la justificación pertinente se
     descontará al trabajador el día faltado sin perjuicio de la adopción de otras medidas
     disciplinarias.
-    2.2 Ausencias de dos o tres días:
-    En estos casos el trabajador deberá presentar el parte médico en el plazo de tres días
-    contados a partir del siguiente al de la expedición del parte. De no entregarse el parte
-    citado se descontarán al trabajador los días faltados sin perjuicio de la adopción de otras
-    medidas disciplinarias.
+        \n\t
+        2.2 Ausencias de dos o tres días. En estos casos el trabajador deberá presentar el
+    parte médico en el plazo de tres días contados a partir del siguiente al de la expedición del
+    parte. De no entregarse el parte citado se descontarán al trabajador los días faltados sin
+    perjuicio de la adopción de otras medidas disciplinarias.
     En ambos casos la Empresa podrá practicar las inspecciones médicas oportunas,
     según lo dispuesto en el artículo 20 del Estatuto de los Trabajadores.
-    3. Incidencias en el cumplimiento del horario establecido y tramitación de incidencias.
+        \n\t\n
+        3. Incidencias en el cumplimiento del horario establecido y tramitación de incidencias.
     Todo el personal adscrito al presente Convenio debe cumplir el horario establecido.
-    Consecuentemente es de obligado cumplimiento el formalizar a través del reloj de
-    presencia (o parte de firmas) tanto la entrada como la salida del puesto de trabajo en
-    todas sus incidencias.
-    Se considerará falta grave eludir los sistemas de control horario así como impedir que
+        \n\t
+        Consecuentemente es de obligado cumplimiento el formalizar a través del reloj de
+    presencia (o parte de firmas) tanto la entrada como la salida del puesto de trabajo en todas
+    sus incidencias.
+        \n\t
+        Se considerará falta grave eludir los sistemas de control horario así como impedir que
     sean detectados los incumplimientos injustificados de la jornada de trabajo.
+
+        \nn
     </string>
     
     <!---  -->    
@@ -1116,50 +1169,59 @@
     Artículo 39. Jornada de Trabajo.
     </string>
     <string formatted="false" name="art39Content">
-    La jornada máxima laboral anual se establece en 1.750 horas de trabajo efectivo para
-    cada uno de los años de vigencia del presente Convenio. La reducción de 16 horas sobre
-    la jornada anual del año 2003 consolidada en el Convenio anterior, se aplicará en días
-    completos. Los horarios se adaptarán a las exigencias propias de cada centro de trabajo.
-    Debido a las características de la actividad desempeñada por Aldeasa la distribución
-    de la jornada podrá efectuarse de forma irregular, teniendo la condición de días laborables
-    todos los días del año incluyendo sábados, domingos y festivos, excepción hecha de los
-    días 1 de enero y 25 de diciembre en los que la prestación de servicios tendrá carácter
-    voluntario y será retribuida con 200 € cada uno de ellos; la jornada máxima a realizar en
-    estas fechas será de 10 horas.
-    Con carácter anual se establecerá para cada centro de trabajo un calendario con
-    turnos rotativos. Dicho calendario, debido a la variación que sufre la actividad comercial
-    de la Empresa podrá ser modificado por ésta en función de las necesidades que se
-    produzcan, pudiéndose efectuar prolongaciones de jornada hasta un máximo de doce
-    horas diarias con respeto a los descansos legalmente establecidos y siempre que tales
-    prolongaciones de jornada sean compensadas con disminuciones en periodos de menor
-    actividad, de modo que en ningún caso la jornada ordinaria supere las horas anuales
-    pactadas para cada uno de los años de vigencia del Convenio. Las modificaciones que se
-    realicen sobre el calendario anual y que supongan modificación de horarios de los
-    trabajadores adscritos al mismo deberán ser consultadas previamente al Comité de
-    empresa del centro afectado con siete días de antelación a su entrada en vigor, salvo que
-    sea aceptada por el trabajador con carácter voluntario. La consulta no tendrá carácter
-    vinculante.
-    Las horas realizadas sobre la jornada máxima anual establecida en el presente
-    artículo podrán ser compensadas bien mediante su retribución dineraria en el equivalente
-    al número de horas realizadas, bien en tiempo de descanso en la misma proporción de
+        \t
+
+        La jornada máxima laboral anual se establece en 1750 horas de trabajo efectivo para
+    cada uno de los años de vigencia del presente Convenio. Los horarios se adaptarán a las
+    exigencias propias de cada centro de trabajo. La reducción de 16 horas sobre la jornada
+    anual de 2003 consolidada en convenios anteriores, se aplicará en días completos. Los
+    horarios se adaptarán a las exigencias propias de cada centro.
+        \n\t
+        Debido a las características de la actividad desempeñada por World Duty Pree
+    Group, S.A. la distribución de la jornada podrá efectuarse de forma irregular, teniendo la
+    condición de días laborables todos los días del año incluyendo sábados, domingos y
+    festivos, excepción hecha de los días 1 de enero y 25 de diciembre en los que la prestación
+    de servicios tendrá carácter voluntario y será retribuida con 200 € cada uno de ellos; la
+    jornada máxima a realizar en estas fechas será de 10 horas efectivas. Con carácter anual
+    se establecerá para cada centro de trabajo un calendario con turnos rotativos. Dicho
+    calendario, debido a la variación que sufre la actividad comercial de la Empresa podrá ser
+    modificado por ésta en función de las necesidades que se produzcan, pudiéndose efectuar
+    prolongaciones de jornada hasta un máximo de doce horas diarias con respeto a los
+    descansos legalmente establecidos y siempre que tales prolongaciones de jornada sean
+    compensadas con disminuciones en periodos de menor actividad, de modo que en ningún
+    caso la jornada ordinaria supere las horas anuales pactadas para cada uno de los años de
+    vigencia del Convenio. Las modificaciones que se realicen sobre el calendario anual y que
+    supongan modificación de horarios de los trabajadores adscritos al mismo deberán ser
+    consultadas previamente al Comité de empresa del centro afectado con siete días de
+    antelación a su entrada en vigor, salvo que sea aceptada por el trabajador con carácter
+    voluntario. La consulta no tendrá carácter vinculante.
+            \n\t
+        Las horas realizadas sobre la jornada máxima anual establecida en el presente artículo
+    podrán ser compensadas bien mediante su retribución dineraria en el equivalente al
+    número de horas realizadas, bien en tiempo de descanso en la misma proporción de
     exceso de acuerdo con las necesidades organizativas del centro de trabajo y de común
     acuerdo entre la empresa y el trabajador.
-    Si se opta por la retribución, ésta será satisfecha en el mes siguiente a la comunicación
+        \n\t
+        Si se opta por la retribución, ésta será satisfecha en el mes siguiente a la comunicación
     de la realización de dicho exceso. Si la opción lo es por la compensación en tiempo de
-    descanso, la devolución del exceso de jornada deberá producirse dentro de los tres
-    meses siguientes.
-    Todos los trabajadores adscritos al presente Convenio tendrán derecho a dos días de
+    descanso, la devolución del exceso de jornada deberá producirse dentro de los tres meses
+    siguientes.
+        \n\t
+        Todos los trabajadores adscritos al presente Convenio tendrán derecho a dos días de
     descanso a la semana que podrán ser acumulados por periodos de hasta dos semanas.
-    Con carácter general el número máximo de festivos nacionales, autonómicos o
-    locales a trabajar dentro del año quedará establecido en cuatro hasta el año 2013 y en
-    tres para el año 2014 y en el supuesto de que por razones organizativas se fijaran para
-    un turno concreto más de cuatro festivos a trabajar (tres en el año 2014), los que excedan
-    de tal número serán compensados con descansos equivalentes cuya fecha será de libre
-    elección del trabajador siempre que las necesidades productivas que se den en el centro
-    lo permitan.
-    Únicamente se considerarán a estos efectos los festivos establecidos en el calendario
-    laboral que hayan sido efectivamente trabajados y no aquellos que se trabajen
-    voluntariamente por cambio de turnos entre los trabajadores.
+        \n\t
+        Con carácter general el número máximo de festivos nacionales, autonómicos o locales
+    a trabajar dentro del año quedará establecido en tres. Los que excedan de tal número
+    serán compensados con descansos equivalentes cuya fecha será de libre elección del
+    trabajador siempre que las necesidades productivas que se den en el centro lo permitan.
+        \n\t
+        Únicamente se considerarán a estos efectos los festivos establecidos en el calendario
+    laboral que hayan sido efectivamente trabajados. Aquellos que se trabajen voluntariamente
+    por cambio de turnos entre los trabajadores se considerarán compensables con un límite
+    de tres cambios anuales.
+        \n\n
+
+
     </string>
     
     
@@ -1168,20 +1230,25 @@
     Artículo 40. Horas extraordinarias.
     </string>
     <string formatted="false" name="art40Content">
-    Las horas trabajadas en exceso sobre las establecidas en el horario de cada centro
-    de trabajo tendrán el carácter de horas extraordinarias, siendo su realización obligatoria
-    en el caso de las efectuadas para realizar inventarios y balances o por causa legal de
-    fuerza mayor, y compensándose las mismas con descansos en el siguiente trimestre a la
-    fecha de su realización.
-    Con carácter excepcional, en aquellos supuestos en los que por razones organizativas
+        \t
+        Las horas trabajadas en exceso sobre las establecidas en el horario de cada centro de
+    trabajo tendrán el carácter de horas extraordinarias, siendo su realización obligatoria en el
+    caso de las efectuadas para realizar inventarios y balances o por causa legal de fuerza
+    mayor, y compensándose las mismas con descansos en el siguiente trimestre a la fecha
+    de su realización.
+        \n\t
+        Con carácter excepcional, en aquellos supuestos en los que por razones organizativas
     resulte imposible la compensación con descanso y siempre que el número de horas
     realizadas no exceda de los límites legales, serán abonadas con el importe que resulte de
     la aplicación de la siguiente fórmula:
+        \n\n\n
+
         
-    ((S.M.G. + C.B.B.) X 16) + CBC + (A X 12) 
-    ----------------------------------------- X 125%
-    Jornada anual pactada
-    
+    ((S.M.G.+C.B.B.)X16)+CBC+(AX12)\n
+    --------------------------------------------------- X 125%\n
+    Jornada anual pactada\n
+
+        \n
     S.B.G. = Salario Mínimo Garantizado.
     C.B.B. = Condición más Beneficiosa Básica.
     C.B.C. = Condición más Beneficiosa Complementaria.
@@ -1195,193 +1262,253 @@
     Artículo 41. Permisos.
     </string>
     <string formatted="false" name="art41Content">
-    A) Permisos no retribuidos.
-    La Empresa podrá otorgar, siempre que el volumen de plantilla y las necesidades de
+        \t
+        A) Permisos no retribuidos.
+        \n\t\n
+        La Empresa podrá otorgar, siempre que el volumen de plantilla y las necesidades de
     trabajo lo permitan, permisos no retribuidos a los trabajadores, por el período necesario
     para atender circunstancias excepcionales que puedan producirse.
-    Corresponde a la Empresa su otorgamiento en función de las necesidades productivas
+        \n\t
+        Corresponde a la Empresa su otorgamiento en función de las necesidades productivas
     que se den en el centro de trabajo en el que se solicite el permiso.
-    El empleado que solicite un permiso no retribuido deberá justificar su petición. En
-    todo caso corresponde a la Dirección de la Empresa su otorgamiento.
-    Durante el disfrute de permiso no retribuido, la Empresa se hará cargo del importe de
+        \n\t
+        El empleado que solicite un permiso no retribuido deberá justificar su petición. En todo
+    caso corresponde a la Dirección de la Empresa su otorgamiento.
+        \n\t
+        Durante el disfrute de permiso no retribuido, la Empresa se hará cargo del importe de
     aportación a la Seguridad Social que le corresponda, siendo por cuenta del empleado la
     suya.
-
-            Los trabajadores que hayan ejercitado el derecho a disfrutar de permiso no retribuido,
+        \n\t
+        Los trabajadores que hayan ejercitado el derecho a disfrutar de permiso no retribuido,
     no podrán volver a solicitar un nuevo permiso hasta el transcurso de dos años desde el
     disfrute del último permiso.
-    B) Permisos por asuntos personales.
-    La Empresa concederá cuatro días de permiso retribuido por trabajador y año, para
+        \n\n\t
+        B) Permisos por asuntos personales.
+        \n\n\t
+        La Empresa concederá cuatro días de permiso retribuido por trabajador y año, para
     asuntos personales, en las siguientes condiciones:
-    a) Dos de ellos podrán ser acumulados a los días de vacaciones, si existiera acuerdo
-    entre el trabajador y la Dirección del Centro y fuera posible por razones de organización
-    de la actividad.
-    b) Su no disfrute dentro del año natural, supone su pérdida.
-    c) Dos de ellos pueden ser compensados económicamente cuando su no disfrute lo
+        \n\n\t
+        a) Los cuatro días podrán ser acumulados a los días de vacaciones, si existiera
+    acuerdo entre el trabajador y la Dirección del Centro y fuera posible por razones de
+    organización de la actividad. En ese caso, una vez solicitados con la suficiente antelación,
+    y si fuera posible su otorgamiento sin menoscabo de la organización de la actividad, no
+    podrá revocarse la autorización ya que ello ocasionaría un perjuicio para el trabajador.
+        \n\t
+        b) Su no disfrute dentro del año natural, supone su pérdida.
+        \n\t
+        c) Dos de ellos pueden ser compensados económicamente cuando su no disfrute lo
     sea por causa imputable a la Empresa.
-    d) Serán solicitados previamente al Jefe del Centro o Departamento y comunicados
+        \n\t
+        d) Serán solicitados previamente al Jefe del Centro o Departamento y comunicados
     a la Dirección de Recursos Humanos.
-    C) Permisos Retribuidos.
-    El trabajador, previo aviso y justificación adecuada, tendrá derecho a solicitar los
+        \n\n\t
+        C) Permisos retribuidos.
+        \n\n\t
+        El trabajador, previo aviso y justificación adecuada, tendrá derecho a solicitar los
     siguientes permisos retribuidos por los tiempos y causas siguientes:
-    a) Quince días naturales en caso de matrimonio acumulables a vacaciones, siempre
+        \n\n\t
+        a) Quince días naturales en caso de matrimonio acumulables a vacaciones, siempre
     que la organización del trabajo así lo permita.
-    b) Tres días naturales en los casos de nacimiento de hijo. Cuando con tal motivo el
+        \n\t
+        b) Tres días naturales en los casos de nacimiento de hijo. Cuando con tal motivo el
     trabajador necesite hacer un desplazamiento al efecto el plazo será de cinco días.
-    c) Tres días naturales por el fallecimiento, accidente o enfermedades graves,
-    hospitalización o intervención quirúrgica sin hospitalización que precise reposo
-    domiciliario, de parientes hasta el segundo grado de consanguinidad o afinidad Se
-    consideran familiares en primer grado de consanguinidad o afinidad del trabajador
-    afectado: cónyuge o pareja de hecho, hijos, padres y suegros. Se consideran familiares
-    en segundo grado de consanguinidad o afinidad del trabajador afectado: hermanos,
-    cuñados, nietos y abuelos. Cuando con tal motivo el trabajador necesite hacer un
-    desplazamiento al efecto, el plazo será de cinco días.
-    Durante el tiempo de hospitalización de familiar de primer grado o del cónyuge por
-    causa de enfermedad o accidente grave el trabajador podrá disponer de su permiso,
-    previa petición al departamento de Recursos Humanos correspondiente, en días
-    completos separados. En caso de separación de los días, los laborables de los que
-    disponga no podrán superar los que le hubieran correspondido de iniciar el permiso en
-    condiciones normales en el día en que se produjo el hecho causante.
-    d) Un día por traslado del domicilio habitual
-    e) Por el tiempo indispensable para el cumplimiento de un deber inexcusable de
+        \n\t
+        c) Tres días naturales por el fallecimiento, accidente o enfermedades graves,
+    hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario,
+    de parientes hasta el segundo grado de consanguinidad o afinidad Se consideran
+    familiares en primer grado de consanguinidad o afinidad del trabajador afectado: cónyuge
+    o pareja de hecho, hijos, padres y suegros. Se consideran familiares en segundo grado de
+    consanguinidad o afinidad del trabajador afectado: hermanos, cuñados, nietos y abuelos.
+    Cuando con tal motivo el trabajador necesite hacer un desplazamiento al efecto, el plazo
+    será de cinco días.
+        \n\t
+        Durante el tiempo de hospitalización de familiar de primer grado o del cónyuge por
+    causa de enfermedad o accidente grave el trabajador podrá disponer de su permiso, previa
+    petición al departamento de Recursos Humanos correspondiente, en días completos
+    separados. En caso de separación de los días, los laborables de los que disponga no
+    podrán superar los que le hubieran correspondido de iniciar el permiso en condiciones
+    normales en el día en que se produjo el hecho causante.
+        \n\t
+        d) Un día por traslado del domicilio habitual
+        \n\t
+        e) Por el tiempo indispensable para el cumplimiento de un deber inexcusable de
     carácter público y personal, comprendiendo el sufragio activo.
-    f) Para realizar funciones sindicales o de representación del personal en los términos
+        \n\t
+        f) Para realizar funciones sindicales o de representación del personal en los términos
     establecidos legalmente.
-    g) Por el tiempo indispensable para la realización de exámenes prenatales y
-    técnicas de preparación al parto que deban realizarse dentro de la jornada de trabajo.
-    h) Por el tiempo necesario para realizar exámenes finales, parciales o de aptitud
-    para la obtención de un título académico o profesional oficial.
-    i) Por el tiempo indispensable para realizar pruebas médicas pre y post operatorias
-    y los controles periódicos por enfermedad crónica en hospitales públicos y clínicas
-    privadas cuya citación previa pueda ser justificada.
-    j) Hasta 6 horas anuales para acompañar a consulta médica a familiares en primer
+        \n\t
+        g) Por el tiempo indispensable para la realización de exámenes prenatales y técnicas
+    de preparación al parto que deban realizarse dentro de la jornada de trabajo.
+        \n\t
+        h) Por el tiempo necesario para realizar exámenes finales, parciales o de aptitud para
+    la obtención de un título académico o profesional oficial.
+        \n\t
+        i) Por el tiempo indispensable para realizar pruebas médicas pre y post operatorias y
+    los controles periódicos por enfermedad crónica en hospitales públicos y clínicas privadas
+    cuya citación previa pueda ser justificada.
+        \n\t
+        j) Hasta 10 horas anuales para acompañar a consulta médica a familiares en primer
     grado de consanguinidad.
-    Se reconocen los mismos derechos que el Convenio contempla en el artículo 41 B)
-    en el apartado c) a las parejas de hecho.
-    Para acreditar la condición de pareja de hecho el solicitante del permiso deberá
-    aportar el certificado que acredite estar inscrito en el registro de uniones de hecho
-    establecido a tal efecto. Dicha certificación podrá sustituirse en aquellas poblaciones
-    donde no exista registro oficial mediante el correspondiente certificado de convivencia
-    expedido por la autoridad legal competente.
-    D) Lactancia.
-    Las trabajadoras, por lactancia de un hijo menor de nueve meses, tendrán derecho a
-    una hora de ausencia del trabajo que podrán dividir en dos fracciones. La duración del
-    permiso se incrementará proporcionalmente en los casos de un parto múltiple.
-    Mejorando lo dispuesto en lo legislado a este efecto, las horas establecidas como
+        \n\n\t
+            Se reconocen los mismos derechos que el Convenio contempla en el artículo 41 C) en
+    el apartado c) a las parejas de hecho.
+        \n\t
+        Para acreditar la condición de pareja de hecho el solicitante del permiso deberá aportar
+    el certificado que acredite estar inscrito en el registro de uniones de hecho establecido a
+    tal efecto. Dicha certificación podrá sustituirse en aquellas poblaciones donde no exista
+    registro oficial mediante el correspondiente certificado de convivencia expedido por la
+    autoridad legal competente.
+        \n\n\t
+        D) Lactancia.
+        \n\n\t
+        Los trabajadores, hombres y mujeres, por lactancia de un hijo menor de nueve meses,
+    tendrán derecho a una hora de ausencia del trabajo que podrán dividir en dos fracciones. La
+    duración del permiso se incrementará proporcionalmente en los casos de un parto múltiple.
+        \n\t
+        Este permiso constituye un derecho individual de los trabajadores, hombres y mujeres,
+    pero sólo podrá ser ejercido por uno de los progenitores en caso de que ambos trabajen.
+        \n\t
+        Mejorando lo dispuesto en lo legislado a este efecto, las horas establecidas como
     permiso para lactancia podrán acumularse mediante el disfrute de un mes de permiso
-    retribuido, o la proporción que correspondan en función del periodo de alta de la madre
-    en la empresa con posterioridad al parto, hasta que el hijo cumpla nueve meses.
+    retribuido, o la proporción que correspondan en función del periodo de alta en la empresa de
+    quien ejerza este derecho con posterioridad al parto, hasta que el hijo cumpla nueve meses.
+
+        \n\n
+
     </string>
 
     <string formatted="false" name="art42Head">
         Artículo 42. Reducción por guarda legal. Conciliación de la vida laboral y familiar.
     </string>
     <string formatted="false" name="art42Content">
-
-        Quien por razón de guarda legal tenga a su cuidado directo algún menor de ocho
-    años o un disminuido físico o psíquico que no desempeñe otra actividad retribuida, o
-    quien tenga a su cuidado directo un familiar hasta el segundo grado de consanguinidad o
-    afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí
-    mismo y que no desempeñe actividad retribuida tendrá derecho a una reducción de la
-    jornada de trabajo, con la disminución proporcional del salario entre, al menos, un octavo
-    y un máximo de la mitad de la duración de aquélla; podrán concretar la elección de horario
+        \t
+        Quien por razón de guarda legal tenga a su cuidado directo algún menor de doce años
+    o una persona con discapacidad que no desempeñe otra actividad retribuida, o quien
+    tenga a su cuidado directo un familiar hasta el segundo grado de consanguinidad o
+    afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí mismo
+    y que no desempeñe actividad retribuida, tendrá derecho a una reducción de la jornada de
+    trabajo diaria, con la disminución proporcional del salario entre, al menos, un octavo y un
+    máximo de la mitad de la duración de aquélla; podrán concretar la elección de horario
     dentro de las secuencias establecidas en el centro.
-    El progenitor, adoptante, o acogedor de carácter preadoptivo o permanente, tendrá
-    derecho a una reducción de la jornada de trabajo con la disminución proporcional de
-    salario de, al menos, la mitad de la duración de aquella para el cuidado, durante la
-    hospitalización y tratamiento continuado del menor a su cargo afectado por cáncer
-    (tumores malignos, melanomas y carcinomas), o por cualquier otra enfermedad grave
-    que implique un ingreso hospitalario de larga duración y requiera la necesidad de su
-    cuidado directo, continuo y permanente, acreditado por el informe del Servicio Público de
-    Salud u órgano administrativo sanitario de la Comunidad Autónoma correspondiente y,
-    como máximo, hasta que el menor cumpla los 18 años. Estas reducciones de jornada
-    constituyen un derecho individual de los trabajadores, hombres o mujeres. No obstante, si
-    dos o más trabajadores de la Empresa generasen este derecho por el mismo sujeto
-    causante podrá limitarse su ejercicio simultáneo por razones justificadas de
-    funcionamiento.
-
+        \n\t
+        El progenitor, adoptante, o en el supuesto de guarda con fines de adopción, tendrá
+    derecho a una reducción de la jornada de trabajo con la disminución proporcional de salario
+    de, al menos, la mitad de la duración de aquella para el cuidado, durante la hospitalización
+    y tratamiento continuado del menor a su cargo afectado por cáncer (tumores malignos,
+    melanomas y carcinomas), o por cualquier otra enfermedad grave que implique un ingreso
+    hospitalario de larga duración y requiera la necesidad de su cuidado directo, continuo y
+    permanente, acreditado por el informe del Servició Público de Salud u órgano administrativo
+    sanitario de la Comunidad Autónoma correspondiente y, como máximo, hasta que el menor
+    cumpla los 18 años. Estas reducciones de jornada constituyen un derecho individual de los
+    trabajadores, hombres o mujeres. No obstante, si dos o más trabajadores de la Empresa
+    generasen este derecho por el mismo sujeto causante podrá limitarse su ejercicio
+    simultáneo por razones justificadas de funcionamiento de la Empresa. En estos supuestos,
+    se podrá solicitar la prestación económica por cuidado de menores afectados por cáncer o
+    enfermedad grave, que compensa la pérdida de ingresos que sufren los trabajadores
+    progenitores, adoptantes o acogedores. La solicitud se presenta ante la Entidad gestora o
+    Mutua colaboradora, de conformidad con el RD 1148/2011 de 29 de julio.
+        \n\t
         La Empresa aplicará lo regulado en la Ley 39/1999 de Conciliación de la Vida Laboral
     y Familiar de las Personas Trabajadoras y en la Ley Orgánica 3/2007 para la Igualdad
     efectiva de mujeres y hombres. En esa línea y para favorecer la conciliación de la vida
     laboral y familiar adoptará las siguientes medidas:
-    a) Los trabajadores con hijos menores de ocho años tendrán derecho a permutar el
+        \n\n\t
+        a) Los trabajadores con hijos menores de doce años tendrán derecho a permutar el
     turno de trabajo que les corresponda realizar (mañana, tarde, solape, noche) con otro
     trabajador del mismo centro de trabajo que realice las mismas funciones y tenga la misma
     jornada laboral.
-    b) Los trabajadores con hijos menores de ocho años de edad tendrán derecho de
+        \n\t
+        b) Los trabajadores con hijos menores de doce años de edad tendrán derecho de
     preferencia sobre las nuevas contrataciones a la elección de turno horario, sin necesidad
     de reducir la jornada laboral, cuando aquellas se realicen para cubrir un turno existente
     que quede vacante.
-    Los trabajadores de OO.CC. con hijos menores de cuatro años de edad tendrán
-    derecho de preferencia sobre las nuevas contrataciones en el supuesto de que se realicen
+        \n\n\t
+        Los trabajadores de OO.CC con hijos menores de doce años de edad tendrán derecho
+    de preferencia sobre las nuevas contrataciones en el supuesto de que se realicen
     contrataciones en jornada continua, siempre que el trabajador esté facultado para la
     realización de las funciones objeto de contrataciones.
-    Los trabajadores con hijos entre 8 y 10 años de edad tendrán la opción de continuar
-    prestando servicios a tiempo parcial, dentro de la secuencia de turnos habitual establecida
-    en su centro de trabajo, siempre que medie acuerdo con la Empresa. Esta reducción
-    temporal de jornada no estará asimilada a la reducción de jornada de guarda legal
-    establecida por ley.
-
-
-
+        \n\t
+        Los trabajadores con hijos entre doce y catorce años de edad tendrán la opción, en
+    casos excepcionales de salud o circunstancias familiares, de continuar prestando servicios
+    a tiempo parcial, dentro de la secuencia de turnos habitual establecida en su centro de
+    trabajo, siendo potestativa por parte de la Empresa su autorización. Esta reducción
+    temporal de jornada no estará asimilada a la reducción de jornada por razón de guarda
+    legal establecida por ley.
+        \n\n
     </string>
 
     <string formatted="false" name="art43Head">
         Artículo 43. Vacaciones.
     </string>
     <string formatted="false" name="art43Content">
+
+        \t
         Todos los trabajadores afectados por este Convenio tienen derecho a treinta días
     naturales de vacaciones anuales retribuidas. Este período podrá fraccionarse en dos,
     previa autorización de la Dirección de la Empresa, siempre con una duración mínima de
     ocho días cada uno de ellos.
-    Con independencia de este precepto general, la Empresa se compromete a que en
+        \n\t
+        Con independencia de este precepto general, la Empresa se compromete a que en
     cada centro se pueda pactar con los comités correspondientes cualquier otra distribución
     que resulte asumible para la organización del Centro.
-    Cuando el periodo de vacaciones fijado en el calendario de vacaciones del centro
+        \n\t
+        Cuando el periodo de vacaciones fijado en el calendario de vacaciones del centro
     coincida en el tiempo con una IT derivada del embarazo, el parto o la lactancia natural, o
-    con el periodo de suspensión previsto en el artículo 48.4 del ET, la trabajadora tendrá
-    derecho a disfrutar las vacaciones en fecha distinta a la de la IT o a la del disfrute del
-    permiso que por aplicación de dicho precepto le correspondiera, al final el periodo de
+    con el periodo de suspensión previsto en el artículo 48.4,5 y 7 del ET, los trabajadores
+    tendrán derecho a disfrutar las vacaciones en fecha distinta a la de la IT o a la del disfrute
+    del permiso que por aplicación de dicho precepto le correspondiera, al final el periodo de
     suspensión, aunque hubiera terminado el año natural a que corresponda.
-    Si durante el disfrute de las vacaciones el trabajador sufriera una enfermedad grave,
-    que conlleve hospitalización, no será computado el período de dicha hospitalización a
-    efectos de vacaciones. Dicho período será disfrutado cuando las necesidades del servicio
-    lo permitan.
+        \n\t
+        En el supuesto de que el periodo de vacaciones coincida con una incapacidad temporal
+    por contingencias distintas a las señaladas en el párrafo anterior que imposibilite al
+    rabajador disfrutarlas, total o parcialmente, durante el año natural a que corresponden, el
+    rabajador podrá hacerlo una vez finalice su incapacidad y siempre que no hayan
+    ranscurrido más de dieciocho meses a partir del final del año en que se hayan originado.
+        \n\t
     Las vacaciones se iniciarán en días laborables, de acuerdo con las secuencias de
-    turnos y horarios que rigen en los distintos centros de trabajo de la Empresa.
-    En Oficinas Centrales el cómputo se efectuará como la diferencia entre el primero y el
+    urnos y horarios que rigen en los distintos centros de trabajo de la Empresa.
+        \n\t
+        En Oficinas Centrales el cómputo se efectuará como la diferencia entre el primero y el
     último día laborable de cada período.
-    La Empresa podrá no autorizar períodos vacacionales por necesidades de trabajo, en
+        \n\t
+        La Empresa podrá no autorizar períodos vacacionales por necesidades de trabajo, en
     especial en aquellos centros de trabajo que dependan del tráfico turístico se excluirán
-    como períodos de vacaciones los de mayor actividad de la Empresa. No obstante en
-    todos los centros de trabajo, al menos el 3% de la plantilla podrá disfrutar de vacaciones
-    en el período comprendido entre el 15 de junio y el 15 de septiembre.
-    El personal que se incorpore a la Empresa dentro del año natural, disfrutará el
-    período vacacional proporcional al que por su permanencia en la Empresa le corresponda
-    ese año.
-    Al personal que cese en el transcurso del año natural y hubiese disfrutado un período
+    como períodos de vacaciones los de mayor actividad de la Empresa. No obstante en todos
+    os centros de trabajo, al menos el 5% de la plantilla podrá disfrutar de vacaciones en el
+    período comprendido entre el 15 de junio y el 15 de septiembre.
+        \n\t
+        El personal que se incorpore a la Empresa dentro del año natural, disfrutará el período
+    vacacional proporcional al que por su permanencia en la Empresa le corresponda ese año.
+        \n\t
+        Al personal que cese en el transcurso del año natural y hubiese disfrutado un período
     vacacional superior al que realmente le corresponda, le será descontado de su finiquito el
-    importe correspondiente a las vacaciones disfrutadas en exceso. Por el contrario, si en el
-    momento del cese le faltara por disfrutar vacaciones, su importe le será abonado en el
-    finiquito.
-    En todo caso las percepciones correspondientes a vacaciones anuales devengadas y
-    no disfrutadas y que sean retribuidas a la finalización de la relación laboral serán objeto
-    de liquidación y cotización complementaria según lo dispuesto en las Normas Generales
-    de la Seguridad Social.
-    Como principio para el derecho de opción de los trabajadores a un determinado turno
+    mporte correspondiente a las vacaciones disfrutadas en exceso. Por el contrario, si en el
+    momento del cese le faltara por disfrutar vacaciones, su importe le será abonado en el finiquito.
+        \n\t
+        En todo caso las percepciones correspondientes a vacaciones anuales devengadas y
+    no disfrutadas y que sean retribuidas a la finalización de la relación laboral serán objeto de
+    iquidación y cotización complementaria según lo dispuesto en las Normas Generales de
+    a Seguridad Social.
+        \n\t
+        Como principio para el derecho de opción de los trabajadores a un determinado turno
     de vacaciones, dentro del sistema de excepción establecido en el párrafo tercero de este
     artículo, se establece que el trabajador que optó y tuvo preferencia sobre otro trabajador
     en la elección del disfrute en temporada de actividad alta o en otro turno determinado,
     perderá ese derecho de opción hasta tanto no lo ejerciten el resto de sus compañeros en
     un centro de trabajo o punto de venta.
-    Aquellos trabajadores que hubieran causado alta con anterioridad al 31 de diciembre
-    de 1993, y que por el hecho de disfrutar sus vacaciones en períodos de menor actividad
-    tenían derecho a 8 días más de vacaciones anuales sobre las establecidas con carácter
-    general, continuarán manteniendo tal derecho como condición más beneficiosa de
-    carácter personal.
-    La concreción de la temporada baja vendrá determinada en cada uno de los centros
+        \n\t
+        Aquellos trabajadores que hubieran causado alta con anterioridad al 31 de diciembre de
+    1993, y que por el hecho de disfrutar sus vacaciones en períodos de menor actividad tenían
+    derecho a 8 días más de vacaciones anuales sobre las establecidas con carácter general,
+    continuarán manteniendo tal derecho como condición más beneficiosa de carácter personal.
+        \n\t
+      La concreción de la temporada baja vendrá determinada en cada uno de los centros
     de trabajo junto con el calendario anual.
-        </string>
+
+    \n\n
+
+    </string>
+
 
 
     <string formatted="false" name="art44Head">
@@ -1395,6 +1522,8 @@
     para lucrar la prestación de jubilación de la Seguridad Social al cumplir los 65 años o la
     primera edad a partir de dicha fecha exigida por la normativa de Seguridad Social tener
     derecho a la prestación de jubilación.\n\n
+
+
 
         En el momento de acceder a la misma, percibirán una compensación por la extinción
     del contrato variable en función de los años de servicio, como se detalla a continuación.\n\n
