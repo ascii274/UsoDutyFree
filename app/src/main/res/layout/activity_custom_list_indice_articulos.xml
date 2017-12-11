@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:elevation="12dp"
+        android:padding="5dp"
+        tools:ignore="UselessParent"
+        tools:targetApi="lollipop">
+
+        <TextView
+            android:id="@+id/txVwCustomLisCon_Id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="0dp"
+
+            android:text="TextView"
+            android:textAlignment="viewStart"
+            tools:ignore="HardcodedText"/>
+
+        <TextView
+            android:id="@+id/txVwCustoLisCon_Desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txVwCustomLisCon_Id"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="0dp"
+            android:text="TextView"
+            android:textAlignment="viewStart"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText"/>
+
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

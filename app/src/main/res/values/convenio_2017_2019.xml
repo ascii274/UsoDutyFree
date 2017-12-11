@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:android="http://schemas.android.com/tools">
+
+
+
+    <string formatted="false" name="art01Head">
+        Ámbito Territorial.
+    </string>
+    <string formatted="false" name="art01Content">
+
+        El presente Convenio es de aplicación a todos los centros de trabajo ubicados en
+    España que la Empresa World Duty Free Group, S.A., posee en la actualidad o que
+    puedan crearse durante su período de vigencia.\n\n
+
+        ok.
+    </string>
+
+    <string formatted="false" name="art02Head">
+        Ámbito Funcional.
+
+    </string>
+    <string formatted="false" name="art02Content">
+        El presente Convenio Colectivo será de aplicación a los trabajadores World Duty Free
+    Group, S.A incluidos en los ámbitos territorial y personal cualquiera que sea las funciones
+    que desempeñen.\n\n
+
+        ok
+    </string>
+    
+    <string formatted="false" name="art03Head">
+        Ámbito Personal.
+    </string>
+    <string formatted="false" name="art03Content">
+
+        Se regirá por el presente Convenio el personal que presta sus servicios en World Duty
+    Free Group, S.A, con excepción del siguiente: \n\n
+     a) Presidente, Consejeros y Secretario del Consejo de Administración.\n
+     b) Consejero-Delegado, Directores, y todos aquellos trabajadores integrados en el
+    Grupo Profesional I, que se define en el artículo 24 del presente Convenio.\n\n
+
+        ok
+
+    </string>
+    
+    <string formatted="false" name="art04Head">
+        Ámbito Temporal.
+    </string>
+    <string formatted="false" name="art04Content">
+        El presente Convenio entrará en vigor en el momento de su publicación en el Boletín
+    Oficial del Estado, sin perjuicio del carácter retroactivo del incremento salarial pactado, al
+    1 de enero de 2017 o de la determinación de fechas específicas de entrada en vigor de
+    aquellos conceptos en los que expresamente así se establezca. El Convenio extenderá su
+    vigencia hasta el 31 de diciembre de 2019. \n\n
+
+        ok
+    </string>
+    
+    <string formatted="false" name="art05Head">
+        Incremento Salarial
+    </string>
+    <string formatted="false" name="art05Content">
+
+        Con efectos 1 de enero de 2017 el salario mínimo garantizado (SMG), se incrementará
+    progresivamente a partir de la consecución de 685.000.000,00 euros (aplicando un
+    incremento adicional del 0,25 % por cada 2,5 % de incremento sobre la superación de la
+    venta mínima) según la siguiente tabla:\n\n
+
+
+        ---------------------------------------------------------------\n
+        Ventas 2017 (Euros) | Incremento SMG \n
+        ---------------------------------------------------------------\n
+        685.000.000,00 € \t|\t 0.50%\n
+        702.125.000,00 € \t|\t 0.75%\n
+        719.678.125,00 € \t|\t 1.00%\n
+        737.670.078,13 € \t|\t 1.25%\n
+        756.111.830,08 € \t|\t 1.50%\n
+        775.014.625,83 € \t|\t 1.750%\n
+        794.389.991,48 € \t|\t 2.00%\n
+        814.249.741,26 € \t|\t 2.25%\n
+        834.605.984,79 € \t|\t 2.50%\n
+        \n\n
+
+        Con efectos 1 de enero de 2018 el salario mínimo garantizado (SMG), se incrementará
+    progresivamente a partir de la consecución de 715.000.000,00 euros (aplicando un
+    incremento adicional del 0,25 % por cada 2,5 % de incremento sobre la superación de la
+    venta mínima) según la siguiente tabla:\n\n
+
+        ---------------------------------------------------------------\n
+        Ventas 2018 (Euros) | Incremento SMG \n
+        ---------------------------------------------------------------\n
+        715.000.000,00 € \t|\t 0.50%\n
+        732.875.000,00 € \t|\t 0.75%\n
+        751.196.875,00 € \t|\t 1.00%\n
+        769.976.796,88 € \t|\t  1.25%\n
+        789.226.216,80 € \t|\t 1.50%\n
+        808.956.872,22 € \t|\t 1.75%\n
+        829.180.794,02 € \t|\t 2.00%\n
+        849.910.313,87 € \t|\t 2.25%\n
+        871.158.071,72 € \t|\t 2.50%\n
+        \n\n
+
+        Con efectos 1 de enero de 2019 el salario mínimo garantizado (SMG), se incrementará
+    progresivamente a partir de la consecución de 770.000.000,00 euros (aplicando un incremento adicional del 0,25 % por cada 2,5 % de incremento sobre la superación de la
+    venta mínima) según la siguiente tabla:\n\n
+
+
+        ---------------------------------------------------------------\n
+        Ventas 2019 (Euros) | Incremento SMG \n
+        ---------------------------------------------------------------\n
+        770.000.000,00 € \t|\t 0.50%\n
+        789.250.000,00 € \t|\t 0.75%\n
+        808.981.250,00 € \t|\t 1.00%\n
+        829.205.781,25 € \t|\t 1.25%\n
+        849.935.925,78 € \t|\t 1.50%\n
+        871.184.323,93 € \t|\t 1.75%\n
+        892.963.932,02 € \t|\t 2.00%\n
+        915.288.030,32 € \t|\t 2.25%\n
+        938.170.231,08 € \t|\t 2.50%\n
+        \n\n
+
+
+
+         Asimismo, los conceptos Ayuda Familiar, Becas, Prestación por Matrimonio, Prestación
+    de Natalidad y el concepto Condición Más Beneficiosa Básica, se incrementarán en la
+    misma proporción.\n
+    A partir del 1 de enero de 2017 la Empresa entregará a cuenta un 1,25% de todos los
+    conceptos afectados por los incrementos salariales recogidos en el presente artículo.\n
+    A partir del 1 de enero de 2018 la Empresa entregará a cuenta un 1% de todos los
+    conceptos afectados por los incrementos salariales recogidos en el presente artículo.\n
+    A partir del 1 de enero de 2019 la Empresa entregará a cuenta un 1% de todos los
+    conceptos afectados por los incrementos salariales recogidos en el presente artículo.\n
+    Se establece una cláusula de actualización del IPC, siempre que ésta sea superior a
+    la subida aplicable según dichas tablas, operando siempre la cifra más beneficiosa de los
+    dos escenarios.\n\n
+
+        ok
+    </string>
+    
+    <string formatted="false" name="art06Head">
+        Denuncia.
+    </string>
+    <string formatted="false" name="art06Content">
+        \t1) La denuncia del presente Convenio Colectivo efectuada por cualquiera de las
+    partes legitimadas para ello, de conformidad con el artículo 87 del Estatuto de los
+    Trabajadores, se efectuará por escrito, en el que se harán constar los Capítulos, Artículos
+    o Preceptos que se pretenden revisar y el alcance de la revisión. El escrito se presentará,
+    por la parte denunciante, a la otra, antes del último mes de vigencia del Convenio o de la
+    fecha de expiración señalada a cada Título, en su caso.\n
+        \t2) Las condiciones pactadas en el presente Convenio subsistirán en todo caso, hasta
+    su revisión, con excepción de aquellas cláusulas en las que expresamente se prevea su
+    no subsistencia en caso de prórroga del Convenio o se prevea su aplicación para fechas
+    determinadas.\n
+        \tSi transcurridos 12 meses desde la finalización del periodo de vigencia del presente
+    Convenio no se hubiese alcanzado un acuerdo para su renovación, las partes, en el marco
+    de lo establecido en el artículo 86.3 del Estatuto de los Trabajadores, convienen en
+    solventar las discrepancias existentes en la negociación mediante el sometimiento
+    voluntario a los procedimientos establecidos mediante los acuerdos interprofesionales de
+    ámbito estatal.\n\n
+
+    ok
+
+    </string>
+    
+    <string formatted="false" name="art07Head">
+        Garantías Personales
+    </string>
+    <string formatted="false" name="art07Content">
+        \tCon independencia de las condiciones establecidas en el texto del presente Convenio,
+    se respetarán las mejoras que, a título individual o colectivo diferenciado, pudieran disfrutar
+    algunos de los trabajadores.\n\n
+
+        ok
+
+    </string>
+    
+    <string formatted="false" name="art08Head">
+        Vinculación a la totalidad.
+
+    </string>
+    <string formatted="false" name="art08Content">
+        \tEn el supuesto de que por actos de la Autoridad Laboral competente, o, en su caso, de
+    la jurisdiccional, se impidiese la entrada en vigor del presente Convenio o de algunos de
+    sus artículos, el Convenio quedaría sin efecto en su totalidad y su contenido deberá ser
+    reconsiderado totalmente por la Comisión Negociadora del Convenio, que, a estos efectos,
+    se reunirá en un plazo máximo de ocho días.\n\n
+
+        ok
+
+    </string>
+    
+    <string formatted="false" name="art09Head">
+        Comisión Mixta de Seguimiento e Interpretación.
+        
+    </string>
+    <string formatted="false" name="art09Content">
+    \tSe crea una Comisión Mixta del Convenio. Esta Comisión dará su interpretación del
+    Convenio, cuando una de las partes estime que la aplicación dada a las normas del mismo
+    no es correcta. Las funciones de la Comisión Mixta serán, además, las siguientes:\n
+        \ta) Informar y asesorar a la Dirección, Comités de Empresa, Delegados de Personal
+    y a los trabajadores sobre cualquier duda o incidencia que pueda producirse sobre el
+    articulado del Convenio, para una interpretación correcta. Recibirá cuantas consultas en
+    este sentido se le hagan.\n
+        \tb) Entender de forma previa y obligatoria a la vía jurisdiccional en relación a los
+    conflictos colectivos que pudieran interponerse con respecto a la aplicación e interpretación
+    del presente Convenio Colectivo.\n
+        \tc) Cuantas otras medidas tiendan a fomentar la aplicación práctica del Convenio.\n
+        \tEsta Comisión estará integrada por un número igual de representantes de los
+    Trabajadores y de la Empresa. Se designarán dos Vocales por cada uno de los sindicatos
+    firmantes del presente Convenio, ponderándose el voto en función de la representatividad
+    en el Comité Intercentros.\n
+        \tUn asesor sindical por cada sindicato firmante, a designar por los Trabajadores, así
+    como igual número de asesores por parte de la Empresa, podrán asistir a las reuniones de
+    la Comisión, con voz, pero sin voto.\n
+        \tEn caso de dimisión o cese como Delegados de Personal, o miembros de los Comités,
+    baja en la Empresa o por cualquier otra causa, la sustitución se realizará por la parte a la
+    que pertenezca el Vocal, y según acuerden los representantes sociales o la Empresa
+    respectivamente.\n
+        \tSe nombrará un Secretario de la Comisión, por elección entre todos los Vocales,
+    puesto que habrá de recaer en un Vocal representante laboral. A solos efectos de coordinar
+    las deliberaciones de la Comisión, se elegirá un Presidente, de la misma forma que el
+    Secretario, pero de entre los Vocales representantes de la Empresa. Todos los Vocales
+    tendrán los mismos derechos que el Presidente y Secretario. De cada reunión el Secretario
+    levantará Acta que se aprobará bien inmediatamente después de finalizada la reunión, o
+    al día siguiente de ésta.\n
+        \tLos asuntos sometidos a la Comisión Mixta revestirán el carácter de ordinarios y
+    extraordinarios. Otorgará tal calificación cualquiera de las partes. En el primer supuesto, la
+    Comisión Mixta Paritaria deberá resolver en el plazo de veinte días y, en los segundos, en
+    tres días hábiles.\n
+        \tTal como establece la Disposición Adicional 1.a del presente Convenio, si no pudiera
+    llegarse a un acuerdo en el seno de esta comisión, ambas partes convienen en acudir a
+    los mecanismos establecidos en el V Acuerdo de Solución Autónoma de Conflictos
+    Laborales (ASAC). En todo caso, la adhesión y sometimiento al procedimiento de arbitraje
+    será siempre con carácter voluntario.\n
+        \tCualquiera de las partes podrá tomar la iniciativa en relación con la convocatoria de la
+    comisión Mixta, fijándose la fecha de la reunión en el plazo de quince días desde la
+    convocatoria. Los miembros de la comisión Mixta tendrán acceso a cualquier información
+    que pueda repercutir en la normativa de este Convenio.\n
+        \tCon carácter previo a la interposición de Conflicto Colectivo siempre habrá de reunirse
+    la Comisión Mixta. La reunión deberá celebrarse no más tarde de los 7 días siguientes a
+    su Convocatoria, salvo que por razones de agenda de las partes éstas establezcan un plazo superior.
+        \n
+        \t
+        La Comisión Mixta fija su domicilio en las Oficinas Centrales de la Compañía en
+    Madrid, calle Josefa Valcárcel no 30.
+        \n\n
+
+
+
+    ok
+
+
+    </string>
+    
+    <string formatted="false" name="art10Head">
+        Artículo 10. Cumplimiento de Condiciones.
+
+    </string>
+    <string formatted="false" name="art10Content">
+        \t
+        La Empresa y los trabajadores se comprometen a cumplir y respetar, tanto lo pactado
+    en este Convenio, como todas las disposiciones legales que, dentro del ámbito laboral, se
+    dicten o entren en vigor durante la vigencia del mismo. Las organizaciones sindicales, se
+    comprometen igualmente a mantener la normalidad laboral en los centros de la Empresa,
+    en relación con las materias y condiciones que en el Convenio se pacten.
+        \n\t
+        En todo caso, cuando los trabajadores consideren justificado hacer uso del derecho a
+    la huelga, tal derecho se ejercerá con arreglo a lo dispuesto en la legislación vigente.
+        \n\n
+
+        ok
+
+    </string>
+    
+    <string formatted="false" name="art11Head">
+        Organizción.
+    </string>
+    <string formatted="false" name="art11Content">
+        \t
+        Es competencia de la Empresa la organización general del trabajo, dentro de las
+    disposiciones legales, correspondiéndole la planificación y estructuración del mismo, así
+    como el señalamiento de previsiones, presupuestos y objetivos de todos los centros de
+    trabajo y la descripción y asignación de funciones y responsabilidad de cada sección o
+    departamento y demás atribuciones que la normativa laboral le atribuya.
+        \n
+        \t
+        La ordenación práctica y concreta del trabajo es competencia y responsabilidad de los
+    mandos intermedios que la desarrollarán de acuerdo con las instrucciones impartidas por
+    la Empresa.
+        \n
+        \t
+        En todo caso, la Empresa viene obligada a informar al Comité del Centro respectivo de
+    cuantas medidas adopte en relación con cualquier gestión que pueda afectar al desarrollo
+    profesional de los trabajadores y en especial de la implantación de medios y métodos de
+    control o de evaluación de rendimientos, sin perjuicio de lo establecido en el artículo 64,
+    Uno - Cuatro, del Estatuto de los Trabajadores.
+        \n\t
+        En cualquier caso, en el supuesto de que como consecuencia de la mecanización o de
+    los progresos técnicos que se den en los distintos puestos de trabajo se dé causa para la
+    disminución de retribuciones o supresión de puestos de trabajo, se abrirá un período de
+    consultas con los representantes de los trabajadores por un período no inferior a 30 días.
+        \n\n
+
+        ok
+
+    </string>
+    
+    <string formatted="false" name="art12Head">
+        Artículo 12. Compensación de Condiciones.
+
+    </string>
+    <string formatted="false" name="art12Content">
+        \t
+        La entrada en vigor de este Convenio implica la sustitución de las condiciones laborales
+    vigentes hasta la fecha por las establecidas en el presente pacto colectivo.
+        \n\t
+    Cuando el importe total, en cómputo anual, de las condiciones económicas resultantes
+    de las disposiciones legales futuras, sea inferior al de las establecidas en este Convenio,
+    prevalecerán éstas.
+        \n\n
+
+        ok
+
+    </string>
+    
+    <!---  -->
+    <string formatted="false" name="art13Head">
+        Artículo 13. Disposiciones Comunes.
+    </string>
+    
+    <string formatted="false" name="art13Content">
+        \t
+        Los distintos cometidos asignados a cada puesto de trabajo son enunciativos. Todo
+    trabajador está obligado a ejecutar cuantos trabajos u operaciones le ordenen sus
+    superiores dentro de los cometidos propios de su función y especialidad en el grupo
+    profesional que lo califica.
+        \n\n
+
+        ok
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art14Head">
+        Artículo 14. Contratos Formativos.
+
+    </string>
+    <string formatted="false" name="art14Content">
+        \t
+        En prácticas.
+        \n\t
+        La Empresa podrá contratar a trabajadores en prácticas cumpliendo con los requisitos
+    establecidos en el artículo 11 del Estatuto de los Trabajadores, si bien tales contrataciones
+    sólo podrán realizarse para puestos de trabajo encuadrados en el Grupo Profesional II y III.
+    Dichos contratos se circunscribirán al centro de trabajo de la Oficina de Madrid y al
+    personal administrativo de los centros adscritos a las direcciones operativas. El salario
+    establecido para los trabajadores en prácticas no será en ningún caso inferior al 95% del
+    salario establecido en Convenio Colectivo para el Grupo Profesional correspondiente.
+        \n\n
+
+        ok
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art15Head">
+    Artículo 15. Contrato a tiempo parcial.
+    </string>
+    <string formatted="false" name="art15Content">
+        \t
+        El contrato a tiempo parcial es aquel por el que el trabajador se compromete a prestar
+    sus servicios durante un número de horas inferior a la jornada anual establecida en el
+    Convenio Colectivo, siendo la retribución del trabajador proporcional a la jornada realizada.
+        \n\t
+        Como norma general no podrán celebrarse contratos a tiempo parcial para desempeñar
+    jornadas inferiores a 12 horas semanales o 48 al mes salvo circunstancias excepcionales
+    que puedan concurrir, en cuyo caso se dará traslado de la contratación efectuada y motivos
+    de la misma al Comité de Empresa.
+        \n\t
+        En los contratos de trabajo a tiempo parcial podrá establecerse la realización de horas
+    complementarias que en ningún caso podrán exceder del 30% de las horas ordinarias
+    contratadas.
+        \n\t
+        Las horas complementarias podrán distribuirse con carácter trimestral en función de
+    las necesidades organizativas y productivas de la empresa, debiendo comunicar la
+    empresa al trabajador la fecha y horario concreto de realización de las horas
+    complementarias con un preaviso de 7 días.
+        \n\t
+        La consolidación de las horas complementarias se realizará en el primer tramo en
+    un 35% de la media anual de las realizadas en los primeros dos años y en un 45% de la
+    media anual de las realizadas en los siguientes dos años.
+        \n\n
+
+        ok
+
+    </string>
+    
+    
+    <!---  -->    
+    <string formatted="false" name="art16Head">
+    Artículo 16. Contrato de trabajo para trabajadores fijos discontinuos.
+    </string>
+    <string formatted="false" name="art16Content">
+        \t
+        Aquellos trabajadores que hayan venido siendo contratados por duración determinada
+    durante dos o más temporadas correlativas en las tiendas de apertura temporal, tendrán
+    la condición de trabajadores fijos de carácter discontinuo.
+        \n\t
+        El llamamiento a trabajadores se efectuará por riguroso orden de antigüedad dentro de
+    la categoría profesional y a medida que las necesidades del tráfico demanden un mayor
+    número de trabajadores y en función de la jornada contratada. La cesación de los servicios
+    se llevará a cabo siguiendo el mismo orden, produciéndose por tanto el cese en primer
+    lugar de los trabajadores de menor antigüedad.
+        \n\t
+        Los períodos trabajados en virtud de contratos por tiempo determinado (con excepción
+    de los celebrados por sustitución o interinidad) en las dos temporadas anteriores a la
+    adquisición de la condición de fijos discontinuos, serán reconocidos a efectos de cómputo
+    de antigüedad en la Empresa, produciéndose repercusión económica por este concepto a
+    partir de la fecha de formalización del contrato de trabajo.
+        \n\t
+        En los supuestos de centros de trabajo que permanezcan abiertos durante todo el año,
+    aquellos trabajadores que hayan sido contratados mediante contratos de duración
+    determinada durante dos temporadas seguidas y coincidentes adquirirán la condición de
+    fijos discontinuos, computándose a efectos de antigüedad los períodos trabajados en las
+    dos temporadas anteriores a la adquisición de la condición de fijos discontinuos.
+        \n\t
+        Durante la temporada en que se produzca el llamamiento de los trabajadores fijos
+    discontinuos no se podrá proceder a la contratación mediante Empresas de Trabajo
+    Temporal, hasta que no se produzca el llamamiento de la totalidad de los trabajadores fijos
+    discontinuos del centro de trabajo correspondiente.
+        \n\n
+    </string>
+    
+    <!---  -->
+    <string formatted="false" name="art17Head">
+        Artículo 17. Derecho de preferencia.
+    </string>
+    <string formatted="false" name="art17Content">
+        \t
+        Los trabajadores contratados a tiempo parcial que hubieran prestado servicios más de
+    tres años y los trabajadores con contrato de trabajo fijo discontinuo con una antigüedad en
+    la empresa superior a tres temporadas, tendrán derecho preferente a ocupar la primera
+    vacante a tiempo completo que se produzca en su centro de trabajo y en la misma
+    categoría o grupo profesional, debiendo formular petición previa por escrito en el plazo de
+    siete días desde que la empresa publicara la existencia de dicha vacante en el Tablón de
+    Anuncios y la comunicara al Comité del centro. Las vacantes se cubrirán previa solicitud
+    por escrito de los interesados por riguroso orden de antigüedad en la Empresa y en el
+    supuesto de concurrencia de varias peticiones con la misma antigüedad, prevalecerá la
+    solicitud del trabajador de mayor edad.
+        \n\n
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art18Head">
+        Artículo 18. Contrato de Circunstancias de la Producción.   
+    </string>
+    <string formatted="false" name="art18Content">
+        \t
+        Se estará a lo dispuesto en el artículo 15 en el Estatuto de los Trabajadores y a lo
+    regulado en cuanto a duración máxima en el Convenio Sectorial, que actualmente
+    establece que la duración máxima de este contrato será de doce meses, dentro de un
+    periodo de dieciocho meses, sin que la duración total del contrato pueda exceder de dicho
+    límite máximo, o del que cada momento fuera de aplicación en la legislación general y en
+    el Convenio Sectorial.
+        \n\t
+        Podrá utilizarse la modalidad contractual de obra o servicio determinado para
+    cualesquiera supuesto que reúnan los requisitos legalmente establecidos para este tipo de
+    contratación.
+        \n\n
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art19Head">
+        Artículo 19. Conversión en indefinidos.
+    </string>
+    <string formatted="false" name="art19Content">
+        \t
+        Los trabajadores contratados por contratos de carácter temporal, cualquiera que sea
+    su modalidad, que hayan estado vinculados a la Empresa en virtud de dos o más contratos
+    y acumulen un periodo de prestación de servicios superior a 24 meses dentro de un
+    periodo de 30 meses, adquirirán la condición de trabajador indefinido. Se excluyen de la
+    aplicación de este cómputo los contratos formativos e interinidad.
+        \n\n
+
+    </string>
+    <!---  -->    
+    <string formatted="false" name="art20Head">
+        Artículo 20. Período de prueba.
+
+    </string>
+    <string formatted="false" name="art20Content">
+        \t
+        El ingreso de los trabajadores se considerará hecho a título de prueba, cuyo período
+    será variable según la índole del puesto a cubrir y que, en ningún caso, podrá exceder de
+    los siguientes períodos:\n\t
+        Grupo Profesional II: 6 meses.\n\t
+    Grupo Profesional III y IV: 2 meses.\n\t
+    Grupo Profesional V: 1 mes.\n\t
+        Sólo se entenderá que el trabajador está sujeto al período de prueba si así consta por
+    escrito. Durante el período de prueba, por la Empresa y el trabajador podrá resolverse
+    libremente el contrato sin plazo de preaviso y sin derecho a indemnización alguna.
+        \n\n
+        ok
+
+
+    </string>
+    <!---  -->    
+    <string formatted="false" name="art21Head">
+    Artículo 21. Trabajos de distinto Grupo Profesional Superior.
+    </string>
+    <string formatted="false" name="art21Content">
+        \t
+        Cuando el trabajo lo haga preciso y existan, además, razones técnicas u organizativas
+    que lo justifiquen y por el tiempo imprescindible para su atención siempre de manera
+    temporal, el trabajador estará obligado a realizar funciones de grupo superior a las que
+    correspondan al profesional que tuviera reconocido. Si dichos trabajos rebasasen los
+    quince días deberán ser ordenados por escrito y cuando superen seis meses, en el período
+    de un año, u ocho durante dos, el comité de empresa de cada centro podrá reclamar ante
+    la Empresa la convocatoria para la cobertura de la función vacante excluyendo aquellos
+    casos en que las funciones se realicen por sustitución de un trabajador con derecho a la
+    reserva del puesto de trabajo.
+        \n\t
+        El trabajador que realice funciones de grupo profesional superior tendrá derecho a
+    percibir la diferencia existente entre el salario del grupo profesional de origen y el de las
+    funciones del grupo superior encomendado.
+        \n\n
+        ok
+
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art22Head">
+        Artículo 22. Trabajos de Grupo Profesional inferior.
+    </string>
+    <string formatted="false" name="art22Content">
+        \t
+        La Empresa, por necesidad perentoria e imprevisible, podrá ordenar la realización de
+    tareas correspondientes a grupo profesional inferior al que pertenezca el trabajador y por
+    el tiempo imprescindible. El trabajador afectado, mantendrá el salario y beneficios de su
+    propio grupo profesional.
+
+        \n\n
+        ok
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art23Head">
+    Artículo 23. Criterios Generales.
+    </string>
+    <string formatted="false" name="art23Content">
+        \t
+        Los trabajadores de la Empresa afectados por este Convenio estarán clasificados en
+    grupos profesionales en atención a las funciones que desarrollen y de acuerdo con las
+    definiciones que se especifican en los artículos siguientes a cuyo objeto se han tenido en
+    cuenta factores de autonomía, mando, responsabilidad, conocimientos, iniciativa y
+    complejidad de los trabajos a desarrollar.
+        \n\t
+        La enumeración de los grupos profesionales que se establece no supone obligación
+    para la Empresa de tener provistos todos ellos si sus necesidades no lo requieren. Por otro
+    lado, esta clasificación y demás normas que la contemplan tienen por objeto alcanzar una
+    estructura profesional acorde a las necesidades de la Empresa, que facilite la mejor
+    integración de todo el colectivo en las tareas productivas y organizativas y su mejor
+    adecuación a un puesto de trabajo.
+        \n\t
+        La clasificación se realizará por interpretación y aplicación de los criterios generales y
+    por las funciones básicas más representativas, sin que tal clasificación suponga, en ningún
+    caso, que se excluya en los puestos de trabajo de cada grupo profesional la realización de
+    tareas complementarias que serían básicas para los puestos incluidos en grupos
+    profesionales inferiores.
+        \n\n
+
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art24Head">
+    Artículo 24. Grupos Profesionales.
+    </string>
+    <string formatted="false" name="art24Content">
+        a) Grupo Profesional I: Trabajadores que tienen la responsabilidad directa en la
+    gestión, comprendiendo trabajos de decisión y funciones de organización, planificación,
+    ejecución y control. Poseen un cierto grado de autonomía, iniciativa y responsabilidad,
+    realizando labores de jefatura y mando, asumiendo la responsabilidad global de un área
+    funcional, departamento o centro de trabajo en la Empresa.\n\n
+        b) Grupo Profesional II: Trabajadores que pueden tener responsabilidad de mando
+    dirigiendo y coordinando los trabajos de un sector o grupo de trabajadores, efectuando
+    sus tareas con autonomía dentro del área funcional en la que están incardinados.\n\n
+    c) Grupo Profesional III: Trabajadores cuyo trabajo requiere amplios conocimientos
+    y destrezas dentro de las diferentes especialidades que supongan un determinado grado
+    de profesionalidad en el desempeño de los trabajos asignados, y que pueden coordinar o
+    supervisar el trabajo de un grupo de trabajadores.\n\n
+    d) Grupo Profesional IV: Aquellos trabajadores que aunque realicen tareas con
+    instrucciones precisas, necesitan conocimientos profesionales, actitudes prácticas o
+    exigencia de razonamiento, comportando, en todo caso, responsabilidad en la ejecución,
+    aunque bajo algún tipo de supervisión.\n\n
+    e) Grupo Profesional V: Trabajadores que realizan sus trabajos según instrucciones
+    concretas y precisas con alto grado de dependencia y supervisión jerárquica y funcional,
+    (comprendiendo la realización de trabajos auxiliares o complementarios de los anteriores),
+    así como aquellos que requieran una aportación de esfuerzo físico.
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art25Head">
+    Artículo 25. Movilidad Geográfica. Traslado.        
+    </string>
+    <string formatted="false" name="art25Content">        
+        Se entiende por traslado el cambio de un puesto de trabajo de un centro a otro y que
+    implique para el trabajador un cambio permanente de residencia a otra provincia.\n\n
+    El traslado podrá realizarse:\n
+    a) A instancias del interesado, formulada por escrito.\n
+    b) Por mutuo acuerdo entre Empresa y trabajador.\n
+    c) Por decisión de la Dirección de la Empresa, en el caso de necesidades del
+    servicio.\n\n
+        En el supuesto a) el trabajador no tendrá derecho a indemnización alguna.
+    Los desplazamientos temporales voluntarios a nuevos centros de trabajo no
+    supondrán traslados en los términos previstos en el presente artículo y en ellos se estará,
+    en cuanto a retribuciones se refiere, a lo acordado entre el trabajador desplazado y la
+    Empresa.\n\n
+     En el supuesto b) se estará a lo convenido entre ambas partes.\n
+        Cuando el traslado se efectúe por necesidades del servicio y siempre que existan
+    probadas razones técnicas, organizativas o de productividad que lo justifiquen, la
+    Dirección de la Empresa lo podrá llevar a cabo, sin perjuicio de lo establecido en el
+    artículo 40 del Estatuto de los Trabajadores.\n\n
+    Con ocasión del traslado forzoso, la Empresa:\n
+    a) Abonará al trabajador, previa justificación por éste, todos los gastos de viaje de él
+    y su familia, así como la de los enseres.\n
+    b) Una indemnización consistente en dos meses de salario.\n
+    Cuando se produzca vacante a cubrir, del grupo del trasladado, en el centro de trabajo
+    de origen, aquél tendrá derecho preferente a ocupar dicha vacante siempre que cumpla
+    con los requerimientos y exigencias de la misma.
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art26Head">
+    Artículo 26. Comisión de Promoción Profesional.
+
+    </string>
+    <string formatted="false" name="art26Content">
+    Ambas partes reconocen la importancia de la promoción profesional como herramienta
+    de motivación dentro de la empresa.\n\n
+        Se nombrará una Comisión de Promoción Profesional con sede en OO.CC. cuya
+    composición será la misma de la Comisión Mixta regulada en el artículo 9 del presente
+    Convenio. A esta Comisión se le dará traslado de todas las convocatorias que no afecten
+    a puestos de confianza ni de libre designación y además sus miembros participarán en la
+    aplicación y corrección de pruebas en caso de la promoción a Grupo III.\n\n
+        En el plazo de un año a partir de la firma del Convenio Colectivo, tendrá como objetivo
+    prioritario llevar a cabo una evaluación del proceso actual de promoción a Grupo III y
+    estudiará posibles alternativas que permitan la agilización del mismo. Asimismo la
+    Comisión de Promoción Profesional analizará la posibilidad de establecer mecanismos de
+    promoción a Grupo IV, en la medida en que sean compatibles con la organización de la
+    actividad productiva.
+    </string>
+
+    
+     <!---  -->    
+    <string formatted="false" name="art27Head">
+    Artículo 27. Cobertura de vacantes.
+    </string>
+    <string formatted="false" name="art27Content">
+        Sin perjuicio de las garantías establecidas en el artículo 16, cuando la Empresa
+    decida cubrir una vacante o una plaza de nueva creación, publicará en el tablón de
+    anuncios de los centros los requerimientos de aptitud oportunos para asegurar la
+    capacidad profesional y las condiciones físicas y psicológicas necesarias.\n\n
+
+        El sistema de promoción profesional será de aplicación a la totalidad de los
+    trabajadores afectados por el presente Convenio, estableciéndose dos procedimientos.\n\n
+
+    a) Libre designación de la Empresa: será libremente designado por la Empresa todo
+    aquel personal encuadrado en el Grupo Profesional II, así como todos los encuadrados
+    en el Grupo Profesional III cuyos puestos sean considerados de confianza, personal
+    adscrito a la Dirección y Secretarias de Dirección. En este supuesto se establece con
+    carácter general una preferencia a favor de los trabajadores de la empresa para ocupar
+    vacantes en niveles superiores a aquel en el que estuvieran adscritos.\n\n
+
+    b) Pruebas de ascenso: Se dará traslado a la Comisión de Promoción Profesional
+    de todas las convocatorias que no afecten a puestos de confianza y además participarán
+    en la aplicación de las pruebas y su corrección en caso el Grupo profesional III. Cuando
+    existan plazas vacantes y éstas vayan a cubrirse mediante pruebas de ascenso se dará
+    la correspondiente difusión a través de los tablones de anuncios de los centros y se
+    pondrá en conocimiento de la Comisión de Promoción Profesional con la suficiente
+    antelación haciendo constar en la convocatoria el puesto vacante, grupo profesional y
+    categoría. Se abrirá un periodo de diez días para la presentación de candidaturas; los
+    interesados habrán de señalar el puesto que ocupan en la actualidad, experiencia, cursos
+    realizados en su caso y demás circunstancias relevantes a efectos de selección.
+    Transcurrido el plazo, la Comisión de Promoción Profesional señalará día y hora para la
+    realización de las correspondientes pruebas, fijando el aviso en los tablones de anuncios
+    al menos con cinco días de antelación. Las pruebas, siempre que las vacantes no sean
+    de libre designación de la Empresa, se desarrollarán en presencia de la Comisión de
+    Promoción Profesional. Igualmente, siempre que las vacantes a cubrir no sean de libre
+    designación de la Empresa, la Comisión de Promoción Profesional corregirá las pruebas
+    y decidirá por mayoría qué trabajador reúne las condiciones objetivas para promocionar,
+    en el caso que ninguno de los candidatos reúna las condiciones objetivas requeridas
+    declarará el concurso desierto. La Comisión de Promoción Profesional dará traslado de la
+    resolución a la dirección de la Empresa, que propondrá la candidatura de mayor
+    puntuación para la cobertura de la vacante. Caso de existir dos o más trabajadores con
+    igual puntuación la decisión de quién cubrirá la vacante será adoptada teniendo en
+    cuenta, en su caso, la preferencia para el género menos representado en el puesto a
+    cubrir.\n\n
+
+        Con independencia de los requisitos objetivos de idoneidad para cubrir el puesto la
+    Comisión de Promoción Profesional tomará en consideración las siguientes circunstancias
+    entre otras: que el candidato haya realizado con aprovechamiento cursos y estudios de
+    perfeccionamiento profesional específicos, la inexistencia de sanciones frente al
+    trabajador, y aquellas recogidas en el Procedimiento de Promoción Profesional.\n\n
+
+        En cualquier caso, se anunciarán siempre los puestos a cubrir en los tablones de los
+    centros pudiendo el personal adscrito al presente Convenio enviar su solicitud adjuntando
+    el «currículum vitae».
+
+    </string>
+    
+     <!---  -->    
+    <string formatted="false" name="art28Head">
+    Artículo 28. Incompatibilidades.
+    </string>
+    <string formatted="false" name="art28Content">        
+        El personal no podrá trabajar, por cuenta propia o ajena, ni colaborar, en Empresas
+    que comercien con las mismas mercancías que lo hace Aldeasa, o realicen iguales actos
+    de producción o de prestación de servicios.\n\n
+        Al efecto de comprobar si existe esa concurrencia, el personal está obligado a
+    comunicar a la Dirección de Recursos Humanos el nombre de la Empresa con la que
+    trabaja o colabora, y la función que en la misma desempeñe.\n\n
+
+        Se considerará falta grave la no comunicación u ocultación de los datos citados.\n
+        La Empresa, en el supuesto de trabajadores contratados a tiempo parcial deberá, con
+    carácter previo a la adopción de una decisión negativa a la compatibilidad del trabajo
+    realizado en Aldeasa con el de otra u otras empresas, solicitar informe al Comité de
+    Empresa.\n\n
+        El empleado no aceptará remuneración alguna u otro provecho o beneficio ofrecido
+    por cualquier persona o Empresa con la cual Aldeasa tiene negocios o con la que está
+    relacionada por su ocupación en la misma, e igualmente tampoco podrá suscribir contrato
+    alguno, en nombre de Aldeasa, con familiares dentro del segundo grado de afinidad o
+    consanguinidad sin que exista autorización expresa por parte de la Empresa.
+    </string>
+    
+     <!---  -->    
+    <string formatted="false" name="art29Head">
+    Artículo 29. Excedencias.
+    </string>
+    <string formatted="false" name="art29Content">
+        
+        Para la obtención de cualquier modalidad de excedencia, la persona deberá
+    comunicar su solicitud a la Empresa con al menos quince días de antelación a la fecha de
+    inicio. El reingreso en el servicio activo de los excedentes se verificará previa solicitud por
+    escrito de los interesados, con un mes de antelación al vencimiento de la excedencia
+    (salvo disposición específica), siendo la fecha de presentación de la solicitud la que
+    determinará la prioridad para el reingreso en el supuesto de concurrencia de varias
+    peticiones. La inobservancia del periodo de preaviso supondrá la pérdida del derecho de
+    reingreso.\n\n
+    Los excedentes de cualquier modalidad pertenecientes a los grupos profesionales II y III
+    perderán el derecho a reingreso en el caso de que utilicen sus excedencias para trabajar
+    en una actividad relacionada con el «retail» aeroportuario.\n\n
+
+    a) Voluntaria.\n
+        Los trabajadores, con más de un año de antigüedad en la Empresa, podrán solicitar
+    excedencia voluntaria no retribuida para asuntos personales, por un periodo no inferior a
+    cuatro meses ni superior a cinco años. Este derecho sólo podrá ser ejercitado otra vez
+    por el trabajador si han transcurrido cuatro años desde el final de la anterior excedencia.
+    El excedente tendrá derecho a ocupar la primera vacante que se produzca de su
+    modalidad y categoría en el centro de trabajo en el que prestaba sus servicios.\n\n
+
+    b) Forzosa.\n
+    Se considera como tal el nombramiento para cargo público o elección para cargo
+    público o sindical de ámbito provincial o superior, con la consiguiente toma de posesión y
+    que no entrañe relación de empleo laboral. Al trabajador en excedencia forzosa se le
+    reservará su plaza mientras tal situación dure.\n\n
+    Concluido el motivo o razón por el que fuera otorgada esta excedencia, el beneficiario
+    deberá incorporarse a su puesto de trabajo en el plazo previsto por la legislación vigente.
+    En caso contrario, perderá su derecho y dejará de ostentar la condición de trabajador de
+    Aldeasa.\n\n
+
+    c) Para cuidado de hijo.\n
+        Los trabajadores tendrán derecho a un periodo de excedencia, no superior a tres
+    años que podrá disfrutarse de forma fraccionada, para atender el cuidado de cada hijo,
+    tanto cuando lo sea por naturaleza, como por adopción, o en los supuestos de acogimiento
+    tanto permanente como preadoptivo, aunque éstos sean provisionales, a contar desde la
+    fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
+    La reincorporación será obligatoria, siempre que se notifique a la empresa con quince
+    días de antelación a la fecha de vencimiento de la excedencia, siendo el periodo de
+    excedencia computable a efectos de antigüedad.\n\n
+
+    En lo no previsto en este apartado resultará de aplicación en su integridad lo dispuesto
+    en el artículo 46.3 del Estatuto de los trabajadores.\n\n
+
+    d) Para cuidado de familiar.\n
+    Los trabajadores tendrán derecho a solicitar excedencia por un periodo no superior a
+    dos años que podrá disfrutarse de forma fraccionada para cuidado de familiar hasta el
+    segundo grado de consanguinidad o afinidad, que por razones de edad, accidente,
+    enfermedad o discapacidad no pueda valerse por si mismo y no desempeñe actividad
+    retribuida.\n\n
+
+        Si dos o más trabajadores de la empresa generasen este derecho, por el mismo
+    sujeto causante, la Empresa podrá limitar su ejercicio simultáneo por razones
+    organizativas.\n\n
+
+        La reincorporación será obligatoria, siendo el periodo de excedencia computable a
+    efectos de antigüedad.\n\n
+
+        En lo no previsto en este apartado resultará de aplicación en su integridad lo dispuesto
+    en el artículo 46.3 del Estatuto de los Trabajadores.
+    </string>    
+    
+     <!---  -->    
+    <string formatted="false" name="art30Head">
+    Artículo 30. Preaviso en supuestos de cese.
+    </string>
+    <string formatted="false" name="art30Content">        
+        En el supuesto de que el cese se produzca por voluntad del trabajador, éste deberá
+    comunicarlo a la empresa por escrito, con una antelación de quince días. La ausencia de
+    este aviso facultará a la empresa a aplicar en la liquidación de las retribuciones salariales
+    devengadas por el trabajador, una minoración equivalente a las retribuciones
+    correspondientes a los días de defecto en el preaviso.\n\n
+
+        En el supuesto de contratos de trabajo de carácter temporal, cualesquiera que sea la
+    modalidad contractual, y el contrato se extinga por expiración del tiempo convenido, la
+    empresa deberá preavisar por escrito con quince días de antelación en los casos en que
+    así se exija legalmente, debiéndose abonar en caso de incumplimiento de preaviso el
+    salario correspondiente a los días de tal incumplimiento total o parcial.
+
+    </string>
+    
+     <!---  -->    
+    <string formatted="false" name="art31Head">
+    Artículo 31. Conceptos Generales.
+    </string>
+    <string formatted="false" name="art31Content">        
+    Retribución es la percepción económica del trabajador por el cumplimiento de su
+    contrato de trabajo. Esta retribución puede ser de dos clases:
+    a) Salarial.
+    b) Extra-salarial.
+    Los conceptos salariales serán los siguientes:
+    1) 
+     Salario Mínimo Garantizado.
+    2) 
+     Complementos Personales.
+    3) 
+     Complementos de vencimiento periódico superior al mes.
+    4) 
+     Incentivos de Ventas.
+    5) 
+     Complemento de puesto de trabajo.
+    </string>
+    
+    
+     <!---  -->    
+    <string formatted="false" name="art32Head">
+    Artículo 32.
+    </string>
+    <string formatted="false" name="art32Content">        
+    1) Salario Mínimo Garantizado.
+    Es la parte de la retribución del trabajador fijada por unidad de tiempo, de acuerdo
+    con la jornada normal de trabajo y que consta en la primera columna del Anexo de la
+    Tabla Salarial de este Convenio.
+    La cantidad que se establece en la Tabla Salarial lo es en cómputo anual, por lo que
+    su distribución mensual se efectuará dividiendo la cantidad establecida entre 16 pagas.
+    El Salario Mínimo Garantizado, en caso de jornadas reducidas o especiales de
+    trabajo, será el que proporcionalmente corresponda a las mismas.
+    El Salario Mínimo Garantizado que para cada uno de los Grupos Profesionales se
+    establece en la Tabla Salarial que figura como Anexo al presente Convenio Colectivo,
+    integra en el mismo los anteriores niveles retributivos.
+    2) Complementos Personales.
+    Son los que se derivan de las condiciones personales del trabajador:
+    2.1 Antigüedad.
+    Como compensación por la permanencia en la empresa se establece un complemento,
+    que será abonado a todos los trabajadores incluidos dentro del ámbito de aplicación del
+    Convenio, a razón de 31,85 euros, por cada tres años de servicio en la Empresa.
+    Tal cantidad se abonará en el mes en que se cumplan los tres años correspondientes
+    y se hará efectiva junto con las demás remuneraciones y en 12 mensualidades.
+    En el supuesto de que algún trabajador percibiera por el concepto de antigüedad una
+    cantidad superior a la que resulte de aplicación conforme a lo establecido en este
+    precepto, se le mantendrá tal cantidad como condición más beneficiosa que quedará
+    congelada, hasta que, por aplicación de esta fórmula, se supere la cantidad anteriormente
+    percibida.
+    2.2 Condición más Beneficiosa Básica.
+    Aquellos trabajadores que vinieran percibiendo, como consecuencia de la aplicación
+    de anteriores Convenios de Aldeasa, la denominada Condición Más Beneficiosa Básica,
+    continuarán percibiendo la cuantía consolidada.
+    2.3 Condición más Beneficiosa Complementaria.
+    Los trabajadores que como consecuencia de la aplicación de los anteriores Convenios
+    de Aldeasa vinieran percibiendo Pluses tales como Idioma, Jefatura y Juramento,
+    Transporte, establecidos en anteriores Convenios Colectivos, continuarán percibiendo las
+    cantidades consolidadas por tales pluses abonándose bajo el concepto de «Condición
+    más Beneficiosa Complementaria».
+    Tales cantidades se percibirán a titulo personal y no generarán derecho alguno para
+    trabajadores que se incorporen con posterioridad a la fecha de firma del Convenio a la
+    empresa.
+    Este concepto salarial no podrá ser objeto de compensación y absorción con otras
+    retribuciones que vinieran percibiendo los trabajadores.
+    2.4 Complemento individual.
+    Los trabajadores sujetos a la nueva estructura retributiva que perciban un
+    complemento individual, cualquiera que fuere su naturaleza e instrumento de concesión,
+    lo consolidarán en la cuantía existente con anterioridad a la integración de la prima
+    voluntaria (complemento puesto de trabajo) en tal concepto salarial, como complemento
+    salarial no compensable ni absorbible con los incrementos que se pacten en futuros
+    Convenios Colectivos, pudiendo ser objeto de compensación y absorción en el supuesto
+    de que el trabajador pasara a percibir los conceptos de condición más beneficiosa básica,
+    complementaria, incentivos o comisiones de ventas.
+    3) Complementos de vencimientos superior al mes.
+    3.1 Pagas Extraordinarias.
+    Los trabajadores tienen derecho a cuatro pagas extraordinarias en los meses de
+    Marzo, Junio, Septiembre y Diciembre, cuyo importe para cada empleado corresponde a
+    los conceptos Salario Mínimo Garantizado más Condición más Beneficiosa Básica para
+    aquellos que vinieran percibiendo tal concepto.
+    Se abonarán al final de cada uno de dichos meses y proporcionalmente al tiempo de
+    servicio prestado entre las fechas de devengo de cada una de ellas, que son las
+    siguientes:
+    1) 
+     Paga de marzo: de 1 de abril a 31 de marzo.
+    2) 
+     Paga de junio: de 1 de julio a 30 de junio siguiente.
+    3) 
+     Paga de septiembre: de 1 de octubre a 30 de septiembre siguientes.
+    4) 
+     Paga de diciembre: de 1 de enero a 31 de diciembre siguiente.
+    4) Retribución variable.
+    Los trabajadores adscritos a los puntos de venta, almacenes y almacenes
+    distribuidores tendrán derecho a la percepción de una retribución variable que se calculará
+    en función de los criterios que se establecen en el anexo n.o 4 del presente Convenio
+    Colectivo.
+    La retribución variable se percibirá, en su caso, de forma proporcional a los días
+    trabajados y al porcentaje de jornada del trabajador.
+    </string>
+
+    <!---  -->    
+    <string formatted="false" name="art33Head">
+    Artículo 33. Compensación por trabajos nocturnos.
+    </string>
+    <string formatted="false" name="art33Content">
+    Se considera nocturno el trabajo realizado entre las diez de la noche y las seis de la
+    mañana. Específicamente ambas partes convienen en computar la hora nocturna a razón
+    de una hora y quince minutos hasta que el cómputo anual de horas de trabajo efectivas
+    alcance 1.750 horas establecidas para cada uno de los años de vigencia del Convenio,
+    considerándose como extraordinarias el exceso.
+    El cómputo de las horas nocturnas realizadas podrá ser compensado mediante su
+    retribución dineraria a razón de 1,25 horas a elección del trabajador con carácter anual. Si
+    se opta por la retribución, ésta será satisfecha en el mes siguiente a la comunicación de
+    la realización.
+    El cómputo de tiempo horario de la nocturnidad no afecta al personal contratado
+    expresamente para realizar trabajos en horas nocturnas.
+    </string>
+    
+     <!---  -->    
+    <string formatted="false" name="art34Head">
+    Artículo 34. Retribuciones Extra-Salariales.
+    </string>
+    <string formatted="false" name="art34Content">
+    No tendrán la consideración legal de salario los siguientes conceptos, entre otros:
+    1) Periodo igual o inferior a 30 días: Todo desplazamiento del centro de trabajo
+    habitual, ordenado por la Empresa, igual o inferior a 30 días, a cualquier población o país,
+    devengará dietas en la forma y condiciones que tenga establecidas la Empresa, salvo
+    pacto entre las partes.
+    2) Periodo superior a 30 días: Cuando el desplazamiento se realice a Tiendas de
+    apertura temporal o por cualquier otra causa ordenada por la Empresa, siempre que se
+    efectúe a población distinta a la de su residencia habitual y tenga una duración superior a
+    30 días, se estará a lo acordado entre las partes.
+    </string>
+    
+    
+    <!---  -->    
+    <string formatted="false" name="art35Head">
+    Artículo 35. Anticipos reintegrables.
+    </string>
+    <string formatted="false" name="art35Content">
+    Mejorando lo dispuesto en el artículo 29 del estatuto de los Trabajadores, la Empresa
+    continuará aplicando el régimen de concesión de anticipos a cuenta, reintegrables y sin
+    interés. El plazo máximo de devolución será de un año.
+    </string>
+    
+    
+    <!---  -->    
+    <string formatted="false" name="art36Head">
+        Artículo 36. Pago de haberes.
+    </string>
+    <string formatted="false" name="art36Content">
+    El pago del salario se efectuará mediante ingreso de su importe en la entidad bancaria
+    o de ahorro que el trabajador designe entregándose recibo del salario a los trabajadores.
+    Esta obligación podrá cumplirse empleando medios telemáticos, cuando el empleado
+    disponga de dirección de correo electrónico de la Empresa o así lo solicite voluntariamente.
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art37Head">
+    Artículo 37. Prestación por Matrimonio y Natalidad.
+    </string>
+    <string formatted="false" name="art37Content">
+    La empresa abonará a sus trabajadores, cuando contraigan matrimonio, la cantidad
+    de 242,36 euros. En el supuesto de que ambos contrayentes presten servicios en la
+    empresa, los dos tendrán derecho a la Prestación por Matrimonio.
+    Se reconocen los mismos derechos a las parejas de hecho.
+    Para acreditar la condición de pareja de hecho el solicitante del permiso deberá
+    aportar el certificado que acredite estar inscrito en el registro de uniones de hecho
+    establecido a tal efecto. Dicha certificación podrá sustituirse en aquellas poblaciones
+    donde no exista registro oficial mediante el correspondiente certificado de convivencia
+    expedido por la autoridad legal competente.
+    Igualmente la Empresa abonará la cantidad de 242,36 euros por el nacimiento o
+    adopción de cada hijo.
+    
+    En el supuesto de que tanto el padre como la madre presten sus servicios en la
+    empresa sólo uno de ellos tendrá derecho a la percepción de la Prestación por Natalidad.
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art38Head">
+    Artículo 38. Prestaciones en casos de baja por enfermedad o accidente y Absentismo.
+    </string>
+    <string formatted="false" name="art38Content">        
+    1. Baja médica por enfermedad común, enfermedad profesional o por accidente
+    laboral.
+    En los supuestos de baja médica por enfermedad profesional y de accidente laboral la
+    Empresa abonará al trabajador las diferencias existentes en cada caso entre las
+    prestaciones que conceda al trabajador la Seguridad Social y el 100% de la retribución
+    fija salarial que el trabajador estuviese devengando en el momento de producirse la baja.
+    2. Baja médica por enfermedad común.
+    En los supuestos de baja médica por enfermedad, siempre que ésta no venga
+    derivada de enfermedad crónica diagnosticada ni de accidente no laboral con
+    hospitalización, la Empresa no abonará el complemento de IT a partir de la quinta baja en
+    que incurra el trabajador dentro del año natural.
+    3. Regulación común para todas las situaciones de baja.
+    Para todos los supuestos, con independencia de la naturaleza de la contingencia ya
+    sea profesional o común, la obligación de complementar de la Empresa coincidirá con la
+    duración de su obligación de «pago delegado»; por lo tanto, cuando el trabajador pase a
+    cargo de la Seguridad Social dejará de abonar cualquier complemento, coincidiendo con
+    su baja formal en el Sistema de Seguridad Social a cargo de la Empresa y hasta que sea
+    valorado por el EVI y la Dirección Provincial del INSS dicte la resolución que proceda en
+    función de su situación médica.
+    Las partes firmantes reconocen la necesidad del tratamiento del problema del
+    absentismo y entienden que su reducción implica tanto el aumento de la presencia del
+    trabajador en el puesto de trabajo como las adecuadas condiciones de seguridad, higiene
+    y ambiente de trabajo.
+    De igual forma, las partes son conscientes del grave quebrantamiento que en la
+    atención a los clientes produce el absentismo cuando se superan determinados niveles,
+    así como la necesidad de disminuirlo dada su negativa incidencia en la eficacia de los
+    servicios.
+    Se regulan las siguientes situaciones:
+    1. Ausencias aisladas.
+    Las ausencias aisladas de horas cuyo origen no esté contemplado como permiso
+    retribuido o licencia en el presente Convenio deberán justificarse en el plazo de
+    veinticuatro horas por los medios adecuados al origen de la ausencia.
+    Sin perjuicio de las medidas disciplinarias que puedan adoptarse en caso de no
+    acreditarse el motivo de la ausencia en el puesto de trabajo, éste no será retribuido en
+    ningún caso, descontándose el número de horas en que no haya habido prestación
+    efectiva de trabajo. Previo acuerdo entre empresa y trabajador, el tiempo invertido en la
+    ausencia, podrá ser recuperado en los siete días posteriores como alternativa al
+    descuento.
+    Las ausencias de jornadas completas cuyo origen no esté contemplado como permiso
+    retribuido o licencia en el presente Convenio deberán justificarse en el plazo de
+    veinticuatro horas por los medios adecuados al origen de la ausencia.
+    Sin perjuicio de las medidas disciplinarias que puedan adoptarse en caso de no
+    acreditarse el motivo de la ausencia en el puesto de trabajo, éste no será retribuido en
+    ningún caso, descontándose de nómina el importe equivalente a las jornadas en que no
+    haya habido prestación efectiva de trabajo.
+    
+    2. Ausencias por enfermedad común o accidente no laboral de uno a tres días.
+    2.1 Ausencias aisladas:
+    El trabajador comunicará su ausencia a la Unidad de Control de Presencia, en el caso
+    de OO.CC., o persona responsable en el centro con preferencia hasta una hora después
+    del inicio de la jornada, salvo causas de fuerza mayor que lo impidan.
+    En todo caso, de no producirse con posterioridad la justificación pertinente se
+    descontará al trabajador el día faltado sin perjuicio de la adopción de otras medidas
+    disciplinarias.
+    2.2 Ausencias de dos o tres días:
+    En estos casos el trabajador deberá presentar el parte médico en el plazo de tres días
+    contados a partir del siguiente al de la expedición del parte. De no entregarse el parte
+    citado se descontarán al trabajador los días faltados sin perjuicio de la adopción de otras
+    medidas disciplinarias.
+    En ambos casos la Empresa podrá practicar las inspecciones médicas oportunas,
+    según lo dispuesto en el artículo 20 del Estatuto de los Trabajadores.
+    3. Incidencias en el cumplimiento del horario establecido y tramitación de incidencias.
+    Todo el personal adscrito al presente Convenio debe cumplir el horario establecido.
+    Consecuentemente es de obligado cumplimiento el formalizar a través del reloj de
+    presencia (o parte de firmas) tanto la entrada como la salida del puesto de trabajo en
+    todas sus incidencias.
+    Se considerará falta grave eludir los sistemas de control horario así como impedir que
+    sean detectados los incumplimientos injustificados de la jornada de trabajo.
+    </string>
+    
+    <!---  -->    
+    <string formatted="false" name="art39Head">
+    Artículo 39. Jornada de Trabajo.
+    </string>
+    <string formatted="false" name="art39Content">
+    La jornada máxima laboral anual se establece en 1.750 horas de trabajo efectivo para
+    cada uno de los años de vigencia del presente Convenio. La reducción de 16 horas sobre
+    la jornada anual del año 2003 consolidada en el Convenio anterior, se aplicará en días
+    completos. Los horarios se adaptarán a las exigencias propias de cada centro de trabajo.
+    Debido a las características de la actividad desempeñada por Aldeasa la distribución
+    de la jornada podrá efectuarse de forma irregular, teniendo la condición de días laborables
+    todos los días del año incluyendo sábados, domingos y festivos, excepción hecha de los
+    días 1 de enero y 25 de diciembre en los que la prestación de servicios tendrá carácter
+    voluntario y será retribuida con 200 € cada uno de ellos; la jornada máxima a realizar en
+    estas fechas será de 10 horas.
+    Con carácter anual se establecerá para cada centro de trabajo un calendario con
+    turnos rotativos. Dicho calendario, debido a la variación que sufre la actividad comercial
+    de la Empresa podrá ser modificado por ésta en función de las necesidades que se
+    produzcan, pudiéndose efectuar prolongaciones de jornada hasta un máximo de doce
+    horas diarias con respeto a los descansos legalmente establecidos y siempre que tales
+    prolongaciones de jornada sean compensadas con disminuciones en periodos de menor
+    actividad, de modo que en ningún caso la jornada ordinaria supere las horas anuales
+    pactadas para cada uno de los años de vigencia del Convenio. Las modificaciones que se
+    realicen sobre el calendario anual y que supongan modificación de horarios de los
+    trabajadores adscritos al mismo deberán ser consultadas previamente al Comité de
+    empresa del centro afectado con siete días de antelación a su entrada en vigor, salvo que
+    sea aceptada por el trabajador con carácter voluntario. La consulta no tendrá carácter
+    vinculante.
+    Las horas realizadas sobre la jornada máxima anual establecida en el presente
+    artículo podrán ser compensadas bien mediante su retribución dineraria en el equivalente
+    al número de horas realizadas, bien en tiempo de descanso en la misma proporción de
+    exceso de acuerdo con las necesidades organizativas del centro de trabajo y de común
+    acuerdo entre la empresa y el trabajador.
+    Si se opta por la retribución, ésta será satisfecha en el mes siguiente a la comunicación
+    de la realización de dicho exceso. Si la opción lo es por la compensación en tiempo de
+    descanso, la devolución del exceso de jornada deberá producirse dentro de los tres
+    meses siguientes.
+    Todos los trabajadores adscritos al presente Convenio tendrán derecho a dos días de
+    descanso a la semana que podrán ser acumulados por periodos de hasta dos semanas.
+    Con carácter general el número máximo de festivos nacionales, autonómicos o
+    locales a trabajar dentro del año quedará establecido en cuatro hasta el año 2013 y en
+    tres para el año 2014 y en el supuesto de que por razones organizativas se fijaran para
+    un turno concreto más de cuatro festivos a trabajar (tres en el año 2014), los que excedan
+    de tal número serán compensados con descansos equivalentes cuya fecha será de libre
+    elección del trabajador siempre que las necesidades productivas que se den en el centro
+    lo permitan.
+    Únicamente se considerarán a estos efectos los festivos establecidos en el calendario
+    laboral que hayan sido efectivamente trabajados y no aquellos que se trabajen
+    voluntariamente por cambio de turnos entre los trabajadores.
+    </string>
+    
+    
+    <!---  -->    
+    <string formatted="false" name="art40Head">
+    Artículo 40. Horas extraordinarias.
+    </string>
+    <string formatted="false" name="art40Content">
+    Las horas trabajadas en exceso sobre las establecidas en el horario de cada centro
+    de trabajo tendrán el carácter de horas extraordinarias, siendo su realización obligatoria
+    en el caso de las efectuadas para realizar inventarios y balances o por causa legal de
+    fuerza mayor, y compensándose las mismas con descansos en el siguiente trimestre a la
+    fecha de su realización.
+    Con carácter excepcional, en aquellos supuestos en los que por razones organizativas
+    resulte imposible la compensación con descanso y siempre que el número de horas
+    realizadas no exceda de los límites legales, serán abonadas con el importe que resulte de
+    la aplicación de la siguiente fórmula:
+        
+    ((S.M.G. + C.B.B.) X 16) + CBC + (A X 12) 
+    ----------------------------------------- X 125%
+    Jornada anual pactada
+    
+    S.B.G. = Salario Mínimo Garantizado.
+    C.B.B. = Condición más Beneficiosa Básica.
+    C.B.C. = Condición más Beneficiosa Complementaria.
+    A = Antigüedad.
+
+    </string>
+
+    
+    <!---  -->    
+    <string formatted="false" name="art41Head">
+    Artículo 41. Permisos.
+    </string>
+    <string formatted="false" name="art41Content">
+    A) Permisos no retribuidos.
+    La Empresa podrá otorgar, siempre que el volumen de plantilla y las necesidades de
+    trabajo lo permitan, permisos no retribuidos a los trabajadores, por el período necesario
+    para atender circunstancias excepcionales que puedan producirse.
+    Corresponde a la Empresa su otorgamiento en función de las necesidades productivas
+    que se den en el centro de trabajo en el que se solicite el permiso.
+    El empleado que solicite un permiso no retribuido deberá justificar su petición. En
+    todo caso corresponde a la Dirección de la Empresa su otorgamiento.
+    Durante el disfrute de permiso no retribuido, la Empresa se hará cargo del importe de
+    aportación a la Seguridad Social que le corresponda, siendo por cuenta del empleado la
+    suya.
+
+            Los trabajadores que hayan ejercitado el derecho a disfrutar de permiso no retribuido,
+    no podrán volver a solicitar un nuevo permiso hasta el transcurso de dos años desde el
+    disfrute del último permiso.
+    B) Permisos por asuntos personales.
+    La Empresa concederá cuatro días de permiso retribuido por trabajador y año, para
+    asuntos personales, en las siguientes condiciones:
+    a) Dos de ellos podrán ser acumulados a los días de vacaciones, si existiera acuerdo
+    entre el trabajador y la Dirección del Centro y fuera posible por razones de organización
+    de la actividad.
+    b) Su no disfrute dentro del año natural, supone su pérdida.
+    c) Dos de ellos pueden ser compensados económicamente cuando su no disfrute lo
+    sea por causa imputable a la Empresa.
+    d) Serán solicitados previamente al Jefe del Centro o Departamento y comunicados
+    a la Dirección de Recursos Humanos.
+    C) Permisos Retribuidos.
+    El trabajador, previo aviso y justificación adecuada, tendrá derecho a solicitar los
+    siguientes permisos retribuidos por los tiempos y causas siguientes:
+    a) Quince días naturales en caso de matrimonio acumulables a vacaciones, siempre
+    que la organización del trabajo así lo permita.
+    b) Tres días naturales en los casos de nacimiento de hijo. Cuando con tal motivo el
+    trabajador necesite hacer un desplazamiento al efecto el plazo será de cinco días.
+    c) Tres días naturales por el fallecimiento, accidente o enfermedades graves,
+    hospitalización o intervención quirúrgica sin hospitalización que precise reposo
+    domiciliario, de parientes hasta el segundo grado de consanguinidad o afinidad Se
+    consideran familiares en primer grado de consanguinidad o afinidad del trabajador
+    afectado: cónyuge o pareja de hecho, hijos, padres y suegros. Se consideran familiares
+    en segundo grado de consanguinidad o afinidad del trabajador afectado: hermanos,
+    cuñados, nietos y abuelos. Cuando con tal motivo el trabajador necesite hacer un
+    desplazamiento al efecto, el plazo será de cinco días.
+    Durante el tiempo de hospitalización de familiar de primer grado o del cónyuge por
+    causa de enfermedad o accidente grave el trabajador podrá disponer de su permiso,
+    previa petición al departamento de Recursos Humanos correspondiente, en días
+    completos separados. En caso de separación de los días, los laborables de los que
+    disponga no podrán superar los que le hubieran correspondido de iniciar el permiso en
+    condiciones normales en el día en que se produjo el hecho causante.
+    d) Un día por traslado del domicilio habitual
+    e) Por el tiempo indispensable para el cumplimiento de un deber inexcusable de
+    carácter público y personal, comprendiendo el sufragio activo.
+    f) Para realizar funciones sindicales o de representación del personal en los términos
+    establecidos legalmente.
+    g) Por el tiempo indispensable para la realización de exámenes prenatales y
+    técnicas de preparación al parto que deban realizarse dentro de la jornada de trabajo.
+    h) Por el tiempo necesario para realizar exámenes finales, parciales o de aptitud
+    para la obtención de un título académico o profesional oficial.
+    i) Por el tiempo indispensable para realizar pruebas médicas pre y post operatorias
+    y los controles periódicos por enfermedad crónica en hospitales públicos y clínicas
+    privadas cuya citación previa pueda ser justificada.
+    j) Hasta 6 horas anuales para acompañar a consulta médica a familiares en primer
+    grado de consanguinidad.
+    Se reconocen los mismos derechos que el Convenio contempla en el artículo 41 B)
+    en el apartado c) a las parejas de hecho.
+    Para acreditar la condición de pareja de hecho el solicitante del permiso deberá
+    aportar el certificado que acredite estar inscrito en el registro de uniones de hecho
+    establecido a tal efecto. Dicha certificación podrá sustituirse en aquellas poblaciones
+    donde no exista registro oficial mediante el correspondiente certificado de convivencia
+    expedido por la autoridad legal competente.
+    D) Lactancia.
+    Las trabajadoras, por lactancia de un hijo menor de nueve meses, tendrán derecho a
+    una hora de ausencia del trabajo que podrán dividir en dos fracciones. La duración del
+    permiso se incrementará proporcionalmente en los casos de un parto múltiple.
+    Mejorando lo dispuesto en lo legislado a este efecto, las horas establecidas como
+    permiso para lactancia podrán acumularse mediante el disfrute de un mes de permiso
+    retribuido, o la proporción que correspondan en función del periodo de alta de la madre
+    en la empresa con posterioridad al parto, hasta que el hijo cumpla nueve meses.
+    </string>
+
+    <string formatted="false" name="art42Head">
+        Artículo 42. Reducción por guarda legal. Conciliación de la vida laboral y familiar.
+    </string>
+    <string formatted="false" name="art42Content">
+
+        Quien por razón de guarda legal tenga a su cuidado directo algún menor de ocho
+    años o un disminuido físico o psíquico que no desempeñe otra actividad retribuida, o
+    quien tenga a su cuidado directo un familiar hasta el segundo grado de consanguinidad o
+    afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí
+    mismo y que no desempeñe actividad retribuida tendrá derecho a una reducción de la
+    jornada de trabajo, con la disminución proporcional del salario entre, al menos, un octavo
+    y un máximo de la mitad de la duración de aquélla; podrán concretar la elección de horario
+    dentro de las secuencias establecidas en el centro.
+    El progenitor, adoptante, o acogedor de carácter preadoptivo o permanente, tendrá
+    derecho a una reducción de la jornada de trabajo con la disminución proporcional de
+    salario de, al menos, la mitad de la duración de aquella para el cuidado, durante la
+    hospitalización y tratamiento continuado del menor a su cargo afectado por cáncer
+    (tumores malignos, melanomas y carcinomas), o por cualquier otra enfermedad grave
+    que implique un ingreso hospitalario de larga duración y requiera la necesidad de su
+    cuidado directo, continuo y permanente, acreditado por el informe del Servicio Público de
+    Salud u órgano administrativo sanitario de la Comunidad Autónoma correspondiente y,
+    como máximo, hasta que el menor cumpla los 18 años. Estas reducciones de jornada
+    constituyen un derecho individual de los trabajadores, hombres o mujeres. No obstante, si
+    dos o más trabajadores de la Empresa generasen este derecho por el mismo sujeto
+    causante podrá limitarse su ejercicio simultáneo por razones justificadas de
+    funcionamiento.
+
+        La Empresa aplicará lo regulado en la Ley 39/1999 de Conciliación de la Vida Laboral
+    y Familiar de las Personas Trabajadoras y en la Ley Orgánica 3/2007 para la Igualdad
+    efectiva de mujeres y hombres. En esa línea y para favorecer la conciliación de la vida
+    laboral y familiar adoptará las siguientes medidas:
+    a) Los trabajadores con hijos menores de ocho años tendrán derecho a permutar el
+    turno de trabajo que les corresponda realizar (mañana, tarde, solape, noche) con otro
+    trabajador del mismo centro de trabajo que realice las mismas funciones y tenga la misma
+    jornada laboral.
+    b) Los trabajadores con hijos menores de ocho años de edad tendrán derecho de
+    preferencia sobre las nuevas contrataciones a la elección de turno horario, sin necesidad
+    de reducir la jornada laboral, cuando aquellas se realicen para cubrir un turno existente
+    que quede vacante.
+    Los trabajadores de OO.CC. con hijos menores de cuatro años de edad tendrán
+    derecho de preferencia sobre las nuevas contrataciones en el supuesto de que se realicen
+    contrataciones en jornada continua, siempre que el trabajador esté facultado para la
+    realización de las funciones objeto de contrataciones.
+    Los trabajadores con hijos entre 8 y 10 años de edad tendrán la opción de continuar
+    prestando servicios a tiempo parcial, dentro de la secuencia de turnos habitual establecida
+    en su centro de trabajo, siempre que medie acuerdo con la Empresa. Esta reducción
+    temporal de jornada no estará asimilada a la reducción de jornada de guarda legal
+    establecida por ley.
+
+
+
+    </string>
+
+    <string formatted="false" name="art43Head">
+        Artículo 43. Vacaciones.
+    </string>
+    <string formatted="false" name="art43Content">
+        Todos los trabajadores afectados por este Convenio tienen derecho a treinta días
+    naturales de vacaciones anuales retribuidas. Este período podrá fraccionarse en dos,
+    previa autorización de la Dirección de la Empresa, siempre con una duración mínima de
+    ocho días cada uno de ellos.
+    Con independencia de este precepto general, la Empresa se compromete a que en
+    cada centro se pueda pactar con los comités correspondientes cualquier otra distribución
+    que resulte asumible para la organización del Centro.
+    Cuando el periodo de vacaciones fijado en el calendario de vacaciones del centro
+    coincida en el tiempo con una IT derivada del embarazo, el parto o la lactancia natural, o
+    con el periodo de suspensión previsto en el artículo 48.4 del ET, la trabajadora tendrá
+    derecho a disfrutar las vacaciones en fecha distinta a la de la IT o a la del disfrute del
+    permiso que por aplicación de dicho precepto le correspondiera, al final el periodo de
+    suspensión, aunque hubiera terminado el año natural a que corresponda.
+    Si durante el disfrute de las vacaciones el trabajador sufriera una enfermedad grave,
+    que conlleve hospitalización, no será computado el período de dicha hospitalización a
+    efectos de vacaciones. Dicho período será disfrutado cuando las necesidades del servicio
+    lo permitan.
+    Las vacaciones se iniciarán en días laborables, de acuerdo con las secuencias de
+    turnos y horarios que rigen en los distintos centros de trabajo de la Empresa.
+    En Oficinas Centrales el cómputo se efectuará como la diferencia entre el primero y el
+    último día laborable de cada período.
+    La Empresa podrá no autorizar períodos vacacionales por necesidades de trabajo, en
+    especial en aquellos centros de trabajo que dependan del tráfico turístico se excluirán
+    como períodos de vacaciones los de mayor actividad de la Empresa. No obstante en
+    todos los centros de trabajo, al menos el 3% de la plantilla podrá disfrutar de vacaciones
+    en el período comprendido entre el 15 de junio y el 15 de septiembre.
+    El personal que se incorpore a la Empresa dentro del año natural, disfrutará el
+    período vacacional proporcional al que por su permanencia en la Empresa le corresponda
+    ese año.
+    Al personal que cese en el transcurso del año natural y hubiese disfrutado un período
+    vacacional superior al que realmente le corresponda, le será descontado de su finiquito el
+    importe correspondiente a las vacaciones disfrutadas en exceso. Por el contrario, si en el
+    momento del cese le faltara por disfrutar vacaciones, su importe le será abonado en el
+    finiquito.
+    En todo caso las percepciones correspondientes a vacaciones anuales devengadas y
+    no disfrutadas y que sean retribuidas a la finalización de la relación laboral serán objeto
+    de liquidación y cotización complementaria según lo dispuesto en las Normas Generales
+    de la Seguridad Social.
+    Como principio para el derecho de opción de los trabajadores a un determinado turno
+    de vacaciones, dentro del sistema de excepción establecido en el párrafo tercero de este
+    artículo, se establece que el trabajador que optó y tuvo preferencia sobre otro trabajador
+    en la elección del disfrute en temporada de actividad alta o en otro turno determinado,
+    perderá ese derecho de opción hasta tanto no lo ejerciten el resto de sus compañeros en
+    un centro de trabajo o punto de venta.
+    Aquellos trabajadores que hubieran causado alta con anterioridad al 31 de diciembre
+    de 1993, y que por el hecho de disfrutar sus vacaciones en períodos de menor actividad
+    tenían derecho a 8 días más de vacaciones anuales sobre las establecidas con carácter
+    general, continuarán manteniendo tal derecho como condición más beneficiosa de
+    carácter personal.
+    La concreción de la temporada baja vendrá determinada en cada uno de los centros
+    de trabajo junto con el calendario anual.
+        </string>
+
+
+    <string formatted="false" name="art44Head">
+            Artículo 44. Jubilación.
+
+    </string>
+    <string formatted="false" name="art44Content">
+            A) Como contrapartida a las políticas de empleo existentes en la Compañía y
+    parcialmente recogidas en el presente Convenio, se establece la jubilación obligatoria
+    para todos aquellos trabajadores que tengan cubierto el período de carencia necesaria
+    para lucrar la prestación de jubilación de la Seguridad Social al cumplir los 65 años o la
+    primera edad a partir de dicha fecha exigida por la normativa de Seguridad Social tener
+    derecho a la prestación de jubilación.\n\n
+
+        En el momento de acceder a la misma, percibirán una compensación por la extinción
+    del contrato variable en función de los años de servicio, como se detalla a continuación.\n\n
+    – De 5 a 8 años de servicio: 40% del salario anual.\n
+    – De 8 a 11 años de servicio: 50% del salario anual.\n
+    – Más de 11 años de servicio: 60% del salario anual.\n\n
+
+        B) Aquellos trabajadores que, no habiendo alcanzado la edad en la que accederán
+    de forma forzosa a la jubilación, soliciten la misma antes de alcanzar dicha edad, tendrán
+    derecho a la percepción de una indemnización supeditada a la aceptación de la jubilación
+    por parte de la Empresa, cuya cuantía será variable en función de la edad del solicitante,
+    conforme se detalla seguidamente:\n\n
+
+     NOTA: EL SIGUIENTE CUADRO ES ALGO DIFERENTE AL PUBLICADO AL BOE POR CIRCUNSTANCIAS
+            PRESENTACION Y UNA MEJORA DE LECTURA.\n\n
+
+
+     Edad de jubilación obligatoria en:\n
+     menos 5 años . . . Indemnizacion 130% del salario anual.\n\n
+     menos 4 años . . . Indemnizacion 120% del salario anual.\n\n
+     menos 3 años . . . Indemnizacion 110% del salario anual.\n\n
+     menos 2 años . . . Indemnizacion 100% del salario anual.\n\n
+     menos 1 año . . .  Indemnizacion 90% del salario anual.\n\n
+
+
+        Aquellos trabajadores que accedan a la jubilación anticipada y sean perceptores del
+    concepto denominado CBB percibirán como complemento indemnizatorio en el momento
+    de acceder a la jubilación anticipada, una cantidad equivalente a multiplicar por
+    veinticuatro el último importe mensual abonado por este concepto no siendo de aplicación
+    en estos casos la cláusula de garantía del artículo 75 del presente Convenio.\n\n
+
+    C) Jubilación parcial. Aquellos trabajadores que habiendo cumplido 61 años de edad
+    –o 60 si acreditaran la condición de mutualistas al 1 de enero de 1967–, o la que en cada
+    momento establezca la normativa de la Seguridad Social que resulte aplicable, y teniendo
+    cubierto el período de carencia exigible por las normas de Seguridad Social, podrán hacer
+    uso de su derecho a acogerse a la jubilación parcial reduciendo su jornada de trabajo y su
+    salario entre los porcentajes máximos y mínimos fijados en el art. 166.2 de la Ley General
+    de la Seguridad Social. Hasta diciembre de 2012, la empresa en estos casos se obliga a
+    celebrar el correspondiente contrato de relevo para cubrir al menos la jornada dejada
+    vacante por el trabajador jubilado.
+
+    </string>
+
+    <string formatted="false" name="art45Head">
+        Artículo 45. Competencia.
+    </string>
+    <string formatted="false" name="art45Content">
+
+        La facultad disciplinaria sobre el personal comprendido en el presente Convenio
+    corresponde al Director de Recursos Humanos de la Empresa, que la ejercerá bien
+    directamente o a través del Jefe de Área de Relaciones Laborales o Jefes de Centro.
+    Para las faltas graves y muy graves el poder sancionador lo ejerce el Director de Recursos
+    Humanos y en las leves el Jefe de Área de Relaciones Laborales, los Jefes de Personal
+    de las Direcciones Territoriales y Responsables de Centro o persona en quien el Director
+    de Recursos Humanos delegue. De la imposición de sanciones por faltas graves y muy
+    graves se dará cuenta al Comité o delegados de Personal del centro de trabajo.
+
+    </string>
+
+    <string formatted="false" name="art46Head">
+        Artículo 46. Concepto.
+    </string>
+    <string formatted="false" name="art46Content">
+        Se considera falta toda acción u omisión que suponga quebranto o desconocimiento
+    por el trabajador de los deberes de cualquier índole para con la Empresa, o transgresión
+    de las disposiciones legales en vigor y en especial de lo dispuesto por el presente
+    Convenio y en la reglamentación sobre Seguridad y Salud Laboral.
+    </string>
+
+    <string formatted="false" name="art47Head">
+        Artículo 47. Graduación de las faltas.
+    </string>
+    <string formatted="false" name="art47Content">
+        A) Se considerarán faltas leves:
+    1) Descuido o demora injustificada en la ejecución del trabajo.
+    2) Falta de puntualidad injustificada en la entrada o salida al trabajo superior a
+    quince minutos. El retraso superior a cinco minutos e inferior a quince, se considerará
+    falta cuando se produzca tres veces en un período mensual, o el retraso inferior a cinco
+    minutos cuando se produzca seis veces en un mes o con habitualidad.
+    Si de estos retrasos se derivan, por la función especial del trabajador, perjuicios para
+    el trabajo encomendado, la falta se calificará de grave.
+    3) Ausencia injustificada del puesto de trabajo.
+    4) No atender al público o a los compañeros de trabajo con la corrección, diligencia,
+    uniformidad y aseo debidos.
+    5) Las discusiones con compañeros de trabajo cuando no son en presencia del
+    público.
+    6) La falta de asistencia injustificada al trabajo, a los cursos de formación
+    organizados por la Empresa o a los que voluntariamente se adscriba el trabajador.
+    7) No avisar en caso de falta justificada al trabajo en las primeras horas de comienzo
+    de la jornada.
+    La reiteración en la comisión de estas faltas dará lugar, automáticamente, a su
+    consideración como graves, sin perjuicio de lo indicado en el Estatuto de los Trabajadores.
+    B) Se considerarán faltas graves:
+    1) Las faltas injustificadas de asistencia al trabajo o a los cursos de formación a que
+    se refiere el artículo 80 de este Convenio, durante tres días alternos en un mes.
+    2) La simulación de enfermedad o accidente.
+    3) El incumplimiento de las funciones encomendadas con perjuicio para el trabajo.
+    4) La embriaguez o el uso de drogas, cuando no sea de manera habitual.
+    5) Simulación de la presencia de otro trabajador, fichando o firmando por él.
+    6) El quebranto del secreto profesional.
+    7) Los daños y deterioros en las mercaderías o pertenencias de la Empresa, cuando
+    se produzcan por negligencia.
+    8) No hacer cursar a la Empresa en el plazo legal de 3 días el parte de baja por I. T.
+    o los partes de confirmación en el plazo de 48 horas desde la fecha de dichos documentos.
+
+        9) No utilizar los equipos de protección individual, en aquellos puestos de trabajo en
+    los que sea obligatoria su utilización, así como incumplir con la normativa de prevención
+    de riesgos laborales.
+    Si como consecuencia de los incumplimientos anteriormente señalados se pusiera
+    gravemente en peligro la integridad física de algún trabajador la falta tendrá la
+    consideración de muy grave.
+    10) La utilización para fines personales de los medios tecnológicos puestos a
+    disposición del trabajador para el desempeño de sus funciones, particularmente la
+    utilización de Internet o el correo electrónico de forma reiterada para usos que no tengan
+    conexión alguna con el trabajo a desempeñar en la empresa.
+    La reiteración en la comisión de estas faltas, dará lugar automáticamente a su
+    consideración como muy graves, sin perjuicio de lo indicado en el Estatuto de los
+    Trabajadores.
+    C) Son faltas muy graves.
+    1) La falta de asistencia al trabajo o a los cursos de formación a que se refiere el
+    artículo 39 injustificadamente durante tres días consecutivos, o durante más de tres días
+    alternos en un mes.
+    2) Fraude, deslealtad o abuso de confianza en las gestiones encomendadas.
+    3) Los malos tratos de obra a clientes o compañeros de cualquier categoría.
+    4) Las faltas de respeto o enfrentamiento público con los superiores clientes o
+    compañeros.
+    5) El abuso de autoridad, considerándose como tal, la comisión por un superior de
+    un hecho arbitrario, con infracción de un derecho del trabajador, de donde se derive un
+    perjuicio grave y acreditado para el subordinado, ya sea de orden material o moral.
+    6) Causar accidente grave por negligencia o imprudencia inexcusable.
+    7) La embriaguez y el uso de drogas de forma habitual.
+    8) Sustraer, hacer desaparecer, ocultar, inutilizar, destrozar o causar daños de
+    desperfectos de forma voluntaria en cualquier tipo de bienes, mercancías equipos u otras
+    pertenencias de la Empresa, de los clientes o los compañeros.
+    9) La indisciplina y desobediencia con grave perjuicio para el trabajo.
+    10) Incurrir en infracción de la Legislación sobre contrabando, o no ajustar su
+    conducta en todo momento, a cuantas prescripciones en este orden se señalen por las
+    Autoridades de Aduanas o por la Empresa.
+    11) Tomar, usar, o adquirir indebidamente productos o artículos de las Tiendas de
+    Aldeasa o que se custodian en sus almacenes, aunque estén deteriorados, caducados o
+    de cualquier forma no sean aptos para su venta o comercialización.
+    12) Ocultar o falsear datos que deban ser facilitados a la Empresa dando lugar a
+    percepciones improcedentes.
+    13) Las agresiones a la intimidad y las ofensas verbales o físicas de carácter sexual,
+    sin distinción de sexo.
+    14) Incurrir en infracción de lo dispuesto en el artículo 28 del Convenio Colectivo
+    realizando actividades que en el citado precepto se declaran incompatibles, o, realizar
+    contratos con familiares sin contar con la debida autorización de la Empresa.
+    15) El quebranto del secreto profesional, con grave perjuicio para la Empresa.
+    La enumeración de las distintas clases de faltas, que anteceden, no es limitativa, sino
+    simplemente enunciativa, debiéndose asimilar a las de los grupos correspondientes
+    cualesquiera otras, atendiendo a las circunstancias y consecuencias de la falta.
+    </string>
+    <string formatted="false" name="art48Head">
+        Artículo 48. Sanciones.
+    </string>
+    <string formatted="false" name="art48Content">
+        A) Por la comisión de faltas leves, la sanción que podrá imponerse es la de
+    amonestación, verbal o escrita, o suspensión de empleo y sueldo de hasta dos días.
+    B) Por las faltas graves:
+            1) Suspensión de empleo y sueldo de tres a diez días.
+    2) Inhabilitación para concurrir a pruebas de ascenso en los dos años siguientes a la
+    comisión de la falta.
+    C) Por las faltas muy graves:
+    1) Suspensión de empleo y sueldo de once a sesenta días.
+    2) Separación de la Empresa con pérdida de todos los derechos, con excepción de
+    los salarios devengados que tuviera el trabajador y la liquidación de partes proporcionales
+    que le correspondieran al día en que se produzca la separación.
+    Las faltas muy graves enumeradas en el artículo 47, apartado C) números 10) y 11),
+    serán sancionadas siempre con la separación de la Empresa con pérdida de todos los
+    derechos, con excepción de los salarios devengados que tuviera el trabajador y la
+    liquidación de partes proporcionales que le correspondieran al día en que se produzca la
+    separación.
+    </string>
+
+    <string formatted="false" name="art49Head">
+        Artículo 49. Expediente sancionador.
+    </string>
+    <string formatted="false" name="art49Content">
+        Para la imposición de cualquiera de las sanciones por faltas leves no será precisa la
+    instrucción de expediente disciplinario. No será tampoco precisa la instrucción de
+    expediente disciplinario en el caso de infractores sorprendidos en la comisión flagrante de
+    los supuestos contemplados en el apartado 10) del apartado C) del artículo 47 y en los de
+    sustracción, consumo no autorizado o apropiación indebidas de bienes o artículos de las
+    instalaciones de Aldeasa a que se refieren los apartados 8) y 11) del apartado C) de dicho
+    artículo.\n\n
+        En todos los demás casos de sanciones por faltas graves y muy graves todas las
+    actuaciones se practicarán por escrito, comunicándose previamente al trabajador y
+    dándose cuenta de la resolución a los representantes de los trabajadores del centro de
+    trabajo.
+
+    </string>
+    <string formatted="false" name="art50Head">
+        Artículo 50. Resolución.
+    </string>
+    <string formatted="false" name="art50Content">
+     En la misma providencia de incoación de expediente se nombrará un Instructor,
+    notificándose ambos extremos al trabajador sujeto al expediente y al Instructor.
+    El Instructor, realizará cuantas actuaciones estime necesarias para el esclarecimiento
+    de los hechos y la determinación de las responsabilidades susceptibles de sanción. A la
+    vista de las actuaciones pasará pliego de cargos al expedientado si procediese, o, en
+    caso contrario, propondrá a la Dirección de la Empresa su sobreseimiento.
+    El expedientado tendrá cinco días para contestar a los cargos y presentar las pruebas
+    que estime convenientes.
+    Recibida la contestación al pliego de cargos, el Instructor con su informe sobre los
+    hechos propondrá a la Empresa la resolución que estime adecuada a derecho y ésta en
+    el plazo de cinco días a contar desde el informe impondrá la sanción que estime correcta,
+    que se notificará al interesado por escrito.
+    En caso de suspensión de empleo y sueldo o despido de un trabajador, y antes de
+    que éstas se produzcan de forma efectiva, el Comité de Empresa, delegado de personal
+    o delegado sindical deberá ser informado. En cualquier caso el trabajador podrá solicitar
+    la asistencia y presencia de los representantes de los trabajadores.
+
+    </string>
+
+
+
+
+    <!--
+    <string formatted="false" name="art50Head">
+    </string>
+    <string formatted="false" name="art50Content">
+    </string>
+
+      -->
+    
+</resources>
+
+
+
+

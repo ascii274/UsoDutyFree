@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:stretchColumns="*"
+             android:weightSum="1">
+
+
+    <TableRow
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:layout_span="3"
+            android:text="Titular/Conyugue"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:textColor="#bf3d3d"
+            android:layout_margin="1dp"
+            android:background="#a8cf74"
+            android:text="1ºGrado"/>
+
+        <Button
+            android:textColor="#bf3d3d"
+            android:layout_margin="1dp"
+            android:background="#74cfb8"
+            android:text="2ºGrado"/>
+
+        <Button
+            android:textColor="#bf3d3d"
+            android:layout_margin="1dp"
+            android:background="#7086c9"
+            android:text="3ºGrado"/>
+    </TableRow>
+
+
+
+    <TableRow>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#a8cf74"
+            android:text="Padres"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#74cfb8"
+            android:text="Abuelos"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#7086c9"
+            android:text="Bisabuelos"/>
+
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#a8cf74"
+            android:text="Suegro"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#74cfb8"
+            android:text="Hermanos"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#7086c9"
+            android:text="Tíos"/>
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#a8cf74"
+            android:text="Hijos"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#74cfb8"
+            android:text="Cuñados"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#7086c9"
+            android:text="Sobrinos"/>
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#a8cf74"
+            android:text="Yerno/Nuera"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#74cfb8"
+            android:text="Nietos"/>
+
+        <Button
+            android:layout_margin="1dp"
+            android:background="#7086c9"
+            android:text="Biznietos"/>
+    </TableRow>
+
+</TableLayout>

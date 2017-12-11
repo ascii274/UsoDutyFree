@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UsoDutyFree</string>
+
+
+    <!-- TODO: # txt of button MainActivity-->
+    <string name="txtArticulo">Ver Artículos</string>
+    <string name="txtConvenio">Convenio 2017-19 </string>
+    <string name="txtConsaguinidad">Consaguinidad / Afinidad</string>
+    <string name="txtFavoritos">Mis Favoritos</string>
+    <string name="txtBuscar">Buscar</string>
+    <string name="txtFaq">Preguntas Frequentes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+    <!-- Todo: String en Manifest -->
+    <string name="lblConvenio">Convenio Colectivo</string>
+    <string name="lblIndArticulo">Indice Artículos</string>
+
+</resources>

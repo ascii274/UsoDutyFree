@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+<!---
+codigo artículos del convenio 2011-2014
+todo: si se modifica..modificar tambien descripcion_articulos_2017_2019.xml
+ -->
+    <string-array name="araCodeArt">
+		<item >Artículo 01</item>
+		<item>Artículo 02</item>
+		<item>Artículo 03</item>
+		<item>Artículo 04</item>
+		<item>Artículo 05</item>
+		<item>Artículo 06</item>
+		<item>Artículo 07</item>
+		<item>Artículo 08</item>
+		<item>Artículo 09</item>
+		<item>Artículo 10</item>
+		<item>Artículo 11</item>
+		<item>Artículo 12</item>
+		<item>Artículo 13</item>
+		<item>Artículo 14</item>
+		<item>Artículo 15</item>
+		<item>Artículo 16</item>
+		<item>Artículo 17</item>
+		<item>Artículo 18</item>
+		<item>Artículo 19</item>
+		<item>Artículo 20</item>
+		<item>Artículo 21</item>
+		<item>Artículo 22</item>
+		<item>Artículo 23</item>
+		<item>Artículo 24</item>
+		<item>Artículo 25</item>
+		<item>Artículo 26</item>
+		<item>Artículo 27</item>
+		<item>Artículo 28</item>
+		<item>Artículo 29</item>
+		<item>Artículo 30</item>
+		<item>Artículo 31</item>
+		<item>Artículo 32</item>
+		<item>Artículo 33</item>
+		<item>Artículo 34</item>
+		<item>Artículo 35</item>
+		<item>Artículo 36</item>
+		<item>Artículo 37</item>
+		<item>Artículo 38</item>
+		<item>Artículo 39</item>
+		<item>Artículo 40</item>
+		<item>Artículo 41</item>
+		<item>Artículo 42</item>
+		<item>Artículo 43</item>
+		<item>Artículo 44</item>
+		<item>Artículo 45</item>
+		<item>Artículo 46</item>
+		<item>Artículo 47</item>
+		<item>Artículo 48</item>
+		<item>Artículo 49</item>
+		<item>Artículo 50</item>
+		<item>Artículo 51</item>
+		<item>Artículo 52</item>
+		<item>Artículo 53</item>
+		<item>Artículo 54</item>
+		<item>Artículo 55</item>
+		<item>Artículo 56</item>
+		<item>Artículo 57</item>
+		<item>Artículo 58</item>
+		<item>Artículo 59</item>
+		<item>Artículo 60</item>
+		<item>Artículo 61</item>
+		<item>Artículo 62</item>
+		<item>Artículo 63</item>
+		<item>Artículo 64</item>
+		<item>Artículo 65</item>
+		<item>Artículo 66</item>
+		<item>Artículo 67</item>
+		<item>Artículo 68</item>
+		<item>Artículo 69</item>
+		<item>Artículo 70</item>
+		<item>Artículo 71</item>
+		<item>Artículo 72</item>
+		<item>Artículo 73</item>
+		<item>Artículo 74</item>
+		<item>Artículo 75</item>
+		<item>Capítulo XIII</item>
+		<item>Capítulo XIV</item>
+		<item>Anexo 1</item>
+		<item>Anexo 2</item>
+		<item>Anexo 3</item>
+		<item>Anexo 4</item>
+	</string-array>
+</resources>
+<!--
+completado
+ -->
+

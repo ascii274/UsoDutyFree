@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!---
+codigo artÃ­culos del convenio 2011-2014
+todo: si se modifica..modificar tambien codigo_articulos_2017_2019.xml
+
+ -->
+ <resources>
+
+    <string-array name="araDescCodeArt">
+    	
+    	<item>Ámbito Territorial.</item>	<!--- ArtÃ­culo 01.-->
+        <item>Ámbito Funcional.</item>		<!--- ArtÃ­culo 02-->
+        <item>Ámbito Personal.</item>		<!--- ArtÃ­culo 03 -->
+        <item>Ámbito Temporal.</item>		<!--- ArtÃ­culo 04-->
+        <item>Incremento Salarial.</item>	<!--- ArtÃ­culo 05-->
+        <item>Denuncia.</item>					<!--- ArtÃ­culo 06-->
+        <item>Garantías Personales.</item><!--- ArtÃ­culo 07-->
+        <item>Vinculación a la totalidad.</item>		<!--- ArtÃ­culo 08-->
+        <item>Comisión Mixta de Seguimiento e Interpretación.</item>	<!--- ArtÃ­culo 09-->
+        <item>Cumplimiento de Condiciones.</item>	<!--- ArtÃ­culo 10-->
+        <item>Organización.</item>		<!--- ArtÃ­culo 11-->
+        <item>Compensación de Condiciones.</item><!--- ArtÃ­culo 12-->
+		<item>Disposiciones Comunes.</item><!--- ArtÃ­culo 13-->
+		<item>Contratos Formativos.</item><!--- ArtÃ­culo 14-->
+		<item>Contrato a tiempo parcial.</item><!--- ArtÃ­culo 15-->
+		<item>Contrato de trabajo para trabajadores fijos discontinuos.</item><!--- ArtÃ­culo 16-->
+		<item>Derecho de preferencia.</item><!--- ArtÃ­culo 17-->
+		<item>Contrato de Circunstancias de la Producción.</item><!--- ArtÃ­culo 18-->
+		<item>Conversión en indefinidos.</item><!--- ArtÃ­culo 19-->
+		<item>Período de prueba.</item><!--- ArtÃ­culo 20-->
+		<item>Trabajos de distinto Grupo Profesional Superior.</item><!--- ArtÃ­culo 21-->
+		<item>Trabajos de Grupo Profesional inferior.</item><!--- ArtÃ­culo 22-->
+		<item>Criterios Generales.</item><!--- ArtÃ­culo 23-->
+		<item>Grupos Profesionales.</item><!--- ArtÃ­culo 24-->
+		<item>Movilidad Geográfica. Traslado.</item><!--- ArtÃ­culo 25-->
+		<item>Comisión de Promoción Profesional.</item><!--- ArtÃ­culo 26-->
+		<item>Cobertura de vacantes.</item><!--- ArtÃ­culo 27-->
+		<item>Incompatibilidades.</item><!--- ArtÃ­culo 28-->
+		<item>Excedencias.</item><!--- ArtÃ­culo 29-->
+		<item>Preaviso en supuestos de cese.</item><!--- ArtÃ­culo 30-->
+		<item>Conceptos Generales.</item><!--- ArtÃ­culo 31-->
+		<item>Artículo 32.</item><!--- ArtÃ­culo 32-->
+		<item>Compensación por trabajos nocturnos.</item><!--- ArtÃ­culo 33-->
+		<item>Retribuciones Extra-Salariales.</item><!--- ArtÃ­culo 34-->
+		<item>Anticipos reintegrables.</item><!--- ArtÃ­culo 35-->
+		<item>Pago de haberes.</item><!--- ArtÃ­culo 36-->
+		<item>Prestación por Matrimonio y Natalidad.</item><!--- ArtÃ­culo 37-->
+		<item>Prestaciones en casos de baja por enfermedad o accidente y Absentismo.</item><!--- ArtÃ­culo 38-->
+		<item>Jornada de Trabajo.</item><!--- ArtÃ­culo 39-->
+		<item>Horas extraordinarias.</item><!--- ArtÃ­culo 40-->
+		<item>Permisos.</item><!--- ArtÃ­culo 41-->
+		<item>Reducción por guarda legal. Conciliación de la vida laboral y familiar.</item><!--- ArtÃ­culo 42-->
+		<item>Vacaciones.</item><!--- ArtÃ­culo 43-->
+		<item>Jubilación.</item><!--- ArtÃ­culo 44-->
+		<item>Competencia.</item><!--- ArtÃ­culo 45-->
+		<item>Concepto.</item><!--- ArtÃ­culo 46-->
+		<item>Graduación de las faltas.</item><!--- ArtÃ­culo 47-->
+		<item>Sanciones.</item><!--- ArtÃ­culo 48-->
+		<item>Expediente sancionador.</item><!--- Art&#237culo 49-->
+		<item>Resolución.</item><!--- ArtÃ­culo 50-->
+		<item>Prescripción.</item><!--- ArtÃ­culo 51-->
+		<item>Seguridad en el trabajo.</item><!--- ArtÃ­culo 52-->
+		<item>Prevención del acoso en el trabajo.</item><!--- ArtÃ­culo 53-->
+		<item>Comités de Seguridad y Salud (CSS).</item><!--- ArtÃ­culo 54-->
+		<item>Equipos de protección individual.</item><!--- ArtÃ­culo 55-->
+		<item>Planes de Autoprotección.</item><!--- ArtÃ­culo 56-->
+		<item>Salud Laboral.</item><!--- ArtÃ­culo 57-->
+		<item> Formación en materia de prevención de riesgos laborales.</item><!--- ArtÃ­culo 58-->
+		<item>Uniformes.</item><!--- ArtÃ­culo 59-->
+		<item>Formación.</item><!--- ArtÃ­culo 60-->
+		<item>Disposiciones Generales.</item><!--- ArtÃ­culo 61-->
+		<item>Comité Intercentros.</item><!--- ArtÃ­culo 62-->
+		<item>Ámbito funcional.</item><!--- ArtÃ­culo 63-->
+		<item>Reuniones.</item><!--- ArtÃ­culo 64-->
+		<item>Cuantía.</item><!--- ArtÃ­culo 65-->
+		<item>Beneficiarios.</item><!--- ArtÃ­culo 66-->
+		<item>Derecho a la asignación.</item><!--- ArtÃ­culo 67-->
+		<item>Requisitos formales.</item><!--- ArtÃ­culo 68-->
+		<item>Becas.</item><!--- ArtÃ­culo 69-->
+		<item>Condiciones excepcionales.</item><!--- ArtÃ­culo 70-->
+		<item>Personal con capacidad disminuida.</item><!--- ArtÃ­culo 71-->
+		<item>Seguro de accidentes.</item><!--- ArtÃ­culo 72-->
+		<item>Seguro de vida.</item><!--- ArtÃ­culo 73-->
+		<item>Guarderías, aparcamiento y restaurante.</item><!--- ArtÃ­culo 74-->
+		<item>Cláusula de garantía.</item><!--- ArtÃ­culo 75-->
+		<item>Política de Igualdad de trato y oportunidades.</item><!--- ArtÃ­culo 76-->
+		<item>Garantia de mantenimiento de empleo y subrogación.</item><!--- Capitulo XIII-->
+		<item>Prima de objetivos.</item><!--- Capitulo XIV-->
+		<item>Definición de 1.o y 2.o grados consanguinidad y afinidad.</item><!--- Anexo 1-->
+		<item>Reglamento del fondo social de préstamos.</item><!--- Anexo 2-->
+		<item>Utilización de las herramientas informáticas.</item><!--- Anexo 3-->
+		<item>Sistema de retribución variable.</item><!--- Anexo 4-->
+
+    </string-array>
+</resources>
+
