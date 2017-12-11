@@ -286,6 +286,49 @@ public  class ConvenioPlaceholderFragment extends Fragment {
                 textViewContent.setText(R.string.art49Content);
                 break;
             case 50:
+                textViewHead.setText(R.string.art50Head);
+                textViewContent.setText(R.string.art50Content);
+                break;
+            case 51:
+                textViewHead.setText(R.string.art51Head);
+                textViewContent.setText(R.string.art51Content);
+                break;
+            case 52:
+                textViewHead.setText(R.string.art52Head);
+                textViewContent.setText(R.string.art52Content);
+                break;
+            case 53:
+                textViewHead.setText(R.string.art53Head);
+                textViewContent.setText(R.string.art53Content);
+                break;
+            case 54:
+                textViewHead.setText(R.string.art54Head);
+                textViewContent.setText(R.string.art54Content);
+                break;
+            case 55:
+                textViewHead.setText(R.string.art55Head);
+                textViewContent.setText(R.string.art55Content);
+                break;
+            case 56:
+                textViewHead.setText(R.string.art56Head);
+                textViewContent.setText(R.string.art56Content);
+                break;
+            case 57:
+                textViewHead.setText(R.string.art57Head);
+                textViewContent.setText(R.string.art57Content);
+                break;
+            case 58:
+                textViewHead.setText(R.string.art58Head);
+                textViewContent.setText(R.string.art58Content);
+                break;
+            case 59:
+                textViewHead.setText(R.string.art59Head);
+                textViewContent.setText(R.string.art59Content);
+                break;
+            case 60:
+                textViewHead.setText(R.string.art60Head);
+                textViewContent.setText(R.string.art60Content);
+                break;
         }
 
                 /*

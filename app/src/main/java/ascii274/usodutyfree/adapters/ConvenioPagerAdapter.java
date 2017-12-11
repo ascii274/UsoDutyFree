@@ -148,6 +148,26 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
                 return "SECTION 50";
             case 50:
                 return "SECTION 51";
+            case 51:
+                return "SECTION 52";
+            case 52:
+                return "SECTION 53";
+            case 53:
+                return "SECTION 54";
+            case 54:
+                return "SECTION 55";
+            case 55:
+                return "SECTION 56";
+            case 56:
+                return "SECTION 57";
+            case 57:
+                return "SECTION 58";
+            case 58:
+                return "SECTION 59";
+            case 59:
+                return "SECTION 60";
+            case 60:
+                return "SECTION 61";
         }
         return null;
 

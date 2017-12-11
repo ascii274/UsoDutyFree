@@ -193,8 +193,36 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
                 case "Artículo 50":
                     mViewPager.setCurrentItem(49);
                     break;
-
-
+                case "Artículo 51":
+                    mViewPager.setCurrentItem(50);
+                    break;
+                case "Artículo 52":
+                    mViewPager.setCurrentItem(51);
+                    break;
+                case "Artículo 53":
+                    mViewPager.setCurrentItem(52);
+                    break;
+                case "Artículo 54":
+                    mViewPager.setCurrentItem(53);
+                    break;
+                case "Artículo 55":
+                    mViewPager.setCurrentItem(54);
+                    break;
+                case "Artículo 56":
+                    mViewPager.setCurrentItem(55);
+                    break;
+                case "Artículo 57":
+                    mViewPager.setCurrentItem(56);
+                    break;
+                case "Artículo 58":
+                    mViewPager.setCurrentItem(57);
+                    break;
+                case "Artículo 59":
+                    mViewPager.setCurrentItem(58);
+                    break;
+                case "Artículo 60":
+                    mViewPager.setCurrentItem(59);
+                    break;
 
 
                 default:
