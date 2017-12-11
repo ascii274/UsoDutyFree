@@ -580,57 +580,78 @@
     Artículo 24. Grupos Profesionales.
     </string>
     <string formatted="false" name="art24Content">
+        \t
         a) Grupo Profesional I: Trabajadores que tienen la responsabilidad directa en la
     gestión, comprendiendo trabajos de decisión y funciones de organización, planificación,
     ejecución y control. Poseen un cierto grado de autonomía, iniciativa y responsabilidad,
     realizando labores de jefatura y mando, asumiendo la responsabilidad global de un área
-    funcional, departamento o centro de trabajo en la Empresa.\n\n
+    funcional, departamento o centro de trabajo en la Empresa.
+        \n\t
         b) Grupo Profesional II: Trabajadores que pueden tener responsabilidad de mando
-    dirigiendo y coordinando los trabajos de un sector o grupo de trabajadores, efectuando
-    sus tareas con autonomía dentro del área funcional en la que están incardinados.\n\n
-    c) Grupo Profesional III: Trabajadores cuyo trabajo requiere amplios conocimientos
-    y destrezas dentro de las diferentes especialidades que supongan un determinado grado
-    de profesionalidad en el desempeño de los trabajos asignados, y que pueden coordinar o
-    supervisar el trabajo de un grupo de trabajadores.\n\n
-    d) Grupo Profesional IV: Aquellos trabajadores que aunque realicen tareas con
+    dirigiendo y coordinando los trabajos de un sector o grupo de trabajadores, efectuando sus
+    tareas con autonomía dentro del área funcional en la que están incardinados.
+        \n\t
+        c) Grupo Profesional III: Trabajadores cuyo trabajo requiere amplios conocimientos y
+    destrezas dentro de las diferentes especialidades que supongan un determinado grado de
+    profesionalidad en el desempeño de los trabajos asignados, y que pueden coordinar o
+    supervisar el trabajo de un grupo de trabajadores.
+        \n\t
+        d) Grupo Profesional IV: Aquellos trabajadores que aunque realicen tareas con
     instrucciones precisas, necesitan conocimientos profesionales, actitudes prácticas o
     exigencia de razonamiento, comportando, en todo caso, responsabilidad en la ejecución,
-    aunque bajo algún tipo de supervisión.\n\n
-    e) Grupo Profesional V: Trabajadores que realizan sus trabajos según instrucciones
+    aunque bajo algún tipo de supervisión.
+        \n\t
+        e) Grupo Profesional V: Trabajadores que realizan sus trabajos según instrucciones
     concretas y precisas con alto grado de dependencia y supervisión jerárquica y funcional,
     (comprendiendo la realización de trabajos auxiliares o complementarios de los anteriores),
     así como aquellos que requieran una aportación de esfuerzo físico.
+        \n\n
+
+
+
     </string>
     
     <!---  -->    
     <string formatted="false" name="art25Head">
     Artículo 25. Movilidad Geográfica. Traslado.        
     </string>
-    <string formatted="false" name="art25Content">        
+    <string formatted="false" name="art25Content">
+        \t
         Se entiende por traslado el cambio de un puesto de trabajo de un centro a otro y que
-    implique para el trabajador un cambio permanente de residencia a otra provincia.\n\n
-    El traslado podrá realizarse:\n
-    a) A instancias del interesado, formulada por escrito.\n
-    b) Por mutuo acuerdo entre Empresa y trabajador.\n
-    c) Por decisión de la Dirección de la Empresa, en el caso de necesidades del
-    servicio.\n\n
+    implique para el trabajador un cambio permanente de residencia a otra provincia.
+    El traslado podrá realizarse:
+        \n\t
+        a) A instancias del interesado, formulada por escrito.
+        \n\t
+        b) Por mutuo acuerdo entre Empresa y trabajador.
+        \n\t
+        c) Por decisión de la Dirección de la Empresa, en el caso de necesidades del servicio.
+        \n\t
         En el supuesto a) el trabajador no tendrá derecho a indemnización alguna.
-    Los desplazamientos temporales voluntarios a nuevos centros de trabajo no
-    supondrán traslados en los términos previstos en el presente artículo y en ellos se estará,
-    en cuanto a retribuciones se refiere, a lo acordado entre el trabajador desplazado y la
-    Empresa.\n\n
-     En el supuesto b) se estará a lo convenido entre ambas partes.\n
+        \n\t
+        Los desplazamientos temporales voluntarios a nuevos centros de trabajo no supondrán
+    traslados en los términos previstos en el presente artículo y en ellos se estará, en cuanto
+    a retribuciones se refiere, a lo acordado entre el trabajador desplazado y la Empresa.
+        \n\t
+        En el supuesto b) se estará a lo convenido entre ambas partes.
+        \n\t
         Cuando el traslado se efectúe por necesidades del servicio y siempre que existan
-    probadas razones técnicas, organizativas o de productividad que lo justifiquen, la
-    Dirección de la Empresa lo podrá llevar a cabo, sin perjuicio de lo establecido en el
-    artículo 40 del Estatuto de los Trabajadores.\n\n
-    Con ocasión del traslado forzoso, la Empresa:\n
-    a) Abonará al trabajador, previa justificación por éste, todos los gastos de viaje de él
-    y su familia, así como la de los enseres.\n
-    b) Una indemnización consistente en dos meses de salario.\n
+    probadas razones técnicas, organizativas o de productividad que lo justifiquen, la Dirección
+    de la Empresa lo podrá llevar a cabo, sin perjuicio de lo establecido en el artículo 40 del
+    Estatuto de los Trabajadores.
+        \n\t
+        Con ocasión del traslado forzoso, la Empresa:
+        \n\t
+        a) Abonará al trabajador, previa justificación por éste, todos los gastos de viaje de él
+    y su familia, así como la de los enseres.
+        \n\t
+        b) Una indemnización consistente en dos meses de salario.
     Cuando se produzca vacante a cubrir, del grupo del trasladado, en el centro de trabajo
     de origen, aquél tendrá derecho preferente a ocupar dicha vacante siempre que cumpla
     con los requerimientos y exigencias de la misma.
+        \n\n
+
+
     </string>
     
     <!---  -->    
@@ -639,19 +660,24 @@
 
     </string>
     <string formatted="false" name="art26Content">
-    Ambas partes reconocen la importancia de la promoción profesional como herramienta
-    de motivación dentro de la empresa.\n\n
-        Se nombrará una Comisión de Promoción Profesional con sede en OO.CC. cuya
+        \t
+        Ambas partes reconocen la importancia de la promoción profesional como herramienta
+    de motivación dentro de la empresa.
+        \t\n
+        Se nombrará una Comisión de Promoción Profesional con sede en OO.CC cuya
     composición será la misma de la Comisión Mixta regulada en el artículo 9 del presente
     Convenio. A esta Comisión se le dará traslado de todas las convocatorias que no afecten
     a puestos de confianza ni de libre designación y además sus miembros participarán en la
-    aplicación y corrección de pruebas en caso de la promoción a Grupo III.\n\n
-        En el plazo de un año a partir de la firma del Convenio Colectivo, tendrá como objetivo
-    prioritario llevar a cabo una evaluación del proceso actual de promoción a Grupo III y
-    estudiará posibles alternativas que permitan la agilización del mismo. Asimismo la
-    Comisión de Promoción Profesional analizará la posibilidad de establecer mecanismos de
-    promoción a Grupo IV, en la medida en que sean compatibles con la organización de la
-    actividad productiva.
+    aplicación y corrección de pruebas en caso de la promoción a Grupo III.
+        \t\n
+        La Comisión de Promoción Profesional tendrá como objetivo prioritario llevar a cabo
+    una evaluación del procedimiento actual de promoción a Grupo III, en el plazo de un año
+    a partir de la firma del Convenio Colectivo, y estudiará posibles alternativas que permitan
+    la agilización del proceso. Con el fin de regularizar la totalidad de las vacantes existentes
+    a la fecha de la firma del presente convenio, la convocatoria de las mismas se realizará
+    antes del 31 de marzo de 2018.
+        \n\n
+
     </string>
 
     
@@ -660,55 +686,56 @@
     Artículo 27. Cobertura de vacantes.
     </string>
     <string formatted="false" name="art27Content">
-        Sin perjuicio de las garantías establecidas en el artículo 16, cuando la Empresa
-    decida cubrir una vacante o una plaza de nueva creación, publicará en el tablón de
-    anuncios de los centros los requerimientos de aptitud oportunos para asegurar la
-    capacidad profesional y las condiciones físicas y psicológicas necesarias.\n\n
 
-        El sistema de promoción profesional será de aplicación a la totalidad de los
-    trabajadores afectados por el presente Convenio, estableciéndose dos procedimientos.\n\n
-
-    a) Libre designación de la Empresa: será libremente designado por la Empresa todo
-    aquel personal encuadrado en el Grupo Profesional II, así como todos los encuadrados
-    en el Grupo Profesional III cuyos puestos sean considerados de confianza, personal
-    adscrito a la Dirección y Secretarias de Dirección. En este supuesto se establece con
-    carácter general una preferencia a favor de los trabajadores de la empresa para ocupar
-    vacantes en niveles superiores a aquel en el que estuvieran adscritos.\n\n
-
-    b) Pruebas de ascenso: Se dará traslado a la Comisión de Promoción Profesional
-    de todas las convocatorias que no afecten a puestos de confianza y además participarán
-    en la aplicación de las pruebas y su corrección en caso el Grupo profesional III. Cuando
-    existan plazas vacantes y éstas vayan a cubrirse mediante pruebas de ascenso se dará
-    la correspondiente difusión a través de los tablones de anuncios de los centros y se
-    pondrá en conocimiento de la Comisión de Promoción Profesional con la suficiente
-    antelación haciendo constar en la convocatoria el puesto vacante, grupo profesional y
-    categoría. Se abrirá un periodo de diez días para la presentación de candidaturas; los
-    interesados habrán de señalar el puesto que ocupan en la actualidad, experiencia, cursos
-    realizados en su caso y demás circunstancias relevantes a efectos de selección.
-    Transcurrido el plazo, la Comisión de Promoción Profesional señalará día y hora para la
-    realización de las correspondientes pruebas, fijando el aviso en los tablones de anuncios
-    al menos con cinco días de antelación. Las pruebas, siempre que las vacantes no sean
-    de libre designación de la Empresa, se desarrollarán en presencia de la Comisión de
+        \t
+        Sin perjuicio de las garantías establecidas en el artículo 16, cuando la Empresa decida
+    cubrir una vacante o una plaza de nueva creación, publicar los requerimientos de aptitud
+    oportunos para asegurar la capacidad profesional y las condiciones físicas y psicológicas
+    necesarias.
+        \n\t
+        El sistema de promoción profesional será de aplicación a la totalidad de los trabajadores
+    afectados por el presente Convenio, estableciéndose dos procedimientos:
+        \n\t
+        a) Libre designación de la Empresa: será libremente designado por la Empresa todo
+    aquel personal encuadrado en el Grupo Profesional II, así como todos los encuadrados en
+    el Grupo Profesional III cuyos puestos sean considerados de confianza, personal adscrito
+    a las Direcciones y Secretarias de Dirección. En este supuesto se establece con carácter
+    general una preferencia a favor de los trabajadores de la empresa para ocupar vacantes
+    en niveles superiores a aquel en el que estuvieran adscritos.
+        \n\t
+        b) Pruebas de ascenso: Se dará traslado a la Comisión de Promoción Profesional de
+        todas las convocatorias que no afecten a puestos de confianza y además participarán en
+    la aplicación de las pruebas y su corrección en caso el Grupo profesional III. Cuando
+    existan plazas vacantes y éstas vayan a cubrirse mediante pruebas de ascenso se dará la
+    correspondiente difusión y se pondrá en conocimiento de la Comisión de Promoción
+    Profesional con la suficiente antelación haciendo constar en la convocatoria el puesto
+    vacante, grupo profesional y categoría. Se abrirá un periodo de diez días para la
+    presentación de candidaturas; los interesados habrán de señalar el puesto que ocupan en
+    la actualidad, experiencia, cursos realizados en su caso y demás circunstancias relevantes
+    a efectos de selección. Transcurrido el plazo, la Comisión de Promoción Profesional
+    señalará día y hora para la realización de las correspondientes pruebas, fijando el aviso al
+    menos con cinco días de antelación. Las pruebas, siempre que las vacantes no sean de
+    libre designación de la Empresa, se desarrollarán en presencia de la Comisión de
     Promoción Profesional. Igualmente, siempre que las vacantes a cubrir no sean de libre
-    designación de la Empresa, la Comisión de Promoción Profesional corregirá las pruebas
-    y decidirá por mayoría qué trabajador reúne las condiciones objetivas para promocionar,
-    en el caso que ninguno de los candidatos reúna las condiciones objetivas requeridas
-    declarará el concurso desierto. La Comisión de Promoción Profesional dará traslado de la
-    resolución a la dirección de la Empresa, que propondrá la candidatura de mayor
-    puntuación para la cobertura de la vacante. Caso de existir dos o más trabajadores con
-    igual puntuación la decisión de quién cubrirá la vacante será adoptada teniendo en
-    cuenta, en su caso, la preferencia para el género menos representado en el puesto a
-    cubrir.\n\n
-
+    designación de la Empresa, la Comisión de Promoción Profesional corregirá las pruebas y
+    decidirá por mayoría qué trabajador reúne las condiciones objetivas para promocionar, en
+    el caso que ninguno de los candidatos reúna las condiciones objetivas requeridas declarará
+    el concurso desierto. La Comisión de Promoción Profesional dará traslado de la resolución
+    a la dirección de la Empresa, que propondrá la candidatura de mayor puntuación para la
+    cobertura de la vacante. Caso de existir dos o más trabajadores con igual puntuación la
+    decisión de quién cubrirá la vacante será adoptada teniendo en cuenta, en su caso, la
+    preferencia para el género menos representado en el puesto a cubrir.
+        \n\t
         Con independencia de los requisitos objetivos de idoneidad para cubrir el puesto la
     Comisión de Promoción Profesional tomará en consideración las siguientes circunstancias
     entre otras: que el candidato haya realizado con aprovechamiento cursos y estudios de
-    perfeccionamiento profesional específicos, la inexistencia de sanciones frente al
-    trabajador, y aquellas recogidas en el Procedimiento de Promoción Profesional.\n\n
-
-        En cualquier caso, se anunciarán siempre los puestos a cubrir en los tablones de los
-    centros pudiendo el personal adscrito al presente Convenio enviar su solicitud adjuntando
-    el «currículum vitae».
+    perfeccionamiento profesional específicos, la inexistencia de sanciones frente al trabajador,
+    y aquellas recogidas en el Procedimiento de Promoción Profesional.
+        \n\t
+        En cualquier caso, se anunciarán siempre los puestos a cubrir, con difusión digital a
+    odos los centros del grupo al que pertenece la Empresa, pudiendo el personal adscrito al
+    presente Convenio enviar su solicitud adjuntando el «currículum vitae».
+        \n\n
 
     </string>
     
@@ -716,24 +743,30 @@
     <string formatted="false" name="art28Head">
     Artículo 28. Incompatibilidades.
     </string>
-    <string formatted="false" name="art28Content">        
+    <string formatted="false" name="art28Content">
+        \t
         El personal no podrá trabajar, por cuenta propia o ajena, ni colaborar, en Empresas
-    que comercien con las mismas mercancías que lo hace Aldeasa, o realicen iguales actos
-    de producción o de prestación de servicios.\n\n
+    que comercien con las mismas mercancías que lo hace World Duty Free Group, S.A., o
+    realicen iguales actos de producción o de prestación de servicios.
+        \n\t
         Al efecto de comprobar si existe esa concurrencia, el personal está obligado a
     comunicar a la Dirección de Recursos Humanos el nombre de la Empresa con la que
-    trabaja o colabora, y la función que en la misma desempeñe.\n\n
-
-        Se considerará falta grave la no comunicación u ocultación de los datos citados.\n
+    trabaja o colabora, y la función que en la misma desempeñe.
+    Se considerará falta grave la no comunicación u ocultación de los datos citados.
+        \n\t
         La Empresa, en el supuesto de trabajadores contratados a tiempo parcial deberá, con
     carácter previo a la adopción de una decisión negativa a la compatibilidad del trabajo
-    realizado en Aldeasa con el de otra u otras empresas, solicitar informe al Comité de
-    Empresa.\n\n
-        El empleado no aceptará remuneración alguna u otro provecho o beneficio ofrecido
-    por cualquier persona o Empresa con la cual Aldeasa tiene negocios o con la que está
-    relacionada por su ocupación en la misma, e igualmente tampoco podrá suscribir contrato
-    alguno, en nombre de Aldeasa, con familiares dentro del segundo grado de afinidad o
-    consanguinidad sin que exista autorización expresa por parte de la Empresa.
+    realizado en World Duty Free Group, SA con el de otra u otras empresas, solicitar informe
+    al Comité de Empresa.
+        \n\t
+        El empleado no aceptará remuneración alguna u otro provecho o beneficio ofrecido por
+    cualquier persona o Empresa con la cual WORLD DUTY FREE GROUP, S.A. tiene
+    negocios o con la que está relacionada por su ocupación en la misma, e igualmente
+    tampoco podrá suscribir contrato alguno, en nombre de WORLD DUTY FREE GROUP,
+    S.A., con familiares dentro del segundo grado de afinidad o consanguinidad sin que exista
+    autorización expresa por parte de la Empresa.
+        \n\n
+
     </string>
     
      <!---  -->    
@@ -741,84 +774,85 @@
     Artículo 29. Excedencias.
     </string>
     <string formatted="false" name="art29Content">
-        
-        Para la obtención de cualquier modalidad de excedencia, la persona deberá
-    comunicar su solicitud a la Empresa con al menos quince días de antelación a la fecha de
+        \t
+        Para la obtención de cualquier modalidad de excedencia, la persona deberá comunicar
+    por escrito su solicitud a la Empresa con al menos quince días de antelación a la fecha de
     inicio. El reingreso en el servicio activo de los excedentes se verificará previa solicitud por
     escrito de los interesados, con un mes de antelación al vencimiento de la excedencia
     (salvo disposición específica), siendo la fecha de presentación de la solicitud la que
     determinará la prioridad para el reingreso en el supuesto de concurrencia de varias
     peticiones. La inobservancia del periodo de preaviso supondrá la pérdida del derecho de
-    reingreso.\n\n
-    Los excedentes de cualquier modalidad pertenecientes a los grupos profesionales II y III
-    perderán el derecho a reingreso en el caso de que utilicen sus excedencias para trabajar
-    en una actividad relacionada con el «retail» aeroportuario.\n\n
-
-    a) Voluntaria.\n
-        Los trabajadores, con más de un año de antigüedad en la Empresa, podrán solicitar
-    excedencia voluntaria no retribuida para asuntos personales, por un periodo no inferior a
-    cuatro meses ni superior a cinco años. Este derecho sólo podrá ser ejercitado otra vez
-    por el trabajador si han transcurrido cuatro años desde el final de la anterior excedencia.
-    El excedente tendrá derecho a ocupar la primera vacante que se produzca de su
-    modalidad y categoría en el centro de trabajo en el que prestaba sus servicios.\n\n
-
-    b) Forzosa.\n
-    Se considera como tal el nombramiento para cargo público o elección para cargo
-    público o sindical de ámbito provincial o superior, con la consiguiente toma de posesión y
-    que no entrañe relación de empleo laboral. Al trabajador en excedencia forzosa se le
-    reservará su plaza mientras tal situación dure.\n\n
-    Concluido el motivo o razón por el que fuera otorgada esta excedencia, el beneficiario
+    reingreso.
+        \n\t
+        Los excedentes de cualquier modalidad pertenecientes a los grupos profesionales II
+    y III perderán el derecho a reingreso en el caso de que utilicen sus excedencias para
+    trabajar en una actividad relacionada con el «Retail» aeroportuario.
+        a) Voluntaria. Los trabajadores, con más de un año de antigüedad en la Empresa,
+    podrán solicitar excedencia voluntaria no retribuida para asuntos personales, por un
+    periodo no inferior a cuatro meses ni superior a cinco años. La excedencia no será
+    concedida hasta que el trabajador no haya liquidado los anticipos y los préstamos
+    recibidos. Este derecho sólo podrá ser ejercitado otra vez por el trabajador si han
+    transcurrido cuatro años desde el final de la anterior excedencia. El excedente tendrá
+    derecho a ocupar la primera vacante que se produzca de su modalidad y categoría en el
+    centro de trabajo en el que prestaba sus servicios.
+        \n\t
+        b) Forzosa. Se considera como tal el nombramiento para cargo público o elección
+    para cargo público o sindical de ámbito provincial o superior, con la consiguiente toma de
+    posesión y que no entrañe relación de empleo laboral. Al trabajador en excedencia forzosa
+    se le reservará su plaza mientras tal situación dure.
+        \n\t
+        Concluido el motivo o razón por el que fuera otorgada esta excedencia, el beneficiario
     deberá incorporarse a su puesto de trabajo en el plazo previsto por la legislación vigente.
     En caso contrario, perderá su derecho y dejará de ostentar la condición de trabajador de
-    Aldeasa.\n\n
-
-    c) Para cuidado de hijo.\n
-        Los trabajadores tendrán derecho a un periodo de excedencia, no superior a tres
-    años que podrá disfrutarse de forma fraccionada, para atender el cuidado de cada hijo,
-    tanto cuando lo sea por naturaleza, como por adopción, o en los supuestos de acogimiento
-    tanto permanente como preadoptivo, aunque éstos sean provisionales, a contar desde la
-    fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
-    La reincorporación será obligatoria, siempre que se notifique a la empresa con quince
+    World Duty Free Group, S.A.
+        \n\t
+        c) Para cuidado de hijo. Los trabajadores tendrán derecho a un periodo de
+    excedencia, no superior a tres años que podrá disfrutarse de forma fraccionada, para
+    atender el cuidado de cada hijo, tanto cuando lo sea por naturaleza, como por adopción, o
+    en los supuestos de guarda con fines de adopción o acogimiento permanente, a contar
+    desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
+        \n\t
+        La reincorporación será obligatoria, siempre que se notifique a la empresa con quince
     días de antelación a la fecha de vencimiento de la excedencia, siendo el periodo de
-    excedencia computable a efectos de antigüedad.\n\n
-
-    En lo no previsto en este apartado resultará de aplicación en su integridad lo dispuesto
-    en el artículo 46.3 del Estatuto de los trabajadores.\n\n
-
-    d) Para cuidado de familiar.\n
-    Los trabajadores tendrán derecho a solicitar excedencia por un periodo no superior a
-    dos años que podrá disfrutarse de forma fraccionada para cuidado de familiar hasta el
-    segundo grado de consanguinidad o afinidad, que por razones de edad, accidente,
-    enfermedad o discapacidad no pueda valerse por si mismo y no desempeñe actividad
-    retribuida.\n\n
-
-        Si dos o más trabajadores de la empresa generasen este derecho, por el mismo
-    sujeto causante, la Empresa podrá limitar su ejercicio simultáneo por razones
-    organizativas.\n\n
-
-        La reincorporación será obligatoria, siendo el periodo de excedencia computable a
-    efectos de antigüedad.\n\n
-
+    excedencia computable a efectos de antigüedad.
+            \n\t
         En lo no previsto en este apartado resultará de aplicación en su integridad lo dispuesto
+    en el artículo 46.3 del Estatuto de los trabajadores.
+        \n\t
+        d) Para cuidado de familiar. Los trabajadores tendrán derecho a solicitar excedencia
+    por un periodo no superior a dos años que podrá disfrutarse de forma fraccionada para
+    cuidado de familiar hasta el segundo grado de consanguinidad o afinidad, que por razones
+    de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no
+    desempeñe actividad retribuida.
+        \n\t
+        Si dos o más trabajadores de la empresa generasen este derecho, por el mismo sujeto
+    causante, la Empresa podrá limitar su ejercicio simultáneo por razones organizativas.
+        \n\t
+        La reincorporación será obligatoria, siendo el periodo de excedencia computable a
+    efectos de antigüedad.
+    En lo no previsto en este apartado resultará de aplicación en su integridad lo dispuesto
     en el artículo 46.3 del Estatuto de los Trabajadores.
+        \n\n
     </string>    
     
      <!---  -->    
     <string formatted="false" name="art30Head">
     Artículo 30. Preaviso en supuestos de cese.
     </string>
-    <string formatted="false" name="art30Content">        
+    <string formatted="false" name="art30Content">
+        \t
         En el supuesto de que el cese se produzca por voluntad del trabajador, éste deberá
     comunicarlo a la empresa por escrito, con una antelación de quince días. La ausencia de
     este aviso facultará a la empresa a aplicar en la liquidación de las retribuciones salariales
     devengadas por el trabajador, una minoración equivalente a las retribuciones
-    correspondientes a los días de defecto en el preaviso.\n\n
-
+    correspondientes a los días de defecto en el preaviso.
+        \n\t
         En el supuesto de contratos de trabajo de carácter temporal, cualesquiera que sea la
     modalidad contractual, y el contrato se extinga por expiración del tiempo convenido, la
     empresa deberá preavisar por escrito con quince días de antelación en los casos en que
     así se exija legalmente, debiéndose abonar en caso de incumplimiento de preaviso el
     salario correspondiente a los días de tal incumplimiento total o parcial.
+        \n\n
 
     </string>
     
