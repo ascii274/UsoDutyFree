@@ -56,9 +56,18 @@ public class CustomListIndiceArticulos extends ArrayAdapter <String>{
 
         viewHolder.txtVwConvenio1.setTextSize(idSize);
         viewHolder.txtVwConvenio2.setTextSize(descSize);
+        viewHolder.txtVwConvenio3.setTextSize(descSize);
 
         viewHolder.txtVwConvenio1.setText(strId [position]);
         viewHolder.txtVwConvenio2.setText(strDescription [position]);
+        if(position==0){
+            viewHolder.txtVwConvenio3.setVisibility(View.VISIBLE);
+            viewHolder.txtVwConvenio3.setText("Capitulo I");
+        }
+        if(position==10){
+            viewHolder.txtVwConvenio3.setVisibility(View.VISIBLE);
+            viewHolder.txtVwConvenio3.setText("Capitulo II");
+        }
         return v;
 
     }
@@ -66,12 +75,13 @@ public class CustomListIndiceArticulos extends ArrayAdapter <String>{
     class ViewHolder{
         TextView txtVwConvenio1;
         TextView txtVwConvenio2;
-        //TextView txtVwConvenio3;//Capitulo
+        TextView txtVwConvenio3;//Capitulo
 
         ViewHolder(View v){
 
             txtVwConvenio1=v.findViewById(R.id.txVwCustomLisCon_Id);
             txtVwConvenio2=v.findViewById(R.id.txVwCustoLisCon_Desc);
+                        txtVwConvenio3=v.findViewById(R.id.txVwCustoLisCon_Cap);
 
         }
     }

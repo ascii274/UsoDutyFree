@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources xmlns:android="http://schemas.android.com/tools">
-
-
-
+    
     <string formatted="false" name="art01Head">
         Ámbito Territorial.
     </string>
@@ -2102,7 +2100,165 @@
     uno de los años de vigencia del Convenio.
         \n\n
     </string>
-<!--
+
+    <string formatted="false" name="art61Head">
+        Artículo 61. Disposiciones Generales.
+    </string>
+    <string formatted="false" name="art61Content">
+        \t
+
+        La Empresa facilitará el lícito ejercicio de las actividades de la representación colectiva
+    o sindical, en sus centros de trabajo, a los Delegados de Personal o Vocales de los
+    Comités de Centro, elegidos por los trabajadores, de acuerdo con la legislación vigente.
+        \n\t
+        Las relaciones entre la Empresa y Comité o Delegados de personal se llevarán a cabo
+    a través de la Dirección de Recursos Humanos por parte de la Empresa y el Presidente o
+    Secretario por parte del Comité.
+        \n\t
+        Se acuerda expresamente la acumulación de horas sindicales en uno o más miembros
+    del Comité de Empresa siempre que pertenezcan al mismo centro de trabajo los
+    representantes cedentes y los beneficiarios del crédito horario.
+        \n\t
+        El sistema de acumulación de horas sindicales podrá utilizarse en el ámbito del
+    conjunto de la empresa de forma que cada sindicato con representación en la empresa
+    podrá acumular las horas de representación que corresponden a los delegados o
+    componentes del Comité de Empresa de su sindicato, en dos representantes o delegados
+    sindicales designados por cada organización sindical.
+        \n\t
+        Mejorando lo dispuesto en la Ley Orgánica de Libertad Sindical, cada sindicato tendrá
+    derecho al nombramiento de dos delegados sindicales.
+     \n\n
+    </string>
+    <string formatted="false" name="art62Head">
+        Artículo 62. Comité Intercentros.
+        </string>
+    <string formatted="false" name="art62Content">
+        \t
+        El Comité Intercentros es el órgano representativo y colegiado de todos los trabajadores
+    de la Empresa. Estará constituido por un máximo de trece miembros, designados por y de
+    entre los representantes de personal, pudiendo participar un delegado sindical por cada
+    sindicato presente en el mismo.
+        \n\t
+        Para la designación concreta de los representantes de cada centro de trabajo que
+    deban formar parte del Comité Intercentros, se tendrá en cuenta la proporcionalidad de los
+    sindicatos en el conjunto de la Empresa.
+        \n\t
+        El mandato de los miembros del Comité Intercentros tendrá la misma duración que la
+    del Comité del centro de trabajo al que pertenezcan, pudiendo durante la vigencia del
+    mandato ser sustituidos previa notificación del sindicato correspondiente.
+
+        \n\n
+    </string>
+    <string formatted="false" name="art63Head">
+        Artículo 63. Ámbito funcional.
+    </string>
+    <string formatted="false" name="art63Content">
+        \t
+
+        El Comité Intercentros tendrá a su cargo todas las cuestiones que excedan a las
+    competencias propias de los Comités de Empresa y Delegados de Personal, por secuestiones que afecten o, puedan afectar a varios centros de trabajo y entre ellas, las
+    siguientes:
+        \n\t
+        1) Proponer a la Dirección de la Empresa medidas de Seguridad e Higiene de
+    carácter general y vigilar su cumplimiento.
+        \n\t
+        2) Proponer a la Dirección de la Empresa planes generales de formación profesional
+        \n\t
+        3) Solicitar motivadamente de la Dirección de la Empresa la realización de asambleas
+    de trabajadores, responsabilizándose del buen orden de las mismas.
+        \n\t
+        4) Intervenir en todos aquellos problemas laborales de carácter individual y colectivo
+    que formulen los trabajadores. Su representación ante la Empresa se hará por la
+    Presidencia o Secretaría.
+        \n\t
+        5) Informar a propuesta de la Dirección de la Empresa sobre adecuación de los
+    niveles salariales y los grupos profesionales contemplados en el presente Convenio.
+        \n\n\t
+        Con base en el contenido de estas informaciones, el Comité Intercentros podrá
+    ormular proposiciones a la Dirección de la Empresa, que ésta contestará debidamente
+    sobre la aceptación o no de las propuestas formuladas.
+        \n\t
+        Los gastos de viaje y dietas que se ocasionen con motivo de las reuniones del Comité
+    Intercentros, correrán a cargo de la Empresa, con excepción de las extraordinarias no
+    autorizadas por ella.
+        \n\t
+        El lugar de reunión del Comité será en los locales de la Sede Social de la Empresa,
+    que facilitará los medios necesarios para que se pueda desarrollar eficazmente.
+
+        \n\n
+    </string>
+    <string formatted="false" name="art64Head">
+        Artículo 64. Reuniones.
+    </string>
+    <string formatted="false" name="art64Content">
+        \t
+
+        El Comité Intercentros se reunirá con la empresa cuando lo solicite la mitad más uno
+    de sus miembros, un tercio de los trabajadores representados o a petición de la misma.
+        \n\t
+        La solicitud para las reuniones del Comité será cursada por la Presidencia o la
+    Secretaría a la Dirección de Recursos Humanos de la Empresa, con cinco días hábiles de
+    antelación como mínimo, salvo en los supuestos excepcionales de negociación colectiva
+    o conflicto, en que podrá reducirse dicho plazo a lo estrictamente necesario.
+        \n\t
+        En la solicitud se habrá de señalar si se trata de reunión normal o convocada a petición
+    de alguna de las partes indicadas en el primer párrafo de este artículo, orden del día con
+    los asuntos a tratar, fecha y hora de su celebración.
+        \n\t
+        Recibida la solicitud, la Empresa dará las instrucciones necesarias y precisas para
+    autorizar la salida de los miembros del Comité de sus respectivos puestos de trabajo.
+        \n\t
+        Los miembros del Comité Intercentros que se encuentren desplazados devengarán
+    dietas y gastos de transporte.
+
+        \n\n
+    </string>
+    <string formatted="false" name="art65Head">
+        Artículo 65. Cuantía.
+    </string>
+    <string formatted="false" name="art65Content">
+        \t
+        Con efectos del día 1 de enero de 2017 se fija una ayuda mensual en razón de la
+    familia de 42,45 euros, por cónyuge y la misma cantidad por cada hijo menor de veintitrés
+    años que cumplan los requisitos señalados en los artículos siguientes, de todo el personal
+    de la Empresa con más de doce meses de antigüedad, siempre en proporción a su jornada
+    de trabajo.
+
+        \n\n
+    </string>
+    <string formatted="false" name="art66Head">
+        Artículo 66. Beneficiarios.
+
+    </string>
+    <string formatted="false" name="art66Content">
+        \t
+        Causará derecho a la asignación de protección familiar el cónyuge que conviva con el
+    beneficiario y dependa económicamente de él; se entenderá que no concurre esta última
+    condición cuando el cónyuge realice trabajos por cuenta propia o ajena o reciba
+    prestaciones periódicas de la Seguridad Social, la Empresa abonará la diferencia hasta
+    completar la cifra más elevada, continuando el trabajador en el cobro de la correspondiente
+    a la Seguridad Social.
+            \n\t
+        Si se extinguiese el derecho a la prestación de la Seguridad Social, subsistiendo la
+    obligación de World Duty Free Group, S.A. ésta revisará la situación y abonará la totalidad
+    de la suma correspondiente desde el momento de aquella extinción.
+        \n\t
+        Si lo que se extinguiese fuese el derecho a la prestación a cargo de World Duty Free
+    Group, S.A., ésta dejará de abonar la diferencia antes citada.
+        \n\t
+        No se apreciará falta de convivencia en los casos de separación transitoria y ocasional
+    por razón de trabajo, imposibilidad de encontrar vivienda en el nuevo puesto de destino y
+    demás circunstancias similares.
+
+        \n\n
+    </string>
+
+
+
+
+
+
+    <!--
     <string formatted="false" name="art60Head">
     </string>
     <string formatted="false" name="art60Content">
@@ -2111,7 +2267,8 @@
 
         \n\n
     </string>
-  -->
+
+      -->
 
 
 

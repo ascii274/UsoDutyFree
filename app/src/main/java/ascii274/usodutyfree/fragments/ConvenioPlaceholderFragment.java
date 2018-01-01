@@ -1,5 +1,6 @@
 package ascii274.usodutyfree.fragments;
 
+import android.app.ActionBar;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
 import android.graphics.Typeface;
@@ -11,9 +12,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import org.w3c.dom.Text;
+
 import ascii274.usodutyfree.R;
 
 import static android.support.design.R.id.visible;
+import static android.support.design.R.id.wrap_content;
 
 /**
  * Created by casujo on 9/14/17.
@@ -60,6 +64,8 @@ public  class ConvenioPlaceholderFragment extends Fragment {
         TextView textViewHead = (TextView) rootView.findViewById(R.id.txtArtHeader);
         TextView textViewContent = (TextView) rootView.findViewById(R.id.txtArtContent);
 
+
+
         //textViewHead.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
         //  num = getArguments().getInt(ARG_SECTION_NUMBER);
         //textViewHead.setText(R.string."art'+'num'+'Head'+);
@@ -84,7 +90,19 @@ public  class ConvenioPlaceholderFragment extends Fragment {
          */
         switch (num) {
             case 1:
+
+
                 textViewHead.setText(R.string.art01Head);
+                /*
+                textViewContent.setText(Html.fromHtml("" +
+                        "<table>" +
+                        "<tr><td>contenido uno</td></tr>"+
+                        "<tr><td>contenido uno</td></tr>"+
+                        "<tr><td>contenido uno</td></tr>"+
+                        "</table>"));
+                */
+
+
                 textViewContent.setText(R.string.art01Content);
                 break;
             case 2:
@@ -330,19 +348,6 @@ public  class ConvenioPlaceholderFragment extends Fragment {
                 textViewContent.setText(R.string.art60Content);
                 break;
         }
-
-                /*
-       Typeface face = Typeface.createFromAsset(getAssets(), "fonts/JosefinSans-Regular.ttf");
-       Typeface faceBold = Typeface.createFromAsset(getAssets(), "fonts/JosefinSans-Bold.ttf");
-       Typeface faceSemiBold = Typeface.createFromAsset(getAssets(), "fonts/JosefinSans-SemiBold.ttf");
-
-
-        nameButton.setTypeface(face);
-        nameTextView.setTypeface(face);
-        nameEditText.setTypeface(face);
-
-                 */
-
 
 
         return rootView;

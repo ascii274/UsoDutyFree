@@ -34,7 +34,13 @@
         android:layout_marginBottom="16dp"
         tools:ignore="RtlHardcoded" />
 
-
+    <!--
+    <RatingBar
+        android:id="@+id/ratingBar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numStars="5"/>
+        -->
 </LinearLayout>
    </ScrollView>
 
