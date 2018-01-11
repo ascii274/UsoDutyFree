@@ -3,6 +3,7 @@
     <color name="colorPrimary">#bf3d3d</color>
     <color name="colorPrimaryDark">#bf3d3d</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="capitulo">#d9d7d7</color>
 
     <!--el color: colBackActMain esta en el archivo layout/nombre_archivo.xml -->
     <color name="colBackActMain">#e4e2e2</color>

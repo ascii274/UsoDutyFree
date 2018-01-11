@@ -2131,7 +2131,7 @@
     </string>
     <string formatted="false" name="art62Head">
         Artículo 62. Comité Intercentros.
-        </string>
+    </string>
     <string formatted="false" name="art62Content">
         \t
         El Comité Intercentros es el órgano representativo y colegiado de todos los trabajadores
@@ -2228,7 +2228,6 @@
     </string>
     <string formatted="false" name="art66Head">
         Artículo 66. Beneficiarios.
-
     </string>
     <string formatted="false" name="art66Content">
         \t
@@ -2299,6 +2298,7 @@
         \n\n
     </string>
     <string formatted="false" name="art69Head">
+        Artículo 69. Becas.
     </string>
     <string formatted="false" name="art69Content">
         \t
@@ -2462,10 +2462,10 @@
         \n\n
 
 
-        ---------------------------------------------------------------\n
-        Anigúedad | Absentismo individual
-        ---------------------------------------------------------------\n
-        70 % \t|\t 30 %
+        -------------------------------------------------------------\n
+        Anigüedad \t| \t Absentismo individual\n
+        -------------------------------------------------------------\n
+        \t 70 % \t\t\t|\t\t\t 30 %
 
         \n\n\t
 

@@ -5,6 +5,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import ascii274.usodutyfree.adapters.ConvenioPagerAdapter;
 
@@ -220,15 +221,66 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
                 case "Artículo 59":
                     mViewPager.setCurrentItem(58);
                     break;
+
                 case "Artículo 60":
                     mViewPager.setCurrentItem(59);
                     break;
 
+                case "Artículo 61":
+                    mViewPager.setCurrentItem(60);
+                    break;
+
+                case "Artículo 62":
+                    mViewPager.setCurrentItem(61);
+                    break;
+                case "Artículo 63":
+                    mViewPager.setCurrentItem(62);
+                    break;
+                case "Artículo 64":
+                    mViewPager.setCurrentItem(63);
+                    break;
+                case "Artículo 65":
+                    mViewPager.setCurrentItem(64);
+                    break;
+                case "Artículo 66":
+                    mViewPager.setCurrentItem(65);
+                    break;
+                case "Artículo 67":
+                    mViewPager.setCurrentItem(66);
+                    break;
+                case "Artículo 68":
+                    mViewPager.setCurrentItem(67);
+                    break;
+                case "Artículo 69":
+                    mViewPager.setCurrentItem(68);
+                    break;
+                case "Artículo 70":
+                    mViewPager.setCurrentItem(69);
+                    break;
+                case "Artículo 71":
+                    mViewPager.setCurrentItem(70);
+                    break;
+                case "Artículo 72":
+                    mViewPager.setCurrentItem(71);
+                    break;
+                case "Artículo 73":
+                    mViewPager.setCurrentItem(72);
+                    break;
+                case "Artículo 74":
+                    mViewPager.setCurrentItem(73);
+                    break;
+                case "Artículo 75":
+                    mViewPager.setCurrentItem(74);
+                    break;
+                case "Artículo 76":
+                    mViewPager.setCurrentItem(75);
+                    break;
+
 
                 default:
-                    //Toast.makeText(this, "default", Toast.LENGTH_LONG).show();
+                    Toast.makeText(this, "Articulo: "+cod + " No encontrado", Toast.LENGTH_LONG).show();
 
-                    mViewPager.setAdapter(mConvenioPagerAdapter);
+                    //mViewPager.setAdapter(mConvenioPagerAdapter);
                     break;
             }
         } else{

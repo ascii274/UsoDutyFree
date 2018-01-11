@@ -11,8 +11,9 @@ import android.widget.ListView;
 public class IndiceArticulosConvenio extends AppCompatActivity {
 
   private   ListView listView;
-  private   String[] strCodeArt;
-  private   String[] strDescription;
+
+  private   String[] resCodeArt;
+  private   String[] resDescription;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,14 +26,14 @@ public class IndiceArticulosConvenio extends AppCompatActivity {
 
 
         /*Escogemos los codigos de articulos araCodeArt dentro de codigos_articulos_2017_2019.xml*/
-        strCodeArt=resources.getStringArray(R.array.araCodeArt);
+        resCodeArt=resources.getStringArray(R.array.araCodeArt);
 
         /*escogemos descripcion codigo araDescCodeArt dentro de descripcion_articulos_2017_2019.xml*/
-        strDescription=resources.getStringArray(R.array.araDescCodeArt);
+        resDescription=resources.getStringArray(R.array.araDescCodeArt);
 
 
         listView=(ListView) findViewById(R.id.lstVieEnFragArtConv);
-        CustomListIndiceArticulos customListIndiceArticulos =new CustomListIndiceArticulos(this,strCodeArt,strDescription,intIdSize,intDescSize);
+        CustomListIndiceArticulos customListIndiceArticulos =new CustomListIndiceArticulos(this,resCodeArt,resDescription,intIdSize,intDescSize);
         listView.setAdapter(customListIndiceArticulos);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -42,7 +43,7 @@ public class IndiceArticulosConvenio extends AppCompatActivity {
 
             /*
              *Todo: siguiente linea comentado es para mostrar el codigo que he picado
-             *Toast.makeText(IndiceArticulosConvenio.this,strCodeArt[i].trim(),Toast.LENGTH_SHORT).show();
+             *Toast.makeText(IndiceArticulosConvenio.this,resCodeArt[i].trim(),Toast.LENGTH_SHORT).show();
              */
 
             String valorCodArticulo= (String) adapterView.getItemAtPosition(i);

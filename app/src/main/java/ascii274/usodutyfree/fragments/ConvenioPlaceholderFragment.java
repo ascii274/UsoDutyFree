@@ -63,6 +63,7 @@ public  class ConvenioPlaceholderFragment extends Fragment {
         //TextView textViewCapitulo =(TextView) rootView.findViewById(R.id.txtCapitulo);
         TextView textViewHead = (TextView) rootView.findViewById(R.id.txtArtHeader);
         TextView textViewContent = (TextView) rootView.findViewById(R.id.txtArtContent);
+        //TextView textViewCapitulo=(TextView) rootView.findViewById(R.id.txVwCustoLisCon_Cap);
 
 
 
@@ -90,17 +91,9 @@ public  class ConvenioPlaceholderFragment extends Fragment {
          */
         switch (num) {
             case 1:
-
-
+                //textViewCapitulo.setVisibility(View.VISIBLE);
+                //textViewCapitulo.setText("Capitulo I");
                 textViewHead.setText(R.string.art01Head);
-                /*
-                textViewContent.setText(Html.fromHtml("" +
-                        "<table>" +
-                        "<tr><td>contenido uno</td></tr>"+
-                        "<tr><td>contenido uno</td></tr>"+
-                        "<tr><td>contenido uno</td></tr>"+
-                        "</table>"));
-                */
 
 
                 textViewContent.setText(R.string.art01Content);
@@ -346,6 +339,70 @@ public  class ConvenioPlaceholderFragment extends Fragment {
             case 60:
                 textViewHead.setText(R.string.art60Head);
                 textViewContent.setText(R.string.art60Content);
+                break;
+            case 61:
+                textViewHead.setText(R.string.art61Head);
+                textViewContent.setText(R.string.art61Content);
+                break;
+            case 62:
+                textViewHead.setText(R.string.art62Head);
+                textViewContent.setText(R.string.art62Content);
+                break;
+            case 63:
+                textViewHead.setText(R.string.art63Head);
+                textViewContent.setText(R.string.art63Content);
+                break;
+            case 64:
+                textViewHead.setText(R.string.art64Head);
+                textViewContent.setText(R.string.art64Content);
+                break;
+            case 65:
+                textViewHead.setText(R.string.art65Head);
+                textViewContent.setText(R.string.art65Content);
+                break;
+            case 66:
+                textViewHead.setText(R.string.art66Head);
+                textViewContent.setText(R.string.art66Content);
+                break;
+            case 67:
+                textViewHead.setText(R.string.art67Head);
+                textViewContent.setText(R.string.art67Content);
+                break;
+            case 68:
+                textViewHead.setText(R.string.art68Head);
+                textViewContent.setText(R.string.art68Content);
+                break;
+            case 69:
+                textViewHead.setText(R.string.art69Head);
+                textViewContent.setText(R.string.art69Content);
+                break;
+            case 70:
+                textViewHead.setText(R.string.art70Head);
+                textViewContent.setText(R.string.art70Content);
+                break;
+            case 71:
+                textViewHead.setText(R.string.art71Head);
+                textViewContent.setText(R.string.art71Content);
+                break;
+            case 72:
+                textViewHead.setText(R.string.art72Head);
+                textViewContent.setText(R.string.art72Content);
+                break;
+            case 73:
+                textViewHead.setText(R.string.art73Head);
+                textViewContent.setText(R.string.art73Content);
+                break;
+            case 74:
+                textViewHead.setText(R.string.art74Head);
+                textViewContent.setText(R.string.art74Content);
+                break;
+            case 75:
+                textViewHead.setText(R.string.art75Head);
+                textViewContent.setText(R.string.art75Content);
+                break;
+            case 76:
+                textViewHead.setText(R.string.art76Head);
+                textViewContent.setText(R.string.art76Content);
                 break;
         }
 

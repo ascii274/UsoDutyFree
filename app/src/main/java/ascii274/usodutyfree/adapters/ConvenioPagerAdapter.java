@@ -31,7 +31,7 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         // Show  total pages.
-        return 75;
+        return 76;
     }
 
 
@@ -168,12 +168,41 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
                 return "SECTION 60";
             case 60:
                 return "SECTION 61";
+            case 61:
+                return "SECTION 62";
+            case 62:
+                return "SECTION 63";
+            case 63:
+                return "SECTION 64";
+            case 64:
+                return "SECTION 65";
+            case 65:
+                return "SECTION 66";
+            case 66:
+                return "SECTION 67";
+            case 67:
+                return "SECTION 68";
+            case 68:
+                return "SECTION 69";
+            case 69:
+                return "SECTION 70";
+            case 70:
+                return "SECTION 71";
+            case 71:
+                return "SECTION 72";
+            case 72:
+                return "SECTION 73";
+            case 73:
+                return "SECTION 74";
+            case 74:
+                return "SECTION 75";
+            case 75:
+                return "SECTION 76";
+            case 76:
+                return "SECTION 77";
         }
         return null;
 
         //return "1"+ position;
     }
-
-
-
 }

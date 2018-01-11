@@ -15,7 +15,7 @@
         android:id="@+id/imageView4"
         android:layout_width="344dp"
         android:layout_height="150dp"
-        app:srcCompat="@drawable/usodutyfree_192x192"
+        app:srcCompat="@drawable/uso_duty_free_192x192"
 
 
         tools:ignore="ContentDescription,MissingConstraints,RtlHardcoded"

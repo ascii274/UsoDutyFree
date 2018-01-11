@@ -1,0 +1,41 @@
+commit 28e2c62d21eb2afd98c44818e9373fb28101c732
+Author: ascii274 <ascii274@gmail.com>
+Date:   Tue Jan 2 00:09:40 2018 +0100
+
+    Texto añadido en convenio hasta el art. 76
+
+commit 6b75f4fc3537386f9689ec27177afc490d3e7c57
+Author: ascii274 <ascii274@gmail.com>
+Date:   Mon Jan 1 23:12:08 2018 +0100
+
+    Texto convenio agredad art. 67
+
+commit 03505cb4952756c0133b7ebdeb836091227a28b6
+Author: ascii274 <ascii274@gmail.com>
+Date:   Mon Jan 1 22:57:03 2018 +0100
+
+    Texto convenio actualizado art. 65
+
+commit b5830d6765cd67c0ba4718786615994412da79e2
+Author: ascii274 <ascii274@gmail.com>
+Date:   Tue Dec 12 00:20:43 2017 +0100
+
+    Texto convenio actualizado hasta articulo 60
+
+commit b81d5b35b43c528ad1b6c3efef298b4f37a93498
+Author: ascii274 <ascii274@gmail.com>
+Date:   Mon Dec 11 17:37:54 2017 +0100
+
+    Texto convenio actualizado hasta el articulo 43
+
+commit 6014b14747b2517fcc7a308670763664f1253fa3
+Author: ascii274 <ascii274@gmail.com>
+Date:   Mon Dec 11 03:24:41 2017 +0100
+
+    Texto convenio actualizado hasta el articulo 30
+
+commit 040804e65b29ee3755006ac7a1f642e018776f6e
+Author: ascii274 <ascii274@gmail.com>
+Date:   Mon Dec 11 02:38:12 2017 +0100
+
+    En funcionamiento,anadido detalle art23
