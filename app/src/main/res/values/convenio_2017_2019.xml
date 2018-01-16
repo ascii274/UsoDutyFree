@@ -3,7 +3,7 @@
 <resources xmlns:android="http://schemas.android.com/tools">
     
     <string formatted="false" name="art01Head">
-        Ámbito Territorial.
+        Artículo 1.Ámbito Territorial.
     </string>
     <string formatted="false" name="art01Content">
         \t
@@ -15,7 +15,7 @@
     </string>
 
     <string formatted="false" name="art02Head">
-        Ámbito Funcional.
+        Artículo 2.Ámbito Funcional.
     </string>
     <string formatted="false" name="art02Content">
         \t
@@ -26,7 +26,7 @@
     </string>
     
     <string formatted="false" name="art03Head">
-        Ámbito Personal.
+        Artículo 3.Ámbito Personal.
     </string>
     <string formatted="false" name="art03Content">
         \t
@@ -43,7 +43,7 @@
     </string>
     
     <string formatted="false" name="art04Head">
-        Ámbito Temporal.
+        Artículo 4.Ámbito Temporal.
     </string>
     <string formatted="false" name="art04Content">
         \t
@@ -56,7 +56,7 @@
 </string>
     
     <string formatted="false" name="art05Head">
-        Incremento Salarial
+        Artículo 5.Incremento Salarial
     </string>
     <string formatted="false" name="art05Content">
         \t
@@ -68,17 +68,17 @@
 
 
         ---------------------------------------------------------------\n
-        Ventas 2017 (Euros) | Incremento SMG \n
+        Ventas 2017 (Euros) \t|\t Incremento SMG \n
         ---------------------------------------------------------------\n
-        685.000.000,00 € \t|\t 0.50%\n
-        702.125.000,00 € \t|\t 0.75%\n
-        719.678.125,00 € \t|\t 1.00%\n
-        737.670.078,13 € \t|\t 1.25%\n
-        756.111.830,08 € \t|\t 1.50%\n
-        775.014.625,83 € \t|\t 1.750%\n
-        794.389.991,48 € \t|\t 2.00%\n
-        814.249.741,26 € \t|\t 2.25%\n
-        834.605.984,79 € \t|\t 2.50%\n
+        685.000.000,00 € \t\t|\t 0.50%\n
+        702.125.000,00 € \t\t|\t 0.75%\n
+        719.678.125,00 € \t\t|\t 1.00%\n
+        737.670.078,13 € \t\t|\t 1.25%\n
+        756.111.830,08 € \t\t|\t 1.50%\n
+        775.014.625,83 € \t\t|\t 1.750%\n
+        794.389.991,48 € \t\t|\t 2.00%\n
+        814.249.741,26 € \t\t|\t 2.25%\n
+        834.605.984,79 € \t\t|\t 2.50%\n
         \n\n\t
 
         Con efectos 1 de enero de 2018 el salario mínimo garantizado (SMG), se incrementará
@@ -87,17 +87,17 @@
     venta mínima) según la siguiente tabla:\n\n
 
         ---------------------------------------------------------------\n
-        Ventas 2018 (Euros) | Incremento SMG \n
+        Ventas 2018 (Euros) \t|\t Incremento SMG \n
         ---------------------------------------------------------------\n
-        715.000.000,00 € \t|\t 0.50%\n
-        732.875.000,00 € \t|\t 0.75%\n
-        751.196.875,00 € \t|\t 1.00%\n
-        769.976.796,88 € \t|\t  1.25%\n
-        789.226.216,80 € \t|\t 1.50%\n
-        808.956.872,22 € \t|\t 1.75%\n
-        829.180.794,02 € \t|\t 2.00%\n
-        849.910.313,87 € \t|\t 2.25%\n
-        871.158.071,72 € \t|\t 2.50%\n
+        715.000.000,00 € \t\t|\t 0.50%\n
+        732.875.000,00 € \t\t|\t 0.75%\n
+        751.196.875,00 € \t\t|\t 1.00%\n
+        769.976.796,88 € \t\t|\t  1.25%\n
+        789.226.216,80 € \t\t|\t 1.50%\n
+        808.956.872,22 € \t\t|\t 1.75%\n
+        829.180.794,02 € \t\t|\t 2.00%\n
+        849.910.313,87 € \t\t|\t 2.25%\n
+        871.158.071,72 € \t\t|\t 2.50%\n
 
         \n\n\t
         Con efectos 1 de enero de 2019 el salario mínimo garantizado (SMG), se incrementará
@@ -106,17 +106,17 @@
 
 
         ---------------------------------------------------------------\n
-        Ventas 2019 (Euros) | Incremento SMG \n
+        Ventas 2019 (Euros)\t|\t Incremento SMG \n
         ---------------------------------------------------------------\n
-        770.000.000,00 € \t|\t 0.50%\n
-        789.250.000,00 € \t|\t 0.75%\n
-        808.981.250,00 € \t|\t 1.00%\n
-        829.205.781,25 € \t|\t 1.25%\n
-        849.935.925,78 € \t|\t 1.50%\n
-        871.184.323,93 € \t|\t 1.75%\n
-        892.963.932,02 € \t|\t 2.00%\n
-        915.288.030,32 € \t|\t 2.25%\n
-        938.170.231,08 € \t|\t 2.50%\n
+        770.000.000,00 € \t\t|\t 0.50%\n
+        789.250.000,00 € \t\t|\t 0.75%\n
+        808.981.250,00 € \t\t|\t 1.00%\n
+        829.205.781,25 € \t\t|\t 1.25%\n
+        849.935.925,78 € \t\t|\t 1.50%\n
+        871.184.323,93 € \t\t|\t 1.75%\n
+        892.963.932,02 € \t\t|\t 2.00%\n
+        915.288.030,32 € \t\t|\t 2.25%\n
+        938.170.231,08 € \t\t|\t 2.50%\n
 
         \n\n\t
          Asimismo, los conceptos Ayuda Familiar, Becas, Prestación por Matrimonio, Prestación
@@ -133,11 +133,10 @@
     la subida aplicable según dichas tablas, operando siempre la cifra más beneficiosa de los
     dos escenarios.\n\n
 
-        ok
     </string>
     
     <string formatted="false" name="art06Head">
-        Denuncia.
+       Artículo 6.Denuncia.
     </string>
     <string formatted="false" name="art06Content">
         \t1) La denuncia del presente Convenio Colectivo efectuada por cualquiera de las
@@ -157,24 +156,21 @@
     voluntario a los procedimientos establecidos mediante los acuerdos interprofesionales de
     ámbito estatal.\n\n
 
-    ok
 
     </string>
     
     <string formatted="false" name="art07Head">
-        Garantías Personales
+        Artículo 7.Garantías Personales
     </string>
     <string formatted="false" name="art07Content">
         \tCon independencia de las condiciones establecidas en el texto del presente Convenio,
     se respetarán las mejoras que, a título individual o colectivo diferenciado, pudieran disfrutar
     algunos de los trabajadores.\n\n
 
-        ok
-
     </string>
     
     <string formatted="false" name="art08Head">
-        Vinculación a la totalidad.
+        Artículo 8.Vinculación a la totalidad.
 
     </string>
     <string formatted="false" name="art08Content">
@@ -184,12 +180,10 @@
     reconsiderado totalmente por la Comisión Negociadora del Convenio, que, a estos efectos,
     se reunirá en un plazo máximo de ocho días.\n\n
 
-        ok
-
     </string>
     
     <string formatted="false" name="art09Head">
-        Comisión Mixta de Seguimiento e Interpretación.
+       Artículo 9.Comisión Mixta de Seguimiento e Interpretación.
         
     </string>
     <string formatted="false" name="art09Content">
@@ -245,10 +239,6 @@
         \n\n
 
 
-
-    ok
-
-
     </string>
     
     <string formatted="false" name="art10Head">
@@ -266,8 +256,6 @@
         En todo caso, cuando los trabajadores consideren justificado hacer uso del derecho a
     la huelga, tal derecho se ejercerá con arreglo a lo dispuesto en la legislación vigente.
         \n\n
-
-        ok
 
     </string>
     
@@ -300,7 +288,6 @@
     consultas con los representantes de los trabajadores por un período no inferior a 30 días.
         \n\n
 
-        ok
 
     </string>
     
@@ -318,7 +305,6 @@
     prevalecerán éstas.
         \n\n
 
-        ok
 
     </string>
     
@@ -335,7 +321,6 @@
     profesional que lo califica.
         \n\n
 
-        ok
 
     </string>
     
@@ -357,7 +342,6 @@
     salario establecido en Convenio Colectivo para el Grupo Profesional correspondiente.
         \n\n
 
-        ok
 
     </string>
     
@@ -390,7 +374,6 @@
     media anual de las realizadas en los siguientes dos años.
         \n\n
 
-        ok
 
     </string>
     
@@ -501,8 +484,6 @@
     escrito. Durante el período de prueba, por la Empresa y el trabajador podrá resolverse
     libremente el contrato sin plazo de preaviso y sin derecho a indemnización alguna.
         \n\n
-        ok
-
 
     </string>
     <!---  -->    
@@ -525,8 +506,6 @@
     percibir la diferencia existente entre el salario del grupo profesional de origen y el de las
     funciones del grupo superior encomendado.
         \n\n
-        ok
-
 
     </string>
     
@@ -540,9 +519,7 @@
     tareas correspondientes a grupo profesional inferior al que pertenezca el trabajador y por
     el tiempo imprescindible. El trabajador afectado, mantendrá el salario y beneficios de su
     propio grupo profesional.
-
         \n\n
-        ok
 
     </string>
     
@@ -1030,7 +1007,7 @@
         Mejorando lo dispuesto en el artículo 29 del estatuto de los Trabajadores, la Empresa
     continuará aplicando el régimen de concesión de anticipos a cuenta, reintegrables y sin
     interés. El plazo máximo de devolución será de un año.
-        \nn
+        \n\n
     </string>
 
     <!---  -->    
@@ -1044,7 +1021,7 @@
     o de ahorro que el trabajador designe entregándose recibo del salario a los trabajadores.
     Esta obligación podrá cumplirse empleando medios telemáticos, cuando el empleado
     disponga de dirección de correo electrónico de la Empresa o así lo solicite voluntariamente.
-        \nn
+        \n\n
 
     </string>
     
@@ -1069,7 +1046,7 @@
         \n\t
         En el supuesto de que tanto el padre como la madre presten sus servicios en la
     empresa sólo uno de ellos tendrá derecho a la percepción de la Prestación por Natalidad.
-        \nn
+        \n\n
 
     </string>
     
@@ -1159,7 +1136,7 @@
         Se considerará falta grave eludir los sistemas de control horario así como impedir que
     sean detectados los incumplimientos injustificados de la jornada de trabajo.
 
-        \nn
+        \n\n
     </string>
     
     <!---  -->    
@@ -1239,18 +1216,24 @@
     resulte imposible la compensación con descanso y siempre que el número de horas
     realizadas no exceda de los límites legales, serán abonadas con el importe que resulte de
     la aplicación de la siguiente fórmula:
-        \n\n\n
+        \n\n\t
 
+        Nota: Para ver mejor la formula, recomendamos consultar el convenio original.
+        \n\n
         
     ((S.M.G.+C.B.B.)X16)+CBC+(AX12)\n
     --------------------------------------------------- X 125%\n
-    Jornada anual pactada\n
+    Jornada anual pactada
+        \n\n
 
-        \n
     S.B.G. = Salario Mínimo Garantizado.
+        \n
     C.B.B. = Condición más Beneficiosa Básica.
+        \n
     C.B.C. = Condición más Beneficiosa Complementaria.
+        \n
     A = Antigüedad.
+        \n\n
 
     </string>
 
@@ -1564,14 +1547,23 @@
         En los casos en los que el trabajador decida acceder a la jubilación voluntaria
     anticipada si esta fuera aceptada por la Empresa, podrá ser gratificado por, con arreglo a
     las siguientes cuantías:
+        \n\n\t
+
+        Nota: Recomendamos consultar el apartado siguiente con el convenio original.
         \n\t
+
+        (*)Edad de jubilación ordinaria menos 2 años, indemnizacion de 100% del Salario Anual
+        \n\t
+        (*)Edad de jubilación ordinaria menos 1 año, indemnizacion de 100% del Salario Anual
+
+        \n\n\t
 
         En el caso de que el trabajador fuera perceptor del concepto denominado CBB, si su
     solicitud fuera aceptada por la Empresa percibirá, adicionalmente a la cuantía de la citada
     gratificación, una cantidad equivalente a multiplicar por veinticuatro el último importe
     mensual abonado por este concepto, no siendo de aplicación en estos casos la cláusula
     de garantía del artículo 75 del presente Convenio.
-        \n\n
+
 
     </string>
 
@@ -2459,16 +2451,16 @@
     El número de CBB pendientes de adjudicación se verificará en cada uno de los centros
     en reunión conjunta de la Empresa y el Comité de centro según los criterios siguientes:
 
-        \n\n
+        \n
+
+        ---------------------------------------------------------------\n
+        Antigüedad \t  | \t Absentismo individual\n
+        ---------------------------------------------------------------\n
+        \t\t\t 70% \t\t | \t\t\t 30% \n
+        ---------------------------------------------------------------\n
 
 
-        -------------------------------------------------------------\n
-        Anigüedad \t| \t Absentismo individual\n
-        -------------------------------------------------------------\n
-        \t 70 % \t\t\t|\t\t\t 30 %
-
-        \n\n\t
-
+        \n\t
 
         Antigüedad: expresada por días desde la fecha de alta en la empresa con el mismo
     baremo que utiliza para el abono del complemento de antigüedad es decir contabilizando
@@ -2499,6 +2491,100 @@
     y evaluación.
 
         \n\n
+    </string>
+    <string formatted="false" name="capitulo13Head">
+        Capítulo XIII. Garantia de mantenimiento de empleo y subrogación
+    </string>
+    <string formatted="false" name="capitulo13Content">
+        \t
+        Las partes firmantes del presente Convenio en su compromiso con el mantenimiento
+    del empleo, se someten expresamente en todo lo no regulado en el I Acuerdo Marco del
+    Comercio –AMAC– (o acuerdo/norma que le sustituya), y concretamente en lo referido a
+    la regulación de las sucesiones empresariales de las compañías de comercio establecidas
+    en aeropuertos, estaciones marítimas y ferroviarias.
+
+
+        \n\n
+    </string>
+    <string formatted="false" name="capitulo14Head">
+        Capítulo XIV. Prima de Objetivos
+    </string>
+    <string formatted="false" name="capitulo14Content">
+
+        \n\t
+
+        Para cada uno de los años de vigencia del Convenio, con el fin de premiar la
+    consecución de un resultado financiero positivo, se establece una prima de objetivos.
+    Una vez cerrado cada uno de los ejercicios y para el supuesto que, en cada uno de
+    ellos, el resultado operativo (EBIT) del negocio minorista («Retail») en España, de la
+    sociedad World Duty Free Group S.A sea superior al 5% respecto del obtenido en al año
+    anterior, se establece una prima en la cuantía de 200 euros lineales. Esta prima se
+    incrementará en 15 euros por cada punto de más superado dicho 5% hasta un tope
+    del 25% con una cuantía máxima de 500 euros. La cuantía final a percibir será abonada
+    en el mes siguiente al del cierre de cada uno de los ejercicios.
+        \n\t
+    El abono de la prima se efectuará en proporción al tiempo trabajado y a la jornada del
+    trabajador, y no tendrá carácter consolidable.
+        \n\n
+        Tabla de prima de objetivos
+        \n
+
+        ------------------------------------------------\n
+        Incremento \t  | \t Cuantía a \n
+        porcentual \t  | \t percibir €
+        ------------------------------------------------\n
+        \t 5% \t\t\t | \t 200 \n
+        \t 6% \t\t\t | \t 215 \n
+        \t 7% \t\t\t | \t 230 \n
+        \t 8% \t\t\t | \t 245 \n
+        \t 9% \t\t\t | \t 260 \n
+        \t 10% \t\t\t | \t 275 \n
+        \t 11% \t\t\t | \t 290 \n
+        \t 12% \t\t\t | \t 305 \n
+        \t 13% \t\t\t | \t 320 \n
+        \t 14% \t\t\t | \t 335 \n
+        \t 15% \t\t\t | \t 350 \n
+        \t 16% \t\t\t | \t 365 \n
+        \t 17% \t\t\t | \t 380 \n
+        \t 18% \t\t\t | \t 395 \n
+        \t 19% \t\t\t | \t 410 \n
+        \t 20% \t\t\t | \t 425 \n
+        \t 21% \t\t\t | \t 440 \n
+        \t 22% \t\t\t | \t 455 \n
+        \t 23% \t\t\t | \t 470 \n
+        \t 24% \t\t\t | \t 485 \n
+        \t 25% \t\t\t | \t 500 \n
+        \n
+
+    Disposición adicional primera.
+        \n\n\t
+        Las partes firmantes del presente Convenio consideran necesario establecer
+    procedimientos voluntarios de solución de conflictos de carácter colectivo, asumiendo en
+    su integridad el V Acuerdo sobre Solución Autónoma de Conflictos Laborales (ASAC),
+    sometiéndose con carácter previo a cualquier conflicto a los órganos de solución de
+    conflictos establecidos a nivel autonómico y nacional.
+        \n\t
+        Asimismo con carácter previo al ejercicio del derecho de huelga, las partes se
+    comprometen a agotar los procedimientos voluntarios de solución de conflictos conforme
+    a lo establecido en el párrafo anterior.
+        \n\n
+    Disposición adicional segunda.
+        \n\n\t
+    La empresa se compromete a contribuir a la máxima difusión del Código Ético de la
+    compañía de tal manera que todos los trabajadores lo conozcan y cumplan las
+    disposiciones contenidas en el citado documento.
+        \n\n
+    Disposición adicional tercera.
+        \n\n\t
+        Todas las referencias realizadas a trabajadores, secretarios, vocales, hijos, interesados y
+    otras de aparente género masculino, a efectos de buscar la mayor simplificación en la
+    redacción del texto, se entienden efectuadas en género neutro, es decir, también referidas al
+    género femenino, salvo aquellos casos en que, por imperativo legal, correspondan a la mujer.
+
+        \n\n
+
+
+
     </string>
 
 

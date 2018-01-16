@@ -19,11 +19,6 @@ import ascii274.usodutyfree.R;
 import static android.support.design.R.id.visible;
 import static android.support.design.R.id.wrap_content;
 
-/**
- * Created by casujo on 9/14/17.
- */
-
-
 
 public  class ConvenioPlaceholderFragment extends Fragment {
 
@@ -403,6 +398,14 @@ public  class ConvenioPlaceholderFragment extends Fragment {
             case 76:
                 textViewHead.setText(R.string.art76Head);
                 textViewContent.setText(R.string.art76Content);
+                break;
+            case 77:
+                textViewHead.setText(R.string.capitulo13Head);
+                textViewContent.setText(R.string.capitulo13Content);
+                break;
+            case 78:
+                textViewHead.setText(R.string.capitulo14Head);
+                textViewContent.setText(R.string.capitulo14Content);
                 break;
         }
 

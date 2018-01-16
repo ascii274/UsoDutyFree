@@ -13,9 +13,6 @@ import android.widget.ListView;
 import ascii274.usodutyfree.IndiceArticulosConvenio;
 import ascii274.usodutyfree.R;
 
-/**
- * Created by casujo on 9/8/17.
- */
 
 public class ArticuloConvenioFragment extends Fragment implements ListView.OnItemClickListener{
     View rootView;

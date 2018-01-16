@@ -1,8 +1,6 @@
 package ascii274.usodutyfree.adapters;
 
-/**
- * Created by casujo on 3/27/17.
- */
+
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -31,7 +29,7 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         // Show  total pages.
-        return 76;
+        return 79;
     }
 
 
@@ -46,6 +44,7 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
          */
 
         switch (position) {
+                // Texto es la que se ve en los tabs
             case 0:
                 return "Artículo 1";
             case 1:
@@ -63,143 +62,146 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
             case 7:
                 return "Artículo 8";
             case 8:
-                return "SECTION 9";
+                return "Artículo 9";
             case 9:
-                return "SECTION 10";
+                return "Artículo 10";
             case 10:
-                return "SECTION 11";
+                return "Artículo 11";
             case 11:
-                return "SECTION 12";
+                return "Artículo 12";
             case 12:
-                return "SECTION 13";
+                return "Artículo 13";
             case 13:
-                return "SECTION 14";
+                return "Artículo 14";
             case 14:
-                return "SECTION 15";
+                return "Artículo 15";
             case 15:
-                return "SECTION 16";
+                return "Artículo 16";
             case 16:
-                return "SECTION 17";
+                return "Artículo 17";
             case 17:
-                return "SECTION 18";
+                return "Artículo 18";
             case 18:
-                return "SECTION 19";
+                return "Artículo 19";
             case 19:
-                return "SECTION 20";
+                return "Artículo 20";
             case 20:
-                return "SECTION 21";
+                return "Artículo 21";
             case 21:
-                return "SECTION 22";
+                return "Artículo 22";
             case 22:
-                return "SECTION 23";
+                return "Artículo 23";
             case 23:
-                return "SECTION 24";
+                return "Artículo 24";
             case 24:
-                return "SECTION 25";
+                return "Artículo 25";
             case 25:
-                return "SECTION 26";
+                return "Artículo 26";
             case 26:
-                return "SECTION 27";
+                return "Artículo 27";
             case 27:
-                return "SECTION 28";
+                return "Artículo 28";
             case 28:
-                return "SECTION 29";
+                return "Artículo 29";
             case 29:
-                return "SECTION 30";
+                return "Artículo 30";
             case 30:
-                return "SECTION 31";
+                return "Artículo 31";
             case 31:
-                return "SECTION 32";
+                return "Artículo 32";
             case 32:
-                return "SECTION 33";
+                return "Artículo 33";
             case 33:
-                return "SECTION 34";
+                return "Artículo 34";
             case 34:
-                return "SECTION 35";
+                return "Artículo 35";
             case 35:
-                return "SECTION 36";
+                return "Artículo 36";
             case 36:
-                return "SECTION 37";
+                return "Artículo 37";
             case 37:
-                return "SECTION 38";
+                return "Artículo 38";
             case 38:
-                return "SECTION 39";
+                return "Artículo 39";
             case 39:
-                return "SECTION 40";
+                return "Artículo 40";
             case 40:
-                return "SECTION 41";
+                return "Artículo 41";
             case 41:
-                return "SECTION 42";
+                return "Artículo 42";
             case 42:
-                return "SECTION 43";
+                return "Artículo 43";
             case 43:
-                return "SECTION 44";
+                return "Artículo 44";
             case 44:
-                return "SECTION 45";
+                return "Artículo 45";
             case 45:
-                return "SECTION 46";
+                return "Artículo 46";
             case 46:
-                return "SECTION 47";
+                return "Artículo 47";
             case 47:
-                return "SECTION 48";
+                return "Artículo 48";
             case 48:
-                return "SECTION 49";
+                return "Artículo 49";
             case 49:
-                return "SECTION 50";
+                return "Artículo 50";
             case 50:
-                return "SECTION 51";
+                return "Artículo 51";
             case 51:
-                return "SECTION 52";
+                return "Artículo 52";
             case 52:
-                return "SECTION 53";
+                return "Artículo 53";
             case 53:
-                return "SECTION 54";
+                return "Artículo 54";
             case 54:
-                return "SECTION 55";
+                return "Artículo 55";
             case 55:
-                return "SECTION 56";
+                return "Artículo 56";
             case 56:
-                return "SECTION 57";
+                return "Artículo 57";
             case 57:
-                return "SECTION 58";
+                return "Artículo 58";
             case 58:
-                return "SECTION 59";
+                return "Artículo 59";
             case 59:
-                return "SECTION 60";
+                return "Artículo 60";
             case 60:
-                return "SECTION 61";
+                return "Artículo 61";
             case 61:
-                return "SECTION 62";
+                return "Artículo 62";
             case 62:
-                return "SECTION 63";
+                return "Artículo 63";
             case 63:
-                return "SECTION 64";
+                return "Artículo 64";
             case 64:
-                return "SECTION 65";
+                return "Artículo 65";
             case 65:
-                return "SECTION 66";
+                return "Artículo 66";
             case 66:
-                return "SECTION 67";
+                return "Artículo 67";
             case 67:
-                return "SECTION 68";
+                return "Artículo 68";
             case 68:
-                return "SECTION 69";
+                return "Artículo 69";
             case 69:
-                return "SECTION 70";
+                return "Artículo 70";
             case 70:
-                return "SECTION 71";
+                return "Artículo 71";
             case 71:
-                return "SECTION 72";
+                return "Artículo 72";
             case 72:
-                return "SECTION 73";
+                return "Artículo 73";
             case 73:
-                return "SECTION 74";
+                return "Artículo 74";
             case 74:
-                return "SECTION 75";
+                return "Artículo 75";
             case 75:
-                return "SECTION 76";
+                return "Artículo 76";
+
             case 76:
-                return "SECTION 77";
+                return "Capítulo XIII";
+            case 77:
+                return "Capítulo XIV";
         }
         return null;
 

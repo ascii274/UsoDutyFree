@@ -13,9 +13,9 @@
     <ImageView
         android:textAlignment="center"
         android:id="@+id/imageView4"
-        android:layout_width="344dp"
+        android:layout_width="match_parent"
         android:layout_height="150dp"
-        app:srcCompat="@drawable/uso_duty_free_192x192"
+        app:srcCompat="@drawable/uso_duty_free_250x192"
 
 
         tools:ignore="ContentDescription,MissingConstraints,RtlHardcoded"
@@ -47,7 +47,7 @@
     <Button
         android:id="@+id/btnVerArticulo"
         android:layout_width="0dp"
-        android:layout_height="49dp"
+        android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:text="@string/txtArticulo"
@@ -62,25 +62,33 @@
         />
 
 
-
     <Button
         android:id="@+id/btnConsaguinidad"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
         android:text="@string/txtConsaguinidad"
         android:textAlignment="center"
+
         android:textColor="#bf3d3d"
         android:textSize="12sp"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginLeft="8dp"
-
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnVerArticulo"
-        android:layout_marginRight="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"
         tools:textAllCaps="false"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnConsaguinidad"/>
 
     <!--
 

@@ -34,12 +34,16 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
 
             String cod;
             cod = parameters.getString("codArticulo");
+            //System.out.println(cod);
+
 
             mViewPager.setAdapter(mConvenioPagerAdapter);
 
             //cod=start at value=0
+            //Toast.makeText(this, "Articulo: "+cod  , Toast.LENGTH_LONG).show();
 
             switch (cod) {
+
 
                 case "Artículo 01":
                     mViewPager.setCurrentItem(0);
@@ -275,7 +279,12 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
                 case "Artículo 76":
                     mViewPager.setCurrentItem(75);
                     break;
-
+                case "Capítulo XIII":
+                    mViewPager.setCurrentItem(76);
+                    break;
+                case "Capítulo XIV":
+                    mViewPager.setCurrentItem(77);
+                    break;
 
                 default:
                     Toast.makeText(this, "Articulo: "+cod + " No encontrado", Toast.LENGTH_LONG).show();
