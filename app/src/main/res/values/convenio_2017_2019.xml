@@ -68,17 +68,18 @@
 
 
         ---------------------------------------------------------------\n
-        Ventas 2017 (Euros) \t|\t Incremento SMG \n
+        Ventas 2017 (Euros)   \t  |\t Incremento SMG \n
+        \t\t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje )
         ---------------------------------------------------------------\n
-        685.000.000,00 € \t\t|\t 0.50%\n
-        702.125.000,00 € \t\t|\t 0.75%\n
-        719.678.125,00 € \t\t|\t 1.00%\n
-        737.670.078,13 € \t\t|\t 1.25%\n
-        756.111.830,08 € \t\t|\t 1.50%\n
-        775.014.625,83 € \t\t|\t 1.750%\n
-        794.389.991,48 € \t\t|\t 2.00%\n
-        814.249.741,26 € \t\t|\t 2.25%\n
-        834.605.984,79 € \t\t|\t 2.50%\n
+        685.000.000,00 € \t\t     |\t 0.50%\n
+        702.125.000,00 € \t\t     |\t 0.75%\n
+        719.678.125,00 € \t\t     |\t 1.00%\n
+        737.670.078,13 € \t\t     |\t 1.25%\n
+        756.111.830,08 € \t\t     |\t 1.50%\n
+        775.014.625,83 € \t\t     |\t 1.750%\n
+        794.389.991,48 € \t\t     |\t 2.00%\n
+        814.249.741,26 € \t\t     |\t 2.25%\n
+        834.605.984,79 € \t\t     |\t 2.50%\n
         \n\n\t
 
         Con efectos 1 de enero de 2018 el salario mínimo garantizado (SMG), se incrementará
@@ -87,17 +88,18 @@
     venta mínima) según la siguiente tabla:\n\n
 
         ---------------------------------------------------------------\n
-        Ventas 2018 (Euros) \t|\t Incremento SMG \n
+        Ventas 2018 (Euros) \t    |\t Incremento SMG \n
+        \t\t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje )
         ---------------------------------------------------------------\n
-        715.000.000,00 € \t\t|\t 0.50%\n
-        732.875.000,00 € \t\t|\t 0.75%\n
-        751.196.875,00 € \t\t|\t 1.00%\n
-        769.976.796,88 € \t\t|\t  1.25%\n
-        789.226.216,80 € \t\t|\t 1.50%\n
-        808.956.872,22 € \t\t|\t 1.75%\n
-        829.180.794,02 € \t\t|\t 2.00%\n
-        849.910.313,87 € \t\t|\t 2.25%\n
-        871.158.071,72 € \t\t|\t 2.50%\n
+        715.000.000,00 € \t\t     |\t 0.50%\n
+        732.875.000,00 € \t\t     |\t 0.75%\n
+        751.196.875,00 € \t\t     |\t 1.00%\n
+        769.976.796,88 € \t\t     |\t  1.25%\n
+        789.226.216,80 € \t\t     |\t 1.50%\n
+        808.956.872,22 € \t\t     |\t 1.75%\n
+        829.180.794,02 € \t\t     |\t 2.00%\n
+        849.910.313,87 € \t\t     |\t 2.25%\n
+        871.158.071,72 € \t\t     |\t 2.50%\n
 
         \n\n\t
         Con efectos 1 de enero de 2019 el salario mínimo garantizado (SMG), se incrementará
@@ -106,17 +108,18 @@
 
 
         ---------------------------------------------------------------\n
-        Ventas 2019 (Euros)\t|\t Incremento SMG \n
+        Ventas 2019 (Euros)   \t  |\t Incremento SMG \n
+        \t\t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje )
         ---------------------------------------------------------------\n
-        770.000.000,00 € \t\t|\t 0.50%\n
-        789.250.000,00 € \t\t|\t 0.75%\n
-        808.981.250,00 € \t\t|\t 1.00%\n
-        829.205.781,25 € \t\t|\t 1.25%\n
-        849.935.925,78 € \t\t|\t 1.50%\n
-        871.184.323,93 € \t\t|\t 1.75%\n
-        892.963.932,02 € \t\t|\t 2.00%\n
-        915.288.030,32 € \t\t|\t 2.25%\n
-        938.170.231,08 € \t\t|\t 2.50%\n
+        770.000.000,00 € \t\t     |\t 0.50%\n
+        789.250.000,00 € \t\t     |\t 0.75%\n
+        808.981.250,00 € \t\t     |\t 1.00%\n
+        829.205.781,25 € \t\t     |\t 1.25%\n
+        849.935.925,78 € \t\t     |\t 1.50%\n
+        871.184.323,93 € \t\t     |\t 1.75%\n
+        892.963.932,02 € \t\t     |\t 2.00%\n
+        915.288.030,32 € \t\t     |\t 2.25%\n
+        938.170.231,08 € \t\t     |\t 2.50%\n
 
         \n\n\t
          Asimismo, los conceptos Ayuda Familiar, Becas, Prestación por Matrimonio, Prestación
@@ -2583,10 +2586,21 @@
 
         \n\n
 
-
-
     </string>
+    <string formatted="false" name="artAnexo1Head">
+        Definición de 1.o y 2.o grados consanguinidad y afinidad
+    </string>
+    <string formatted="false" name="artAnexo1Content">
+        \n\t
+        Se consideran familiares en primer grado de consanguinidad o afinidad del trabajador
+    afectado: cónyuge o pareja de hecho, hijos, padres y suegros.
+        \n\t
+        Se consideran familiares en segundo grado de consanguinidad o afinidad del
+    trabajador afectado: hermanos, cuñados, nietos y abuelos.
 
+
+        \n\n
+    </string>
 
 
 

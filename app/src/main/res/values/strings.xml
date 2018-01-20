@@ -5,7 +5,10 @@
     <!-- TODO: # txt of button MainActivity-->
     <string name="txtArticulo">Índice Artículos</string>
     <string name="txtConvenio">Convenio 2017-19 </string>
-    <string name="txtConsaguinidad">Consaguinidad / Afinidad</string>
+    <string name="txtAnexo1">Anexo 1: Definición de 1.º y 2.º grados consaguinidad y afinidad</string>
+    <string name="txtAnexo2">Anexo 2: Reglamento del fondo social de préstamos</string>
+    <string name="txtAnexo3">Anexo 2: Utilización de las herramientas informáticas</string>
+    <string name="txtAnexo4">Anexo 4: Sistema de retribución variable</string>
     <string name="txtFavoritos">Mis Favoritos</string>
     <string name="txtBuscar">Buscar</string>
     <string name="txtFaq">Preguntas Frequentes</string>
@@ -17,5 +20,13 @@
     <!-- Todo: String en Manifest -->
     <string name="lblConvenio">Convenio Colectivo</string>
     <string name="lblIndArticulo">Índice Artículos</string>
+
+
+    <!-- Anexo1: texto de los botonest -->
+    <string name="txtAnexo1Titular">Titular / Conyugue</string>
+    <string name="txtAnexo1Grado1">1º Grado</string>
+    <string name="txtAnexo1Grado2">2º Grado</string>
+    <string name="txtAnexo1Grado3">3ªGrado</string>
+
 
 </resources>
