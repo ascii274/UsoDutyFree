@@ -5,26 +5,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ascii274.usodutyfree.MainActivity"
-    tools:layout_editor_absoluteY="81dp"
+    android:background="@color/colBackActMain"
+    tools:context="ascii274.dutyfree.MainActivity"
     tools:layout_editor_absoluteX="0dp"
-    android:background="@color/colBackActMain">
+    tools:layout_editor_absoluteY="81dp">
 
     <ImageView
-        android:textAlignment="center"
         android:id="@+id/imageView4"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="150dp"
-        app:srcCompat="@drawable/uso_duty_free_250x192"
-
-
-        tools:ignore="ContentDescription,MissingConstraints,RtlHardcoded"
-        tools:layout_editor_absoluteY="0dp"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="8dp"
+
+
+        android:layout_marginRight="8dp"
+        android:textAlignment="center"
+        app:layout_constraintHorizontal_bias="0.508"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintHorizontal_bias="0.508"/>
+        app:layout_constraintRight_toRightOf="parent"
+        app:srcCompat="@drawable/cabecera_192x150"
+        tools:ignore="ContentDescription,MissingConstraints,RtlHardcoded"
+        tools:layout_editor_absoluteY="0dp"/>
 
 
     <Button
@@ -63,14 +63,13 @@
 
 
     <Button
-        android:id="@+id/btnConsaguinidad"
+        android:id="@+id/btnAnexo1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:text="@string/txtAnexo1"
         android:textAlignment="center"
-
         android:textColor="#bf3d3d"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -78,17 +77,65 @@
         app:layout_constraintTop_toBottomOf="@+id/btnVerArticulo"
         tools:textAllCaps="false"/>
 
-    <TextView
-        android:id="@+id/textView"
+
+    <Button
+        android:id="@+id/btnAnexo2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:text=""
+        android:text="@string/txtAnexo2"
+        android:textAlignment="center"
+        android:textColor="#070707"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAnexo1"/>
+
+
+    <Button
+        android:id="@+id/btnAnexo3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/txtAnexo3"
+        android:textAlignment="center"
+        android:textColor="#070707"
+        android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnConsaguinidad"/>
+        app:layout_constraintTop_toBottomOf="@+id/btnAnexo2"/>
+
+    <Button
+        android:id="@+id/btnAnexo4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/txtAnexo4"
+        android:textAlignment="center"
+        android:textColor="#070707g"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAnexo3"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAnexo4"/>
+
+
 
     <!--
 

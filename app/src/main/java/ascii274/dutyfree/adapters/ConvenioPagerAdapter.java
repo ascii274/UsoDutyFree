@@ -1,4 +1,4 @@
-package ascii274.usodutyfree.adapters;
+package ascii274.dutyfree.adapters;
 
 
 
@@ -6,7 +6,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import ascii274.usodutyfree.fragments.ConvenioPlaceholderFragment;
+import ascii274.dutyfree.fragments.ConvenioPlaceholderFragment;
 
 /*
  *Todo: Utilizado por Actividades: ConvenioActivity y DetalleArticulosConvenioActivity
@@ -29,7 +29,7 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         // Show  total pages.
-        return 79;
+        return 80;
     }
 
 
@@ -202,6 +202,8 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
                 return "Capítulo XIII";
             case 77:
                 return "Capítulo XIV";
+            case 78:
+                return "Anexo 1";
         }
         return null;
 

@@ -1,4 +1,4 @@
-package ascii274.usodutyfree;
+package ascii274.dutyfree;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import ascii274.usodutyfree.adapters.ConvenioPagerAdapter;
+import ascii274.dutyfree.adapters.ConvenioPagerAdapter;
 
 public class DetalleArticulosConvenioActivity extends AppCompatActivity {
 
@@ -284,6 +284,10 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
                     break;
                 case "Capítulo XIV":
                     mViewPager.setCurrentItem(77);
+                    break;
+
+                case "Anexo 1":
+                    mViewPager.setCurrentItem(78);
                     break;
 
                 default:

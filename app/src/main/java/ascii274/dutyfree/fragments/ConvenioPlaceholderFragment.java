@@ -1,6 +1,7 @@
-package ascii274.usodutyfree.fragments;
+package ascii274.dutyfree.fragments;
 
 import android.app.ActionBar;
+import android.content.Intent;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
 import android.graphics.Typeface;
@@ -14,7 +15,8 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
-import ascii274.usodutyfree.R;
+import ascii274.dutyfree.Consaguinidad;
+import ascii274.dutyfree.R;
 
 import static android.support.design.R.id.visible;
 import static android.support.design.R.id.wrap_content;
@@ -406,6 +408,10 @@ public  class ConvenioPlaceholderFragment extends Fragment {
             case 78:
                 textViewHead.setText(R.string.capitulo14Head);
                 textViewContent.setText(R.string.capitulo14Content);
+                break;
+            case 79:
+                textViewHead.setText(R.string.artAnexo1Head);
+                textViewContent.setText(R.string.artAnexo1Content);
                 break;
         }
 

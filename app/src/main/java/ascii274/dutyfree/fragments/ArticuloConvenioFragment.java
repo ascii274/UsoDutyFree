@@ -1,4 +1,4 @@
-package ascii274.usodutyfree.fragments;
+package ascii274.dutyfree.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,8 +10,8 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import ascii274.usodutyfree.IndiceArticulosConvenio;
-import ascii274.usodutyfree.R;
+import ascii274.dutyfree.IndiceArticulosConvenio;
+import ascii274.dutyfree.R;
 
 
 public class ArticuloConvenioFragment extends Fragment implements ListView.OnItemClickListener{

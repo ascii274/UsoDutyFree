@@ -1,4 +1,4 @@
-package ascii274.usodutyfree;
+package ascii274.dutyfree;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;

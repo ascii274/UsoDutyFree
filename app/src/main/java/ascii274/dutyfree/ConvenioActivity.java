@@ -1,4 +1,4 @@
-package ascii274.usodutyfree;
+package ascii274.dutyfree;
 
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
@@ -6,9 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Toast;
 
-import ascii274.usodutyfree.adapters.ConvenioPagerAdapter;
+
+import ascii274.dutyfree.adapters.ConvenioPagerAdapter;
 
 public class ConvenioActivity extends AppCompatActivity {
 

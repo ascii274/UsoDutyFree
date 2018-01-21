@@ -1,4 +1,4 @@
-package ascii274.usodutyfree;
+package ascii274.dutyfree;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ascii274.usodutyfree", appContext.getPackageName());
+        assertEquals("ascii274.dutyfree", appContext.getPackageName());
     }
 }
