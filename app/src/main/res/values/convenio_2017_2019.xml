@@ -3,7 +3,7 @@
 <resources xmlns:android="http://schemas.android.com/tools">
     
     <string formatted="false" name="art01Head">
-        Artículo 1.Ámbito Territorial.
+        Artículo 1. Ámbito Territorial.
     </string>
     <string formatted="false" name="art01Content">
         \t
@@ -15,7 +15,7 @@
     </string>
 
     <string formatted="false" name="art02Head">
-        Artículo 2.Ámbito Funcional.
+        Artículo 2. Ámbito Funcional.
     </string>
     <string formatted="false" name="art02Content">
         \t
@@ -26,7 +26,7 @@
     </string>
     
     <string formatted="false" name="art03Head">
-        Artículo 3.Ámbito Personal.
+        Artículo 3. Ámbito Personal.
     </string>
     <string formatted="false" name="art03Content">
         \t
@@ -43,7 +43,7 @@
     </string>
     
     <string formatted="false" name="art04Head">
-        Artículo 4.Ámbito Temporal.
+        Artículo 4. Ámbito Temporal.
     </string>
     <string formatted="false" name="art04Content">
         \t
@@ -56,7 +56,7 @@
 </string>
     
     <string formatted="false" name="art05Head">
-        Artículo 5.Incremento Salarial
+        Artículo 5. Incremento Salarial
     </string>
     <string formatted="false" name="art05Content">
         \t
@@ -67,19 +67,19 @@
         \n\n
 
 
-        ---------------------------------------------------------------\n
-        Ventas 2017 (Euros)   \t  |\t Incremento SMG \n
-        \t\t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje )
-        ---------------------------------------------------------------\n
-        685.000.000,00 € \t\t     |\t 0.50%\n
-        702.125.000,00 € \t\t     |\t 0.75%\n
-        719.678.125,00 € \t\t     |\t 1.00%\n
-        737.670.078,13 € \t\t     |\t 1.25%\n
-        756.111.830,08 € \t\t     |\t 1.50%\n
-        775.014.625,83 € \t\t     |\t 1.750%\n
-        794.389.991,48 € \t\t     |\t 2.00%\n
-        814.249.741,26 € \t\t     |\t 2.25%\n
-        834.605.984,79 € \t\t     |\t 2.50%\n
+        -----------------------------------------------------\n
+        Ventas 2017 (Euros)     |\t Incremento SMG \n
+        \t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje ) \n
+        -----------------------------------------------------\n
+        685.000.000,00 € \t     |\t 0.50%\n
+        702.125.000,00 € \t     |\t 0.75%\n
+        719.678.125,00 € \t     |\t 1.00%\n
+        737.670.078,13 € \t     |\t 1.25%\n
+        756.111.830,08 € \t     |\t 1.50%\n
+        775.014.625,83 € \t     |\t 1.750%\n
+        794.389.991,48 € \t     |\t 2.00%\n
+        814.249.741,26 € \t     |\t 2.25%\n
+        834.605.984,79 € \t     |\t 2.50%\n
         \n\n\t
 
         Con efectos 1 de enero de 2018 el salario mínimo garantizado (SMG), se incrementará
@@ -87,19 +87,19 @@
     incremento adicional del 0,25 % por cada 2,5 % de incremento sobre la superación de la
     venta mínima) según la siguiente tabla:\n\n
 
-        ---------------------------------------------------------------\n
-        Ventas 2018 (Euros) \t    |\t Incremento SMG \n
-        \t\t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje )
-        ---------------------------------------------------------------\n
-        715.000.000,00 € \t\t     |\t 0.50%\n
-        732.875.000,00 € \t\t     |\t 0.75%\n
-        751.196.875,00 € \t\t     |\t 1.00%\n
-        769.976.796,88 € \t\t     |\t  1.25%\n
-        789.226.216,80 € \t\t     |\t 1.50%\n
-        808.956.872,22 € \t\t     |\t 1.75%\n
-        829.180.794,02 € \t\t     |\t 2.00%\n
-        849.910.313,87 € \t\t     |\t 2.25%\n
-        871.158.071,72 € \t\t     |\t 2.50%\n
+        -----------------------------------------------------\n
+        Ventas 2018 (Euros)     |\t Incremento SMG \n
+        \t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje ) \n
+        -----------------------------------------------------\n
+        715.000.000,00 € \t     |\t 0.50%\n
+        732.875.000,00 € \t     |\t 0.75%\n
+        751.196.875,00 € \t     |\t 1.00%\n
+        769.976.796,88 € \t     |\t 1.25%\n
+        789.226.216,80 € \t     |\t 1.50%\n
+        808.956.872,22 € \t     |\t 1.75%\n
+        829.180.794,02 € \t     |\t 2.00%\n
+        849.910.313,87 € \t     |\t 2.25%\n
+        871.158.071,72 € \t     |\t 2.50%\n
 
         \n\n\t
         Con efectos 1 de enero de 2019 el salario mínimo garantizado (SMG), se incrementará
@@ -107,19 +107,19 @@
     venta mínima) según la siguiente tabla:\n\n
 
 
-        ---------------------------------------------------------------\n
-        Ventas 2019 (Euros)   \t  |\t Incremento SMG \n
-        \t\t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje )
-        ---------------------------------------------------------------\n
-        770.000.000,00 € \t\t     |\t 0.50%\n
-        789.250.000,00 € \t\t     |\t 0.75%\n
-        808.981.250,00 € \t\t     |\t 1.00%\n
-        829.205.781,25 € \t\t     |\t 1.25%\n
-        849.935.925,78 € \t\t     |\t 1.50%\n
-        871.184.323,93 € \t\t     |\t 1.75%\n
-        892.963.932,02 € \t\t     |\t 2.00%\n
-        915.288.030,32 € \t\t     |\t 2.25%\n
-        938.170.231,08 € \t\t     |\t 2.50%\n
+        -----------------------------------------------------\n
+        Ventas 2019 (Euros)     |\t Incremento SMG \n
+        \t\t\t\t\t\t\t\t\t\t\t  |\t ( Porcentaje ) \n
+        -----------------------------------------------------\n
+        770.000.000,00 € \t     |\t 0.50%\n
+        789.250.000,00 € \t     |\t 0.75%\n
+        808.981.250,00 € \t     |\t 1.00%\n
+        829.205.781,25 € \t     |\t 1.25%\n
+        849.935.925,78 € \t     |\t 1.50%\n
+        871.184.323,93 € \t     |\t 1.75%\n
+        892.963.932,02 € \t     |\t 2.00%\n
+        915.288.030,32 € \t     |\t 2.25%\n
+        938.170.231,08 € \t     |\t 2.50%\n
 
         \n\n\t
          Asimismo, los conceptos Ayuda Familiar, Becas, Prestación por Matrimonio, Prestación
@@ -139,7 +139,7 @@
     </string>
     
     <string formatted="false" name="art06Head">
-       Artículo 6.Denuncia.
+       Artículo 6. Denuncia.
     </string>
     <string formatted="false" name="art06Content">
         \t1) La denuncia del presente Convenio Colectivo efectuada por cualquiera de las
@@ -163,7 +163,7 @@
     </string>
     
     <string formatted="false" name="art07Head">
-        Artículo 7.Garantías Personales
+        Artículo 7. Garantías Personales
     </string>
     <string formatted="false" name="art07Content">
         \tCon independencia de las condiciones establecidas en el texto del presente Convenio,
@@ -173,7 +173,7 @@
     </string>
     
     <string formatted="false" name="art08Head">
-        Artículo 8.Vinculación a la totalidad.
+        Artículo 8. Vinculación a la totalidad.
 
     </string>
     <string formatted="false" name="art08Content">
@@ -186,7 +186,7 @@
     </string>
     
     <string formatted="false" name="art09Head">
-       Artículo 9.Comisión Mixta de Seguimiento e Interpretación.
+       Artículo 9. Comisión Mixta de Seguimiento e Interpretación.
         
     </string>
     <string formatted="false" name="art09Content">
@@ -263,7 +263,7 @@
     </string>
     
     <string formatted="false" name="art11Head">
-        Organizción.
+        Artículo 11. Organizción.
     </string>
     <string formatted="false" name="art11Content">
         \t
@@ -1536,7 +1536,7 @@
         – Antigüedad en la empresa: al menos 6 años inmediatamente anteriores a la fecha
     de jubilación parcial. A tal efecto, se computará la antigüedad acreditada en la empresa
     anterior si ha mediado una sucesión de empresa o empresas pertenecientes al grupo.
-        \n\n
+        \n\n:q
         En todo caso, y siempre que se consolide la tendencia jurisprudencial, se podrá
     concentrar el periodo a trabajar.
         \n\n\t
@@ -2588,7 +2588,7 @@
 
     </string>
     <string formatted="false" name="artAnexo1Head">
-        Definición de 1.o y 2.o grados consanguinidad y afinidad
+        ANEXO 1. Definición de 1.o y 2.o grados consanguinidad y afinidad
     </string>
     <string formatted="false" name="artAnexo1Content">
         \n\t
@@ -2598,6 +2598,144 @@
         Se consideran familiares en segundo grado de consanguinidad o afinidad del
     trabajador afectado: hermanos, cuñados, nietos y abuelos.
 
+
+        \n\n
+    </string>
+    <string formatted="false" name="artAnexo2Head">
+        ANEXO 2.Reglamento del fondo social de préstamos
+    </string>
+    <string formatted="false" name="artAnexo2Content">
+
+    Artículo 1.
+        El objeto del presente Reglamento consiste en la regulación del Fondo Social de
+    Préstamos de World Duty Free Group, S.A.
+        \n\n
+    Artículo 2.
+        \n\t
+        La cuantía total del fondo se establece en 360.607,26 €. Las aportaciones realizadas
+    contra este fondo serán siempre disponibles hasta el límite anteriormente fijado.
+        \n\t
+        Las cuantías de los préstamos del Fondo Social tendrán como tope las siguientes
+    cantidades:
+        \n\n
+
+        1) Personal fijo hasta 6.010,12 €.
+        \n
+        2) Personal fijo-discontinuo hasta 3.005,06 €.
+        \n
+        3) Personal con contrato temporal:
+        \n\t
+            · Más de 12 meses de antigüedad hasta 1.803,04 €.
+            \n
+            · Más de 9 meses de antigüedad hasta 1.202,02 €.
+            \n
+            · Más de 6 meses de antigüedad hasta 601,01 €.
+            \n
+            · Más de 3 meses de antigüedad hasta 300,51 €.
+
+        \n\n\t
+        En todos los casos los préstamos guardarán proporción a la jornada de trabajo
+    desarrollada.
+        \n\n
+
+
+    Artículo 3. Período de amortización.
+        \n\n\t
+        La Empresa aplicará el interés legal del dinero vigente (o índice que lo sustituya)
+    procediéndose a su actualización tras su publicación en el Boletín Oficial del Estado.
+        \n\t
+        Los préstamos concedidos se amortizarán en un plazo no superior a los 30 meses o
+    40 pagas a partir de la fecha de la concesión. Los trabajadores fijos-discontinuos deberán
+    necesariamente amortizar los préstamos durante el período anual de prestación de
+    servicios, salvo afianzamiento suficiente a juicio de la Empresa, en cuyo caso el período
+    de amortización podrá ser de dos temporadas.
+        \n\t
+        El vencimiento de la deuda, en caso de término de la contratación laboral o suspensión
+    por excedencia, se producirá automáticamente y por la totalidad de la cuantía pendiente
+    hasta el momento del cese o suspensión.
+        \n\n
+    Artículo 4. Requisitos de la solicitud.
+        \n\n\t
+        El personal de la Empresa ante una grave necesidad imprevisible, debidamente
+    justificada, podrá solicitar un préstamo del Fondo Social.
+        \n\t
+        El préstamo deberá destinarse única y exclusivamente a cubrir la necesidad o
+    necesidades expuestas y justificadas en la correspondiente solicitud.
+        \n\t
+        No podrá solicitarse más de un préstamo por empleado en el mismo año, ni solicitar
+    otro en tanto no se haya liquidado totalmente el anterior.
+        \n\t
+        La Empresa podrá pedir del solicitante, en casos excepcionales, el compromiso de
+    hasta dos avalistas que pudieran responder de la deuda solidariamente. También podrá
+    solicitar al empleado que justifique que el préstamo concedido se ha utilizado para el fin
+    solicitado.
+        \n\n
+
+    Artículo 5. Preferencias.
+        \n\n\t
+        A) El Comité Intercentros juzgará como preferentes a los trabajadores que reuniendo
+    los requisitos generales, concurran en alguna de las siguientes circunstancias y según el
+    siguiente orden:
+        \n\n\t
+        1) Existencia de alguna enfermedad bien en el empleado o bien en algún miembro
+    de la familia que habitualmente convive con él, y origine gastos extraordinarios que no
+    cubra la Seguridad Social.
+        \n\t
+        2) El nacimiento de hijo, fallecimiento de cónyuge, descendiente o ascendiente que
+    conviva y/o dependa económicamente del empleado.
+        \n\t
+        3) El desalojo obligado de la vivienda habitual que ocupa, por causas ajenas a su
+    voluntad.
+        \n\t
+        4) El personal que vaya a contraer matrimonio en un plazo máximo no superior a tres
+    meses, contados a partir de la petición.
+        \n\t
+        5) La necesidad de titulación oficial de la vivienda habitual a su nombre mediante
+    escritura pública.
+        \n\t
+        6) La necesidad de reformas importantes en la vivienda de uso habitual y permanente
+    por antigüedad de la misma o por aumento de familiares a cargo del empleado.
+        \n\t
+        7) La compra de vivienda habitual para uso permanente como domicilio del empleado.
+        \n\t
+        8) Cualquier otra circunstancias imprevista que a criterio del Comité Intercentros,
+    motive dificultades económicas importantes del empleado.
+        \n\n\t
+        B) En el caso de igualdad respecto a las anteriores circunstancias, se considerará
+    preferencialmente y por el siguiente orden, las condiciones de:
+        \n\n\t
+        1) A quienes nunca se les haya otorgado otro préstamos de este fondo.
+        \n\t
+        2) Empleados con un menor poder adquisitivo, en función del salario percibido.
+        \n\t
+        3) Mayor antigüedad en la Empresa.
+        \n\n
+
+    Artículo 6. Tramitación. Forma y motivación de la solicitud.
+        \n\n\t
+
+        La solicitud de préstamo deberá dirigirse a la Dirección de la Empresa, a través del
+    Comité Intercentros, haciendo constar en la misma los siguientes datos:
+        \n\n\t
+        a) Identidad del solicitante, categoría laboral, antigüedad en la Empresa, haberes
+    netos mensuales que percibe y centro de trabajo al que pertenece. Así como préstamos
+    recibidos de la Empresa y su amortización en los dos años anteriores.
+        \n\t
+        b) Circunstancias económicas y laborales de los familiares que permanentemente
+    conviven con él.
+        \n\t
+        c) Circunstancias personales que motivan la petición y cualquier otro dato que el
+    peticionario considere de interés para fundamentar la misma.
+        \n\t
+        d) Aceptación de las condiciones del préstamo contenidas en el presente reglamento,
+    comprometiéndose a amortizar anticipadamente el préstamo en caso de comprobarse
+    falsedad en alguno de los datos o motivos expuestos en la solicitud.
+        \n\t
+        e) Acompañar los documentos que el peticionario considere necesarios para justificar
+    el destino del préstamo solicitado.
+        \n\t
+    El Comité Intercentros remitirá la petición con su informe escrito a la Empresa, la cual
+    decidirá si la concesión es procedente o posible.
 
         \n\n
     </string>

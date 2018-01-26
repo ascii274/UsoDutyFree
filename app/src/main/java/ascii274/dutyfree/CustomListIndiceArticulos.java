@@ -1,12 +1,15 @@
 package ascii274.dutyfree;
 
 import android.app.Activity;
+import android.content.res.AssetManager;
+import android.graphics.Typeface;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -42,6 +45,7 @@ public class CustomListIndiceArticulos extends ArrayAdapter <String>{
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
       //  return super.getView(position, convertView, parent);
 
+
         View v=convertView;
         ViewHolder viewHolder=null;
 
@@ -58,29 +62,11 @@ public class CustomListIndiceArticulos extends ArrayAdapter <String>{
 
         }
 
-        //viewHolder.txtVwConvenio1.setTextSize(descSize);//Capitulo
         viewHolder.txtVwConvenio2.setTextSize(idSize);
         viewHolder.txtVwConvenio3.setTextSize(descSize);
 
-        //text=strId[position].toString();
-        /*
-        try{
-
-        if(strId[position]!=null ){
-            if(strId[position].equals("Artículo 01")) {
-
-                viewHolder.txtVwConvenio1.setVisibility(View.VISIBLE);
-                viewHolder.txtVwConvenio1.setText("Capitulo I");
-
-
-            }
-
-
-       }
-       */
         viewHolder.txtVwConvenio2.setText(strId[position]);
         viewHolder.txtVwConvenio3.setText(strDescription [position]);
-        //viewHolder.txtVwConvenio1.setVisibility(View.GONE);
         return v;
 
     }
@@ -90,10 +76,26 @@ public class CustomListIndiceArticulos extends ArrayAdapter <String>{
         TextView txtVwConvenio2;
         TextView txtVwConvenio3;
 
+
+        private Typeface mTypefaceArticulo,mTypefaceDescArticulo;
+        String fuenteCabecera="fonts/DejaVuSans.ttf";
+        //String fuenteCabecera="fonts/NunitoLight.ttf";
+
+
+
         ViewHolder(View v){
             //txtVwConvenio1=v.findViewById(R.id.txVwCustoLisCon_Cap);
-            txtVwConvenio2=v.findViewById(R.id.txVwCustomLisCon_Id);
-            txtVwConvenio3=v.findViewById(R.id.txVwCustoLisCon_Desc);
+            txtVwConvenio2=v.findViewById(R.id.txVwCustomLisCon_Id);//Articulo
+            txtVwConvenio3=v.findViewById(R.id.txVwCustoLisCon_Desc);//Descripcion_articulo
+
+            this.mTypefaceArticulo=Typeface.createFromAsset(getContext().getAssets(),fuenteCabecera);
+            this.mTypefaceDescArticulo=Typeface.createFromAsset(getContext().getAssets(),fuenteCabecera);
+            txtVwConvenio2.setTypeface(mTypefaceArticulo);
+            txtVwConvenio3.setTypeface(mTypefaceDescArticulo);
+
+
+
+
 
 
         }

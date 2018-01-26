@@ -11,6 +11,7 @@ import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import org.w3c.dom.Text;
@@ -25,15 +26,7 @@ import static android.support.design.R.id.wrap_content;
 public  class ConvenioPlaceholderFragment extends Fragment {
 
 
-    /**
-     * The fragment argument representing the section number for this
-     * fragment.
-     */
     private static final String ARG_SECTION_NUMBER = "section_number";
-    /*
-    public ConvenioPlaceholderFragment() {
-    }
-    */
 
     /**
      * Returns a new instance of this fragment for the given section
@@ -52,29 +45,13 @@ public  class ConvenioPlaceholderFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        int num;
 
-
+        int num = getArguments().getInt(ARG_SECTION_NUMBER);
 
         View rootView = inflater.inflate(R.layout.convenio_activity_content, container, false);
-        //TextView textViewCapitulo =(TextView) rootView.findViewById(R.id.txtCapitulo);
-        TextView textViewHead = (TextView) rootView.findViewById(R.id.txtArtHeader);
-        TextView textViewContent = (TextView) rootView.findViewById(R.id.txtArtContent);
-        //TextView textViewCapitulo=(TextView) rootView.findViewById(R.id.txVwCustoLisCon_Cap);
+        TextView textViewHead = rootView.findViewById(R.id.txtArtHeader);
+        TextView textViewContent = rootView.findViewById(R.id.txtArtContent);
 
-
-
-        //textViewHead.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
-        //  num = getArguments().getInt(ARG_SECTION_NUMBER);
-        //textViewHead.setText(R.string."art'+'num'+'Head'+);
-        //textViewContent.setText(R.string.art+"num"+Content);
-
-
-        num = getArguments().getInt(ARG_SECTION_NUMBER);
-
-        /*
-        TODO: AQUI SELECCIONO LOS ENTEROS EN LAYOUT STRING
-         */
 
         Resources res = getResources();
         int idArticulo= res.getInteger(R.integer.txtIdArticuloSize);
@@ -83,16 +60,27 @@ public  class ConvenioPlaceholderFragment extends Fragment {
         textViewHead.setTextSize(idArticulo);
         textViewContent.setTextSize(descArticulo);
 
+
+        /*
+        * Seccion de cambio texto
+        * */
+        Typeface mTypefaceArticulo,mTypefaceDescArticulo;
+        String fuenteCabecera="fonts/DejaVuSans.ttf";
+        //String fuenteCabecera="fonts/NunitoLight.ttf";
+
+
+        mTypefaceArticulo=Typeface.createFromAsset(getContext().getAssets(),fuenteCabecera);
+        mTypefaceDescArticulo=Typeface.createFromAsset(getContext().getAssets(),fuenteCabecera);
+        textViewHead.setTypeface(mTypefaceArticulo);
+        textViewContent.setTypeface(mTypefaceDescArticulo);
+
+
         /*
          *todo: si modificamos el contenido del switch, ver switch ConvenioPageAdapter
          */
         switch (num) {
             case 1:
-                //textViewCapitulo.setVisibility(View.VISIBLE);
-                //textViewCapitulo.setText("Capitulo I");
                 textViewHead.setText(R.string.art01Head);
-
-
                 textViewContent.setText(R.string.art01Content);
                 break;
             case 2:
@@ -409,11 +397,19 @@ public  class ConvenioPlaceholderFragment extends Fragment {
                 textViewHead.setText(R.string.capitulo14Head);
                 textViewContent.setText(R.string.capitulo14Content);
                 break;
+
             case 79:
+                //
                 textViewHead.setText(R.string.artAnexo1Head);
                 textViewContent.setText(R.string.artAnexo1Content);
                 break;
+            case 80:
+                //
+                textViewHead.setText(R.string.artAnexo2Head);
+                textViewContent.setText(R.string.artAnexo2Content);
+                break;
         }
+
 
 
         return rootView;

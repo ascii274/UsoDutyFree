@@ -1,10 +1,13 @@
 package ascii274.dutyfree;
 
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import ascii274.dutyfree.adapters.ConvenioPagerAdapter;
@@ -26,6 +29,8 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
         mViewPager.setAdapter(mConvenioPagerAdapter);
 
 
+
+
         /*TODO aqui iniciamos captura codigo articulo */
 
 
@@ -35,7 +40,6 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
             String cod;
             cod = parameters.getString("codArticulo");
             //System.out.println(cod);
-
 
             mViewPager.setAdapter(mConvenioPagerAdapter);
 
@@ -288,6 +292,9 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
 
                 case "Anexo 1":
                     mViewPager.setCurrentItem(78);
+                    break;
+                case "Anexo 2":
+                    mViewPager.setCurrentItem(79);
                     break;
 
                 default:

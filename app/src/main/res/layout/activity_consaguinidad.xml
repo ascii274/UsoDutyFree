@@ -24,7 +24,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:text="@string/artAnexo1Head"
-            android:textStyle="bold"
+
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintLeft_toLeftOf="parent"
@@ -34,18 +34,11 @@
 
         <TextView
             android:id="@+id/txtViewContenido"
-<<<<<<< HEAD
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
             android:layout_marginLeft="8dp"
-=======
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="8dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="0dp"
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+            android:layout_marginStart="8dp"
             android:text="@string/artAnexo1Content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
@@ -66,21 +59,13 @@
 
         <Button
             android:id="@+id/btnGrado1"
-<<<<<<< HEAD
             style="@style/Widget.AppCompat.Light.ActionMode.Inverse"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:backgroundTint="@android:color/holo_blue_light"
             android:text="@string/txtAnexo1Grado1"
-            android:textColor="@android:color/black"
-=======
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:text="@string/txtAnexo1Grado1"
             android:textColor="@color/colorPrimary"
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnGrado2"
             app:layout_constraintHorizontal_chainStyle="spread_inside"
@@ -91,14 +76,10 @@
             android:id="@+id/btnGrado2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
             android:backgroundTint="@android:color/darker_gray"
             android:text="@string/txtAnexo1Grado2"
-            android:textColor="@android:color/black"
-=======
-            android:text="@string/txtAnexo1Grado2"
             android:textColor="@color/colorPrimary"
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnGrado3"
             app:layout_constraintLeft_toLeftOf="parent"
@@ -112,11 +93,9 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
             android:text="@string/txtAnexo1Grado3"
-<<<<<<< HEAD
+
             android:textColor="@android:color/black"
-=======
-            android:textColor="@color/colorPrimaryDark"
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
             android:textSize="12sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/btnGrado2"
@@ -127,10 +106,10 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/holo_blue_light"
-=======
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
+
             android:text="Padres"
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnAbuelos"
@@ -141,10 +120,10 @@
             android:id="@+id/btnAbuelos"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/darker_gray"
-=======
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
+
             android:gravity="center"
             android:text="Abuelos"
             android:textSize="12sp"
@@ -168,10 +147,10 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/holo_blue_light"
-=======
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
+
             android:text="Suegro"
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnHermanos"
@@ -183,10 +162,10 @@
             android:id="@+id/btnHermanos"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/darker_gray"
-=======
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
+
             android:text="Hermanos"
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnTios"
@@ -209,10 +188,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/holo_blue_light"
-=======
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
             android:text="Hijos"
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnCuñados"
@@ -223,10 +201,9 @@
             android:id="@+id/btnCuñados"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/darker_gray"
-=======
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
             android:text="Cuñados"
             android:textSize="12sp"
             app:layout_constraintEnd_toStartOf="@+id/btnSobrinos"
@@ -247,7 +224,6 @@
             android:id="@+id/btnYerno"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
             android:layout_marginStart="8dp"
             android:backgroundTint="@android:color/holo_blue_light"
             android:text="Yerno/Nuera"
@@ -255,32 +231,16 @@
             app:layout_constraintEnd_toStartOf="@+id/btnNietos"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/btnHijos"/>
-=======
-            android:layout_marginBottom="32dp"
-            android:layout_marginStart="8dp"
-            android:text="Yerno/Nuera"
-            android:textSize="12sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/btnNietos"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/btnHijos"
-            app:layout_constraintVertical_bias="1.0"/>
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+
 
         <Button
             android:id="@+id/btnNietos"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
+
             android:backgroundTint="@android:color/darker_gray"
             android:text="Nietos"
             android:textSize="12sp"
-=======
-            android:layout_marginBottom="32dp"
-            android:text="Nietos"
-            android:textSize="12sp"
-            app:layout_constraintBottom_toBottomOf="parent"
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
             app:layout_constraintEnd_toStartOf="@+id/btnBiznietos"
             app:layout_constraintStart_toEndOf="@+id/btnYerno"
             app:layout_constraintTop_toBottomOf="@+id/btnCuñados"/>
@@ -289,22 +249,14 @@
             android:id="@+id/btnBiznietos"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
-=======
-            android:layout_marginBottom="32dp"
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
             android:layout_marginEnd="8dp"
             android:text="Biznietos"
             android:textSize="12sp"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/btnNietos"
-<<<<<<< HEAD
             app:layout_constraintTop_toBottomOf="@+id/btnSobrinos"
-            app:layout_constraintVertical_bias="0.0"/>
-=======
-            app:layout_constraintTop_toBottomOf="@+id/btnSobrinos"/>
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
+            />
+
 
 
     </android.support.constraint.ConstraintLayout>

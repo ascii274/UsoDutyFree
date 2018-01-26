@@ -204,6 +204,8 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
                 return "Capítulo XIV";
             case 78:
                 return "Anexo 1";
+            case 79:
+                return "Anexo 2";
         }
         return null;
 

@@ -3,19 +3,12 @@
 
 
     <!-- TODO: # txt of button MainActivity-->
-    <string name="txtArticulo">Índice Artículos</string>
+    <string name="txtArticulo">Índice </string>
     <string name="txtConvenio">Convenio 2017-19 </string>
-<<<<<<< HEAD
     <string name="txtAnexo1">Anexo 1: Consaguinidad y Afinidad</string>
     <string name="txtAnexo2">Anexo 2: Reglamento del fondo social de préstamos. PENDIENTE</string>
     <string name="txtAnexo3">Anexo 3: Utilización de las herramientas informáticas. PENDIENTE</string>
     <string name="txtAnexo4">Anexo 4: Sistema de retribución variable. PENDIENTE</string>
-=======
-    <string name="txtAnexo1">Anexo 1: Definición de 1.º y 2.º grados consaguinidad y afinidad</string>
-    <string name="txtAnexo2">Anexo 2: Reglamento del fondo social de préstamos</string>
-    <string name="txtAnexo3">Anexo 2: Utilización de las herramientas informáticas</string>
-    <string name="txtAnexo4">Anexo 4: Sistema de retribución variable</string>
->>>>>>> 2bfac8dc208ff96249e4d5faa3904b723f7622ac
     <string name="txtFavoritos">Mis Favoritos</string>
     <string name="txtBuscar">Buscar</string>
     <string name="txtFaq">Preguntas Frequentes</string>
