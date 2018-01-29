@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TODO: valores textview para presentar id Articulo y descripcion articulo -->
-    <integer name="txtIdArticuloSize">15</integer>
-    <integer name="txtDescArticuloSize">15</integer>
+    <integer name="txtIdArticuloSize">16</integer>
+    <integer name="txtDescArticuloSize">16</integer>
 
 
 </resources>

@@ -6,7 +6,6 @@ import android.os.Bundle;
 
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 //Toast.makeText(this, "entra", Toast.LENGTH_LONG).show();
 
@@ -46,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intentArtConvenio);
                 break;
             case R.id.btnAnexo1:
-                Intent intentConsaguinidad=new Intent(this,Consaguinidad.class);
+                Intent intentConsaguinidad=new Intent(this,Anexo1.class);
                 startActivity(intentConsaguinidad);
                 break;
 

@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Consaguinidad"
+            android:name=".Anexo1"
             android:label="@string/txtAnexo1"
             android:parentActivityName=".MainActivity">
             <meta-data

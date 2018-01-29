@@ -21,18 +21,18 @@
         android:layout_marginLeft="4dp"
         android:layout_marginRight="2dp"
         android:layout_marginTop="8dp"
-
         android:textStyle="bold"/>
 
+
     <TextView
+        android:id="@+id/txtArtContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/txtArtContent"
-        android:layout_marginTop="4dp"
+        android:layout_marginBottom="16dp"
         android:layout_marginLeft="4dp"
         android:layout_marginRight="2dp"
-        android:layout_marginBottom="16dp"
-        tools:ignore="RtlHardcoded" />
+        android:layout_marginTop="4dp"
+        tools:ignore="RtlHardcoded"/>
 
     <!--
     <RatingBar
