@@ -10,9 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:screenOrientation="portrait"
+            android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden"
-            android:name=".MainActivity">
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -47,10 +47,10 @@
 
             <intent-filter>
                 <action android:name="android.intent.action.CONVENIOCOLECTIVO"/>
+
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-
         <activity
             android:name=".ConvenioActivity"
             android:label="@string/lblConvenio"
@@ -61,10 +61,10 @@
 
             <intent-filter>
                 <action android:name="android.intent.action.CONVENIO"/>
+
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-
         <activity
             android:name=".DetalleArticulosConvenioActivity"
             android:label="@string/lblConvenio"
@@ -72,8 +72,11 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity"/>
-    </activity>
-
+        </activity>
+        <activity
+            android:name=".Anexo2"
+            android:parentActivityName=".MainActivity">
+        </activity>
     </application>
 
 </manifest>

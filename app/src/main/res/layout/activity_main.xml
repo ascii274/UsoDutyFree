@@ -85,7 +85,7 @@
         android:layout_marginStart="8dp"
         android:text="@string/txtAnexo2"
         android:textAlignment="center"
-        android:textColor="#070707"
+        android:textColor="#bf3d3d"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

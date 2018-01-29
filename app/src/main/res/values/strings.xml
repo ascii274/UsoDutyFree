@@ -6,7 +6,7 @@
     <string name="txtArticulo">Índice </string>
     <string name="txtConvenio">Convenio 2017-19 </string>
     <string name="txtAnexo1">Anexo 1: Consaguinidad y Afinidad</string>
-    <string name="txtAnexo2">Anexo 2: Reglamento del fondo social de préstamos. PENDIENTE</string>
+    <string name="txtAnexo2">Anexo 2: Reglamento del fondo social de préstamos.</string>
     <string name="txtAnexo3">Anexo 3: Utilización de las herramientas informáticas. PENDIENTE</string>
     <string name="txtAnexo4">Anexo 4: Sistema de retribución variable. PENDIENTE</string>
     <string name="txtFavoritos">Mis Favoritos</string>
@@ -14,7 +14,6 @@
     <string name="txtFaq">Preguntas Frequentes</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-
 
 
     <!-- Todo: String en Manifest -->
@@ -27,6 +26,9 @@
     <string name="txtAnexo1Grado1">1º Grado</string>
     <string name="txtAnexo1Grado2">2º Grado</string>
     <string name="txtAnexo1Grado3">3ªGrado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

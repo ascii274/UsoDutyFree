@@ -1,5 +1,6 @@
 package ascii274.dutyfree;
 
+import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,15 +11,18 @@ import android.widget.Button;
 //Toast.makeText(this, "entra", Toast.LENGTH_LONG).show();
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
-    Button buttonConsaguinidad,buttonConvenio,buttonFavoritos,buttonVerArticulo;
+    Button buttonAnexo1,buttonAnexo2,buttonConvenio,buttonFavoritos,buttonVerArticulo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        buttonConsaguinidad=(Button) findViewById(R.id.btnAnexo1);
-        buttonConsaguinidad.setOnClickListener(this);
+        buttonAnexo1=(Button) findViewById(R.id.btnAnexo1);
+        buttonAnexo1.setOnClickListener(this);
+
+        buttonAnexo2=(Button) findViewById(R.id.btnAnexo2);
+        buttonAnexo2.setOnClickListener(this);
 
 
         buttonVerArticulo=(Button) findViewById(R.id.btnVerArticulo);
@@ -45,8 +49,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intentArtConvenio);
                 break;
             case R.id.btnAnexo1:
-                Intent intentConsaguinidad=new Intent(this,Anexo1.class);
-                startActivity(intentConsaguinidad);
+                Intent intentAnexo1=new Intent(this,Anexo1.class);
+                startActivity(intentAnexo1);
+                break;
+            case R.id.btnAnexo2:
+                Intent intentAnexo2=new Intent(this,Anexo2.class);
+                startActivity(intentAnexo2);
                 break;
 
 
