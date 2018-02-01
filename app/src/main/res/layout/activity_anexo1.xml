@@ -3,26 +3,26 @@
             xmlns:app="http://schemas.android.com/apk/res-auto"
             xmlns:tools="http://schemas.android.com/tools"
             android:background="@color/colBackActMain"
-
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:context=".Anexo1">
 
+
     <android.support.constraint.ConstraintLayout
-
         android:layout_width="match_parent"
-
         android:layout_height="match_parent"
         android:visibility="visible">
 
 
+
         <TextView
-            android:id="@+id/txtViewCabecera"
+            android:id="@+id/txtVwAnexo1Head"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
+
             android:text="@string/artAnexo1Head"
 
             app:layout_constraintEnd_toEndOf="parent"
@@ -32,17 +32,19 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"/>
 
+
         <TextView
-            android:id="@+id/txtViewContenido"
+            android:id="@+id/txtVwAnexo1Content"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
             android:layout_marginLeft="8dp"
             android:layout_marginStart="8dp"
+
             android:text="@string/artAnexo1Content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/txtViewCabecera"/>
+            app:layout_constraintTop_toBottomOf="@+id/txtVwAnexo1Head"/>
 
 
         <Button
@@ -55,7 +57,7 @@
             android:text="@string/txtAnexo1Titular"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/txtViewContenido"/>
+            app:layout_constraintTop_toBottomOf="@+id/txtVwAnexo1Content"/>
 
         <Button
             android:id="@+id/btnGrado1"
@@ -63,7 +65,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
-            android:backgroundTint="@android:color/holo_blue_light"
+
             android:text="@string/txtAnexo1Grado1"
             android:textColor="@color/colorPrimary"
             android:textSize="12sp"
@@ -76,7 +78,7 @@
             android:id="@+id/btnGrado2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:backgroundTint="@android:color/darker_gray"
+
             android:text="@string/txtAnexo1Grado2"
             android:textColor="@color/colorPrimary"
 
@@ -94,8 +96,7 @@
             android:layout_marginEnd="8dp"
             android:text="@string/txtAnexo1Grado3"
 
-            android:textColor="@android:color/black"
-
+            android:textColor="@color/colorPrimary"
             android:textSize="12sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/btnGrado2"

@@ -296,10 +296,15 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
                 case "Anexo 2":
                     mViewPager.setCurrentItem(79);
                     break;
+                case "Anexo 3":
+                    mViewPager.setCurrentItem(80);
+                    break;
+                case "Anexo 4":
+                    mViewPager.setCurrentItem(81);
+                    break;
 
                 default:
                     Toast.makeText(this, "Articulo: "+cod + " No encontrado", Toast.LENGTH_LONG).show();
-
                     //mViewPager.setAdapter(mConvenioPagerAdapter);
                     break;
             }

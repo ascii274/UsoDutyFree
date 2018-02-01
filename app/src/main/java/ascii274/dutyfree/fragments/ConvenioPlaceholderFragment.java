@@ -37,7 +37,7 @@ public  class ConvenioPlaceholderFragment extends Fragment {
 
         int num = getArguments().getInt(ARG_SECTION_NUMBER);
 
-        
+
 
 
             View rootView = inflater.inflate(R.layout.convenio_activity_content, container, false);
@@ -50,7 +50,10 @@ public  class ConvenioPlaceholderFragment extends Fragment {
             int descArticulo = res.getInteger(R.integer.txtDescArticuloSize);
 
             textViewHead.setTextSize(idArticulo);
+            //textViewHead.setBackgroundColor(getResources().getColor(R.color.cabecera));
+            textViewHead.setTextColor(getResources().getColor(R.color.txtColorCabecera));
             textViewContent.setTextSize(descArticulo);
+            //textViewContent.setTextColor(getResources().getColor(R.color.cabecera));
 
 
         /*
@@ -395,13 +398,19 @@ public  class ConvenioPlaceholderFragment extends Fragment {
                     textViewHead.setText(R.string.artAnexo1Head);
                     textViewContent.setText(R.string.artAnexo1Content);
                     break;
-                /*
-            case 80:
-                //
-                textViewHead.setText(R.string.artAnexo2Head);
-                textViewContent.setText(R.string.artAnexo2Content);
-                break;
-                */
+                case 80:
+                    textViewHead.setText(R.string.artAnexo2Head);
+                    textViewContent.setText(R.string.artAnexo2Content);
+                    break;
+                case 81:
+                    textViewHead.setText(R.string.artAnexo3Head);
+                    textViewContent.setText(R.string.artAnexo3Content);
+                    break;
+                case 82:
+                    textViewHead.setText(R.string.artAnexo4Head);
+                    textViewContent.setText(R.string.artAnexo4Content);
+                    break;
+
 
             }
             return rootView;

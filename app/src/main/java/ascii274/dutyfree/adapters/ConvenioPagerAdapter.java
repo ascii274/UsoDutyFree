@@ -29,7 +29,7 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         // Show  total pages.
-        return 80;
+        return 82;
     }
 
 
@@ -206,6 +206,10 @@ public class ConvenioPagerAdapter extends FragmentPagerAdapter {
                 return "Anexo 1";
             case 79:
                 return "Anexo 2";
+            case 80:
+                return "Anexo 3";
+            case 81:
+                return "Anexo 4";
         }
         return null;
 

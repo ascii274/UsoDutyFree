@@ -1550,14 +1550,14 @@
         En los casos en los que el trabajador decida acceder a la jubilación voluntaria
     anticipada si esta fuera aceptada por la Empresa, podrá ser gratificado por, con arreglo a
     las siguientes cuantías:
-        \n\n\t
-
-        Nota: Recomendamos consultar el apartado siguiente con el convenio original.
-        \n\t
-
-        (*)Edad de jubilación ordinaria menos 2 años, indemnizacion de 100% del Salario Anual
-        \n\t
-        (*)Edad de jubilación ordinaria menos 1 año, indemnizacion de 100% del Salario Anual
+        \n\n
+        ------------------------------------------
+        \n
+        - Edad de jubilación ordinaria menos 2 años, indemnizacion de 100% del Salario Anual
+        \n
+        - Edad de jubilación ordinaria menos 1 año, indemnizacion de 90% del Salario Anual
+        \n
+        ------------------------------------------
 
         \n\n\t
 
@@ -2739,8 +2739,560 @@
 
         \n\n
     </string>
+    <string formatted="false" name="artAnexo3Head">
+        ANEXO 3. Utilización de las herramientas informáticas
+    </string>
+    <string formatted="false" name="artAnexo3Content">
+
+        \n\t
+        Los medios informáticos, incluido el correo electrónico y el acceso a Internet, son
+    herramientas de trabajo propiedad de la empresa, tanto en relación con el hardware y con
+    el software instalado como en relación con los contenidos, y como tales herramientas
+    deberán ser considerados, estando destinados los mismos al uso estrictamente profesional
+    en función de los cometidos laborales encomendados al trabajador.
+        \n\t
+        El trabajador será responsable del uso de su contraseña personal así como de la
+    custodia de todos los documentos existentes en su ordenador, no pudiendo hacer uso de
+    su contenido para fines distintos de los laborales, revelar o difundir su contenido ni obtener
+    copias mediante cualquier procedimiento para utilizarlas fuera del ámbito de la empresa,
+    salvo que tenga autorización expresa de la empresa para ello.
+        \n\t
+        El cumplimiento de los principios anteriores se basa en la relación de confianza
+    existente entre la empresa y sus trabajadores. La empresa establecerá mecanismos de
+    control sólo cuando existan indicios fundados de violación grave de estas normas y
+    siempre de acuerdo con la legislación vigente.
+        \n\t
+        Se considera una violación grave a esta norma lo siguiente: envío de pornografía (de
+    cualquier tipo), archivos de contenido racista (pueden ser chistes), envío consciente de
+    archivos que contengan virus ejecutables, envío a la competencia o personas no
+    autorizadas de información confidencial y restringida de la compañía, envío de información
+    protegida por la LOTARD, envío de cadenas de mensajes electrónicos, la falsificación de
+    mensajes o imágenes de correo electrónico, el envío de mensajes o imágenes de material
+    ofensivo, inapropiado o con contenidos discriminatorios por razones de género, edad,
+    sexo, discapacidad, etc., aquellos que promuevan el acoso sexual, así como la utilización
+    de la red para juegos de azar, sorteos, subastas, descarga de vídeo, audio u otros
+    materiales no relacionados con la actividad profesional.
+        \n\t
+        Cuando existan indicios de uso ilícito o abusivo por parte de un empleado, la empresa
+    realizará las comprobaciones oportunas y, si fuera preciso, realizará una auditoria en el
+    ordenador del empleado o en los sistemas que ofrecen el servicio, que se efectuará en
+    horario laboral y en presencia de algún representante de los trabajadores, con respecto a
+    la dignidad e intimidad del empleado.
+        \n\t
+        Cualquier incumplimiento de la normativa relativa al uso de los medios informáticos
+    será considerado como falta grave a efectos laborales y la reincidencia será considerada
+    como falta muy grave.
+        \n\n
+    </string>
 
 
+    <string formatted="false" name="artAnexo4Head">
+        ANEXO 4. Sistema de retribución variable.
+    </string>
+    <string formatted="false" name="artAnexo4Content">
+
+        \n\t
+        A) Dirección de operaciones nacionales
+        \n\t
+        El sistema de retribución variable de los centros adscritos a la Dirección de Operaciones
+    Nacionales se compone de comisiones sobre ventas e hitos
+        \n\n\t
+        1. Comisiones sobre ventas.
+        \n\n\t
+        1.1 Alcance. Personal Comercial y de Administración y Personal de Apoyo de los
+    Grupos II, III, IV y V.
+        \n\n\t
+        1.2 Aplicación. Comisión sobre las ventas del centro de trabajo (aeropuerto)
+    repercutidas al empleado.
+        \n\n\t
+        1.3 Cálculo de la comisión. Se percibirá desde el primer euro de venta de acuerdo al
+    grado de consecución del objetivo según los siguientes tramos:
+        \n\n\t
+        Tramo I: Entre 0 % y 94,99 %.
+        \n\t
+        Tramo II: Entre 95 % y 104,99 %.
+        \n\t
+        Tramo III: A partir de 105 %.
+        \n\n\t
+        1.4 Asignación de ventas a empleados. Las comisiones sobre las ventas del centro
+    de trabajo (aeropuerto) se repercutirán en su totalidad a los trabajadores de acuerdo a los
+    siguientes criterios:
+        \n\n\t
+        1. Tiempo efectivamente trabajado. El cobro de la retribución variable se devengará
+    por el tiempo efectivamente trabajado incluyendo en éste las ausencias debidas a
+    Accidente de Trabajo, Permiso de Lactancia, Horas de Compensación por Inventarios
+    Rotativos, Vacaciones y los Permisos Retribuidos contemplados en el artículo 41 B) y C).
+        \n\n\t
+        2. Correctores de grupo profesional.
+        \n\n\t
+
+        Grupo Profesional II: 1,72.
+        \n\t
+        Grupo Profesional III: 1,43.
+        \n\t
+        Grupo Profesional IV: 1,12.
+        \n\t
+        Grupo Profesional V: 1,00.
+        \n\n\t
+
+    3. Condición de perceptor.
+        \n\n\t
+        Con CBB: 0,25.
+        \n\t
+        Sin CBB: 1.
+        \n\n\t
+
+        4. Exclusiones. El trabajador que haya incurrido en los siguientes supuestos no será
+        incluido en el reparto:
+        \n\n\t
+
+        1.º Haya tenido tres o más descuadres en caja, positivos o negativos superiores
+    a 24 € cada uno de ellos.
+        \n\t
+        2.º Haya incurrido en tres o más faltas injustificadas de puntualidad superiores a 10
+    minutos cada una de ellas o en un acumulado mensual superior a 60 minutos.
+        \n\t
+        3.º Se le haya impuesto una sanción por falta grave o muy grave, que haya adquirido
+    firmeza.
+        \n\t
+        4.º Haya acumulado en un periodo de doce meses consecutivos tres sanciones por
+    falta leve que hayan adquirido firmeza, en cuyo caso se perderá el derecho a percibir la
+    retribución variable en el primer mes a que tuviera derecho después de haber adquirido
+    firmeza la tercera sanción por falta leve.
+        \n\n\t
+        Como resultado se obtendrán unas horas ponderadas que equivaldrán al % de
+    participación en el reparto de la comisión sobre ventas del centro en el mes de que se
+    trate. En cualquier caso, la suma de la comisión sobre ventas repercutidas a los
+    trabajadores coincidirá con la comisión total sobre ventas.
+        \n\t
+        La Empresa calculará las comisiones de acuerdo a los objetivos comerciales de cada
+    centro de trabajo (aeropuerto) Dada la estacionalidad de las ventas se fijarán dos tipos de
+    comisiones distintos a lo largo del año para evitar fluctuaciones excesivas de este concepto
+    en la retribución del trabajador:
+        \n\n\t
+    a) Temporada de mayor actividad: abril, mayo, junio, julio, agosto, septiembre y
+    octubre.
+        \n
+        b) Temporada de menor actividad: enero, febrero, marzo, noviembre y diciembre.
+        \n\n\t
+        Los porcentajes actualmente vigentes de comisiones de ventas para cada Aeropuerto
+    y temporada serán los acordados en el anterior convenio en tanto se negocie el nuevo
+    sistema de retribución variable acorde con la política de incentivos global del grupo DUFRY
+    que permita incrementar los estándares de calidad y atención a los clientes.
+        \n\t
+        Ambas partes se comprometen a analizar en el seno de la Comisión para el
+    Seguimiento de la Retribución Variable, con el fin de debatir y acordar un sistema que
+    pudiera ser aprobado con posterioridad por la Comisión Negociadora, y, por tanto pudiera
+    ser incorporado al presente convenio.
+        \n\n\t
+        1.5 Comunicación de objetivos. La Empresa se obliga a comunicar a comienzo del
+    ejercicio de cada uno de los años de vigencia del presente Convenio, y para todo el año,
+    los distintos tramos por aeropuerto y objetivos comerciales mensualizados para la totalidad
+    de los mismos.
+        \n\n\t
+        2. Hitos.
+        \n\n\t
+        2.1 Concepto. Se define el hito como aquel concepto retributivo de naturaleza
+    variable determinado por la superación de una cifra de ventas por aeropuerto, agrupación
+    comercial o punto de venta (según los casos) equivalente al decimoctavo día de mayor
+    venta del año.
+        \n\t
+        2.2 Importe. Cada vez que se alcance este hito se abonará la cantidad de 80 € al
+    personal que haya trabajado efectivamente siete horas o más durante la jornada diaria de
+    referencia en su centro de asignación. En el caso de haber trabajado una cantidad inferior
+    de horas la cantidad a percibir será de 59,50 €.
+        \n\t
+        2.3 Ámbito personal de aplicación. Los trabajadores de los Aeropuertos con derecho
+    a percibir este concepto retributivo serán aquellos adscritos a los Grupos II, III, IV, y V, y
+    asignados a las tareas comerciales, de administración, y de logística y almacén.
+        \n\t
+        El personal dedicado a las tareas comerciales cobrará el Hito en función del punto de
+    venta al que esté asignado al menos el 50% de su jornada laboral. Si un trabajador
+    asignado a un punto de venta que alcance un hito y que por necesidades organizativas de
+    la empresa tuviera que desplazarse a otro punto de venta donde no se consiguiera para
+    cubrir una necesidad circunstancial, tendrá derecho a cobrar el hito conseguido en el punto
+    de venta de origen.
+        \n\t
+        En aquellos aeropuertos en los que la complejidad de la oferta comercial así lo
+    justifique, se podrá establecer que el hito sea asignado en lugar de por tienda por el grupo
+    de tiendas englobadas bajo una supervisión común («agrupación comercial»).
+        \n\t
+        El personal dedicado a tareas de apoyo (administración, logística y almacén) cobrará
+    el Hito en función del aeropuerto de asignación. El derecho a la percepción del importe del
+    hito para este personal de apoyo se generará con independencia de que el día de
+    consecución esté o no presente, salvo que la ausencia se haya producido por los
+    siguientes motivos: Vacaciones, Incapacidad Temporal y los permisos retribuidos
+    contemplados en el artículo 41 A), B) y C) del presente Convenio Colectivo.
+        \n\t
+        2.4 Reglas de cobro. El número de hitos alcanzables por cada aeropuerto, agrupación
+    comercial o punto de venta (según los casos) es de dos al mes, siendo acumulables en el
+    año natural hasta un total de veinticuatro. Es decir, que los hitos no conseguidos en meses
+    anteriores por cada aeropuerto, agrupación comercial o punto de venta (según los casos)
+    se acumulan para los meses siguientes del año en curso para facilitar su consecución en
+    aquellos centros con una distribución irregular de la actividad.
+        \n\t
+        En el transcurso del mes se abonarán por cada aeropuerto, agrupación comercial o
+    punto de venta (según los casos) los dos primeros hitos que se consigan por orden
+    cronológico, y posteriormente los hitos «acumulados» si los hubiese, hasta el límite
+    disponible.
+        \n\t
+        En los aeropuertos turísticos, y dado que durante los meses de noviembre y diciembre
+    la posibilidad de obtener hito desciende notablemente, el cupo de hitos mensuales será de
+    cuatro para el mes de septiembre y cuatro para el mes de octubre, quedando sólo los no
+    conseguidos para los meses de noviembre y diciembre.
+        \n\t
+        Si un trabajador asignado a un punto de venta que ya hubiera conseguido en el
+    transcurso del mes sus dos hitos mensuales, no hubiera estado presente por efecto de la
+    propia turnicidad o por encontrarse en situación de vacaciones en el momento de la
+    consecución de los mismos (o de uno de ellos), y por lo tanto no hubiera generado derecho
+    a cobrarlos, podrá acceder a su cobro cuando el punto de venta alcance de nuevo un hito
+    durante el mes en curso y el trabajador preste efectivamente sus servicios ese día.
+        \n\t
+        2.5 Información. Con el fin de incentivar la consecución de este concepto retributivo,
+    la Empresa se compromete a facilitar a través de los Responsables de Servicio o de los
+    Supervisores la información diaria de las ventas producidas en cada punto de venta al
+    personal adscrito al mismo durante el turno.
+        \n\t
+        2.6 Calculo de hito en caso de ausencia de ventas en el año anterior. En el caso de
+    que con motivo de la apertura de un nuevo espacio comercial no exista un histórico de
+    ventas que permita calcular la cuantía del Hito de la manera prevista en el punto 2.1, la
+    Empresa se compromete a calcular de la manera más objetiva posible un importe que
+    permita acceder a los empleados asignados a este nuevo centro al cobro de este concepto
+    en condiciones análogas a las del resto del personal.
+
+        \n\n\t
+        Comisión de Seguimiento de la Retribución Variable
+        \n\n\t
+
+        Se constituirá una Comisión entre la empresa y los representantes de los trabajadores
+    con el objeto de analizar el funcionamiento y resultado del nuevo sistema.
+        \n\t
+        La Comisión estará compuesta según se establece en el artículo 9 para la Comisión
+    Mixta.
+        \n\t
+        Las fechas de reunión de la citada Comisión, con carácter ordinario, quedarán fijadas
+    los meses de julio y diciembre para cada uno de los años de vigencia del presente
+    Convenio.
+        \n\t
+        Asimismo y salvo en caso excepcional de variaciones significativas de plantilla, tráfico
+    aéreo, superficie comercial y cualquier circunstancia que tuviera relación con el negocio,
+    la Empresa se compromete a no disminuir el porcentaje de tramos.
+        \n\t
+        Además, en el supuesto de producirse alguna circunstancia excepcional que pudiera
+    influir en el cálculo de la retribución variable, las partes podrán solicitar la reunión de la
+    Comisión con carácter extraordinario para adoptar las medidas pertinentes.
+        \n\n\t
+    B) Plataforma logistica (ZAL)
+        \n\n\t
+        1. Porcentajes máximos de reparto.
+        \n\n\t
+
+        El importe máximo de retribución variable a percibir por los trabajadores adscritos a los
+    grupos II, III, IV y V, que no tengan derecho a percibir el concepto de Condición Más
+    Beneficiosa Básica, será del 40% del Salario Mínimo Garantizado.
+        \n\t
+        Para los trabajadores con derecho a percibir retribución variable que vinieran
+    percibiendo el concepto de CBB, el importe máximo a percibir será del 12,22% del Salario
+    Mínimo Garantizado.
+        \n\t
+        La retribución variable se percibirá, en su caso, en doce mensualidades y el módulo de
+    cálculo para los porcentajes máximos a percibir será el resultante de dividir el Salario
+    Mínimo Garantizado entre doce.
+        \n\n\t
+        2. Exclusiones.
+        \n\n\t
+    El trabajador que haya incurrido en los siguientes supuestos no será incluido en el
+    reparto.
+        \n\n\t
+        – Tres o más faltas de puntualidad superiores a 10 minutos cada una de ellas o en un
+    acumulado mensual de 60 minutos.
+        \n\t
+        – Sanción por falta grave o muy grave que haya adquirido firmeza.
+        \n\t
+        – Acumulación en un periodo de 12 meses consecutivos de tres sanciones por falta
+    eve que hayan adquirido firmeza, en cuyo caso se perderá el derecho a percibir la
+    retribución variable en el primer mes a que tuviera derecho después de haber adquirido
+    firmeza la tercera sanción por falta leve.
+        \n\t
+        – Se excluirá del salario devengado la parte proporcional de los días de ausencia,
+    ncluso justificada, con excepción de las debidas a vacaciones, accidentes de trabajo,
+    permisos retribuidos recogidos en los artículos 41 B) y C) del presente Convenio.
+        \n\n\t
+        3. Criterios de reparto y definiciones:
+        \n\n\t
+        La cuantía de la retribución variable que corresponda a cada uno de los grupos
+    profesionales se repartirá conforme a los siguientes criterios:
+        \n\n
+
+        -------------------------------------------\n
+        Grupos profesionales II,III,IV,V.\n
+        -------------------------------------------\n
+
+        Incremente de la productividad mensual
+        (Calculada en unidades)\n
+        \t\t\t\t\t 15%\n
+        -------------------------------------------\n
+
+        Incremente de la productividad mensual \n
+        (Calculada en líneas \n
+        \t\t\t\t\t 15%\n
+
+        -------------------------------------------\n
+        Mejora de la productividad presupuestada\n
+        \t\t\t\t\t 10%\n
+        -------------------------------------------\n
+        \n\t
+
+        Unidades: Unidades de venta, suma de las unidades movidas tanto de entrada como
+    de salida en la Plataforma Logística de Distribución.
+        \n\t
+        Líneas: Registros informáticos por referencia que suponen movimientos de mercancía
+    en la Plataforma Logística de Distribución.
+        \n\n\t
+    Para cada uno de los tramos, la consecución se calculará tal como se define a
+    continuación.
+        \n\n\t
+    3.1 Incremento de la productividad mensual (calculada en unidades):
+        \n\n\t
+    Se define productividad mensual como:
+        \n\n\t
+
+
+        Unidades movidas en el mes \n
+        ─────────────────────────────\n\t
+        Plantilla media del mes
+
+
+        \n\n\t
+        El indicador será:
+        \n\n
+
+
+    Productividad mensual año actual - Productividad mensual año anterior\n
+    ────────────────────────── x 100\n
+    Productividad mensual año anterior
+        \n\n\t
+
+        Si el resultado obtenido es mayor o igual que 0 se determinará el porcentaje de
+    etribución variable según se recoge en la Tabla 1 anexa.
+        \n\n\t
+        3.2 Incremento de la productividad mensual (calculada en líneas):
+    Se define productividad mensual como:
+        \n\n
+
+    Lineas movidas en elmes\n
+    ──────────────────────────\n
+    Plantilla media del mes
+        \n\n\t
+
+    El indicador será:
+        \n\n
+
+
+    Productividad mensual año actual - Productividad mensual año anterior\n
+    ────────────────────────── x 100\n
+    Productividad mensual año anterior
+        \n\n\t
+
+
+        Si el resultado obtenido es mayor o igual que 0 se determinará el porcentaje de
+    retribución variable según se recoge en la Tabla 1 anexa.
+        \n\n\t
+
+        3.3 Mejora de la productividad presupuestada:
+        \n\t
+        Se define como productividad presupuestada:
+        \n\n
+
+
+    Unidades movidas acumuladas\n
+    ────────────────────────── \n
+    Plantilla media acumulada presupuestada \n\n\t
+
+    Se define como productividad real:
+        \n\n
+    Unidades movidas acumuladas \n
+    ────────────────────────── \n
+    Plantilla media acumulada real
+        \n\n\t
+
+        El indicador será:
+        \n\n
+
+    Productividad real - Productividad presupuestada
+        ────────────────────────── X 100 \n\t
+    Productividad presupuestada
+        \n\n\t
+
+        Si el resultado obtenido es mayor o igual que 0 se determinará el porcentaje de
+    retribución variable según se recoge en la Tabla 2 anexa.
+        \n\n\t
+    Adaptación del modelo a modificaciones significativas de la actividad.
+        \n\n\t
+        Las partes acuerdan que, en caso de producirse un cambio significativo en el modelo
+    de suministro de la Plataforma Logística, la Empresa se reunirá con la Representación
+    Social del centro (informando a la Comisión Mixta de Seguimiento e Interpretación del
+    Convenio) para, a la vista del cambio, analizar los diferentes criterios y/o parámetros y, si
+    procede, acordar la corrección de las desviaciones de los mismos que pudieran verse
+    afectados y que resulten asumibles.
+        \n\n\t
+
+        Tablas anexas Retribución Variable Plataforma Logística ZAL
+        \n\n
+        Tabla 1.\n
+
+    ---------------------------------------------\n
+    % ∆ Prod.HASTA   | % RETR.VARIABLE \n
+    ---------------------------------------------\n
+        \t\t\t 0 \t\t\t\t\t\t | \t\t\t\t 0 \n
+    ---------------------------------------------\n
+        \t\t\t 1 \t\t\t\t\t\t | \t\t\t\t 3,00  \n
+    ---------------------------------------------\n
+        \t\t\t 2 \t\t\t\t\t\t | \t\t\t\t 3,00  \n
+    ---------------------------------------------\n
+        \t\t\t 3 \t\t\t\t\t\t | \t\t\t\t 3,00  \n
+    ---------------------------------------------\n
+        \t\t\t 4 \t\t\t\t\t\t | \t\t\t\t 4,00  \n
+    ---------------------------------------------\n
+        \t\t\t 5 \t\t\t\t\t\t | \t\t\t\t 4,75  \n
+    ---------------------------------------------\n
+        \t\t\t 6 \t\t\t\t\t\t | \t\t\t\t 5,50  \n
+    ---------------------------------------------\n
+        \t\t\t 7 \t\t\t\t\t\t | \t\t\t\t 6,25  \n
+    ---------------------------------------------\n
+        \t\t\t 8 \t\t\t\t\t\t | \t\t\t\t 7,00  \n
+    ---------------------------------------------\n
+        \t\t\t 9 \t\t\t\t\t\t | \t\t\t\t 7,75  \n
+    ---------------------------------------------\n
+        \t\t\t 10 \t\t\t\t\t | \t\t\t\t 8,50   \n
+    ---------------------------------------------\n
+        \t\t\t 11 \t\t\t\t\t | \t\t\t\t 9,25   \n
+    ---------------------------------------------\n
+        \t\t\t 12 \t\t\t\t\t | \t\t\t 10,00    \n
+    ---------------------------------------------\n
+        \t\t\t 13 \t\t\t\t\t | \t\t\t 10,50   \n
+    ---------------------------------------------\n
+        \t\t\t 14 \t\t\t\t\t | \t\t\t 11,00    \n
+    ---------------------------------------------\n
+        \t\t\t 15 \t\t\t\t\t | \t\t\t 11,50    \n
+    ---------------------------------------------\n
+        \t\t\t 16 \t\t\t\t\t | \t\t\t 12,00    \n
+    ---------------------------------------------\n
+        \t\t\t 17 \t\t\t\t\t | \t\t\t 12,50    \n
+    ---------------------------------------------\n
+        \t\t\t 18 \t\t\t\t\t | \t\t\t 13,00    \n
+    ---------------------------------------------\n
+        \t\t\t 19 \t\t\t\t\t | \t\t\t 13,25    \n
+    ---------------------------------------------\n
+        \t\t\t 20 \t\t\t\t\t | \t\t\t 13,50    \n
+    ---------------------------------------------\n
+        \t\t\t 21 \t\t\t\t\t | \t\t\t 13,75    \n
+    ---------------------------------------------\n
+        \t\t\t 22 \t\t\t\t\t | \t\t\t 14,00    \n
+    ---------------------------------------------\n
+        \t\t\t 23 \t\t\t\t\t | \t\t\t 14,25    \n
+    ---------------------------------------------\n
+        \t\t\t 24 \t\t\t\t\t | \t\t\t 14,50    \n
+    ---------------------------------------------\n
+        \t\t\t 25 \t\t\t\t\t | \t\t\t 14,75    \n
+    ---------------------------------------------\n
+        \t\t\t 26 \t\t\t\t\t | \t\t\t 15,00    \n
+    ---------------------------------------------\n
+
+        \n\n
+
+        Tabla 2.\n
+
+    ---------------------------------------------\n
+    % ∆ Prod.HASTA   | % RETR.VARIABLE \n
+    ---------------------------------------------\n
+        \t\t\t 0 \t\t\t\t\t\t | \t\t\t\t 0 \n
+    ---------------------------------------------\n
+        \t\t\t 1 \t\t\t\t\t\t | \t\t\t\t 3,00  \n
+    ---------------------------------------------\n
+        \t\t\t 2 \t\t\t\t\t\t | \t\t\t\t 3,00  \n
+    ---------------------------------------------\n
+        \t\t\t 3 \t\t\t\t\t\t | \t\t\t\t 3,00  \n
+    ---------------------------------------------\n
+        \t\t\t 4 \t\t\t\t\t\t | \t\t\t\t 4,00  \n
+    ---------------------------------------------\n
+        \t\t\t 5 \t\t\t\t\t\t | \t\t\t\t 4,75  \n
+    ---------------------------------------------\n
+        \t\t\t 6 \t\t\t\t\t\t | \t\t\t\t 5,50  \n
+    ---------------------------------------------\n
+        \t\t\t 7 \t\t\t\t\t\t | \t\t\t\t 6,25  \n
+    ---------------------------------------------\n
+        \t\t\t 8 \t\t\t\t\t\t | \t\t\t\t 7,00  \n
+    ---------------------------------------------\n
+        \t\t\t 9 \t\t\t\t\t\t | \t\t\t\t 7,75  \n
+    ---------------------------------------------\n
+        \t\t\t 10 \t\t\t\t\t | \t\t\t\t 8,50   \n
+    ---------------------------------------------\n
+        \t\t\t 11 \t\t\t\t\t | \t\t\t\t 9,25   \n
+    ---------------------------------------------\n
+        \t\t\t 12 \t\t\t\t\t | \t\t\t 10,00    \n
+    ---------------------------------------------\n
+
+
+        \n\n
+
+        Tablas salariales 2017.\n
+        1,25%
+
+    ---------------------------------------------\n
+    Grupo\n
+    Profesional        | Euros Año | Euros mes   \n
+    ---------------------------------------------\n
+    \t\t\t  II \t\t\t  | 28.008,80 | 1.750,55    \n
+    ---------------------------------------------\n
+    \t\t\t  III \t\t\t | 23.341,76 | 1.458,86    \n
+    ---------------------------------------------\n
+    \t\t\t  IV \t\t\t  | 18.241,60 | 1.140,10    \n
+    ---------------------------------------------\n
+    \t\t\t  V \t\t\t   | 16.085,44 | 1.017,91    \n
+    ---------------------------------------------\n
+    (*) Incluye entrega a cuenta de 1,25% para 2017 \n\n
+
+
+    Otros conceptos: \n\n
+
+    Ayuda familiar: 42,98 euros.\n
+    Becas de estudio: 341,15 euros.\n
+    Premio natalidad: 268,64 euros.\n
+    Premio matrimonio: 268,64 euros.\n\n
+
+
+    ---------------------------------------------\n
+    \t\t\t\t\t\t\t   ESPAÑA \n
+    ---------------------------------------------\n
+    Grupo \t      | Dieta completa     | Media dieta   \n
+    ---------------------------------------------\n
+    \t II \t\t\t  | 47,09 € \t\t\t\t   | 28,24 € \n
+    ---------------------------------------------\n
+    \t III,IV,V   | 35,32 € \t\t\t\t   | 21,21 € \n
+    ---------------------------------------------\n
+
+    \n\n
+
+    ---------------------------------------------\n
+    \t\t\t\t\t\t\t   EXTRANJERO \n
+    ---------------------------------------------\n
+    Grupo \t      | Dieta completa     | Media dieta   \n
+    ---------------------------------------------\n
+    \t II \t\t\t  | 82,60 € \t\t\t\t   | 49,92 € \n
+    ---------------------------------------------\n
+    \t III,IV,V   | 72,29 € \t\t\t\t   | 43,14 € \n
+    ---------------------------------------------\n
+
+
+
+
+
+
+
+
+
+    </string>
 
 
     <!--

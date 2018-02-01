@@ -75,7 +75,17 @@
         </activity>
         <activity
             android:name=".Anexo2"
+            android:label="@string/txtAnexo2"
             android:parentActivityName=".MainActivity">
+        </activity>
+        <activity
+            android:name=".Anexo3"
+            android:label="@string/txtAnexo3"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".Anexo4"
+                  android:label="@string/txtAnexo4"
+                  android:parentActivityName=".MainActivity">
         </activity>
     </application>
 

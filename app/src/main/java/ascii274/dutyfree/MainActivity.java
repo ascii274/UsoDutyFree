@@ -11,7 +11,7 @@ import android.widget.Button;
 //Toast.makeText(this, "entra", Toast.LENGTH_LONG).show();
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
-    Button buttonAnexo1,buttonAnexo2,buttonConvenio,buttonFavoritos,buttonVerArticulo;
+    Button buttonAnexo1,buttonAnexo2,buttonAnexo3,buttonAnexo4,buttonConvenio,buttonFavoritos,buttonVerArticulo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,6 +23,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         buttonAnexo2=(Button) findViewById(R.id.btnAnexo2);
         buttonAnexo2.setOnClickListener(this);
+
+        buttonAnexo3=(Button) findViewById(R.id.btnAnexo3);
+        buttonAnexo3.setOnClickListener(this);
+
+        buttonAnexo4=(Button) findViewById(R.id.btnAnexo4);
+        buttonAnexo4.setOnClickListener(this);
 
 
         buttonVerArticulo=(Button) findViewById(R.id.btnVerArticulo);
@@ -56,10 +62,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent intentAnexo2=new Intent(this,Anexo2.class);
                 startActivity(intentAnexo2);
                 break;
+            case R.id.btnAnexo3:
+                Intent intentAnexo3=new Intent(this,Anexo3.class);
+                startActivity(intentAnexo3);
+                break;
+            case R.id.btnAnexo4:
+                Intent intentAnexo4=new Intent(this,Anexo4.class);
+                startActivity(intentAnexo4);
+                break;
 
 
             default:
-
                 break;
 
         }
