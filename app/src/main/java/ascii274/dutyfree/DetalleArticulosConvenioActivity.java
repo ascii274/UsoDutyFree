@@ -28,11 +28,7 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
         mViewPager = (ViewPager) findViewById(R.id.detArtConv_Container);
         mViewPager.setAdapter(mConvenioPagerAdapter);
 
-
-
-
         /*TODO aqui iniciamos captura codigo articulo */
-
 
         Bundle parameters = getIntent().getExtras();
         if(parameters!=null) {
@@ -313,14 +309,10 @@ public class DetalleArticulosConvenioActivity extends AppCompatActivity {
 
         }
 
-
-
         // Set up the ViewPager with the sections adapter.
        // mViewPager = (ViewPager) findViewById(R.id.detArtConv_Container);
         //mViewPager.setAdapter(mConvenioPagerAdapter);
         //mViewPager.setCurrentItem(5);
-
-
 
     }
 

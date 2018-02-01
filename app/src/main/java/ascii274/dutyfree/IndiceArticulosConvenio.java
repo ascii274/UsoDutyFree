@@ -43,17 +43,11 @@ public class IndiceArticulosConvenio extends AppCompatActivity {
         listView=(ListView) findViewById(R.id.lstVieEnFragArtConv);
 
         CustomListIndiceArticulos customListIndiceArticulos =new CustomListIndiceArticulos(this,resCodeArt,resDescription,intIdSize,intDescSize);
-
         listView.setAdapter(customListIndiceArticulos);
-
-
-
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-
-
             /*
              *Todo: siguiente linea comentado es para mostrar el codigo que he picado
              *Toast.makeText(IndiceArticulosConvenio.this,resCodeArt[i].trim(),Toast.LENGTH_SHORT).show();

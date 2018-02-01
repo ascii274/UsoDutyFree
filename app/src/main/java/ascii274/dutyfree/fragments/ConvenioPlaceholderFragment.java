@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import ascii274.dutyfree.R;
 
+import static android.graphics.Color.RED;
+
 
 public  class ConvenioPlaceholderFragment extends Fragment {
 
@@ -43,6 +45,8 @@ public  class ConvenioPlaceholderFragment extends Fragment {
             View rootView = inflater.inflate(R.layout.convenio_activity_content, container, false);
             TextView textViewHead = rootView.findViewById(R.id.txtArtHeader);
             TextView textViewContent = rootView.findViewById(R.id.txtArtContent);
+            View view=rootView.findViewById(R.id.viewEnActvtContent);
+            view.setBackgroundColor(getResources().getColor(R.color.colLineaCabecera));
 
 
             Resources res = getResources();
@@ -51,7 +55,7 @@ public  class ConvenioPlaceholderFragment extends Fragment {
 
             textViewHead.setTextSize(idArticulo);
             //textViewHead.setBackgroundColor(getResources().getColor(R.color.cabecera));
-            textViewHead.setTextColor(getResources().getColor(R.color.txtColorCabecera));
+            //textViewHead.setTextColor(getResources().getColor(R.color.txtColorCabecera));
             textViewContent.setTextSize(descArticulo);
             //textViewContent.setTextColor(getResources().getColor(R.color.cabecera));
 
