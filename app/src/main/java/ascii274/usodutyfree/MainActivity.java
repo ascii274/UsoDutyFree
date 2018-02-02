@@ -1,4 +1,4 @@
-package ascii274.dutyfree;
+package ascii274.usodutyfree;
 
 import android.app.FragmentTransaction;
 import android.content.Intent;

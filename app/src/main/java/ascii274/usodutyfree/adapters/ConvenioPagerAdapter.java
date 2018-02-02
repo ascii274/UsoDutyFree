@@ -1,4 +1,4 @@
-package ascii274.dutyfree.adapters;
+package ascii274.usodutyfree.adapters;
 
 
 
@@ -6,7 +6,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import ascii274.dutyfree.fragments.ConvenioPlaceholderFragment;
+import ascii274.usodutyfree.fragments.ConvenioPlaceholderFragment;
 
 /*
  *Todo: Utilizado por Actividades: ConvenioActivity y DetalleArticulosConvenioActivity

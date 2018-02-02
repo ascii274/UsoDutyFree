@@ -4,11 +4,11 @@ android {
     compileSdkVersion 26
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "ascii274.dutyfree"
+        applicationId "ascii274.usodutyfree"
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 10202
-        versionName '1.0202'
+        versionCode 10203
+        versionName '1.0203'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

@@ -1,4 +1,4 @@
-package ascii274.dutyfree;
+package ascii274.usodutyfree;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import ascii274.dutyfree.adapters.ConvenioPagerAdapter;
+import ascii274.usodutyfree.adapters.ConvenioPagerAdapter;
 
 public class DetalleArticulosConvenioActivity extends AppCompatActivity {
 

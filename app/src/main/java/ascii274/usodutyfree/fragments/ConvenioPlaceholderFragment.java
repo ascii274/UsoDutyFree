@@ -1,4 +1,4 @@
-package ascii274.dutyfree.fragments;
+package ascii274.usodutyfree.fragments;
 
 import android.content.res.Resources;
 import android.graphics.Typeface;
@@ -9,9 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import ascii274.dutyfree.R;
-
-import static android.graphics.Color.RED;
+import ascii274.usodutyfree.R;
 
 
 public  class ConvenioPlaceholderFragment extends Fragment {

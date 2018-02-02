@@ -1,4 +1,4 @@
-package ascii274.dutyfree;
+package ascii274.usodutyfree;
 
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;

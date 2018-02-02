@@ -1,4 +1,4 @@
-package ascii274.dutyfree;
+package ascii274.usodutyfree;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

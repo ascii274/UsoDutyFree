@@ -8,7 +8,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="ascii274.dutyfree.ConvenioActivity">
+    tools:context="ascii274.usodutyfree.ConvenioActivity">
     <!--
 
     <android.support.design.widget.AppBarLayout

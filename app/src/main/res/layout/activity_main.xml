@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colBackActMain"
-    tools:context="ascii274.dutyfree.MainActivity"
+    tools:context="ascii274.usodutyfree.MainActivity"
     tools:layout_editor_absoluteX="0dp"
     tools:layout_editor_absoluteY="81dp">
 
