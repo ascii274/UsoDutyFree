@@ -22,6 +22,7 @@ public class Anexo2 extends AppCompatActivity {
         textViewHead.setTypeface(mTypefaceArticulo);
         textViewContent.setTypeface(mTypefaceDescArticulo);
         textViewContent.setTextSize(getResources().getInteger(R.integer.txtIdArticuloSize));
+        textViewContent.setTextSize(getResources().getInteger(R.integer.txtIdArticuloSize));
         textViewContent.setTextSize(getResources().getInteger(R.integer.txtDescArticuloSize));
     }
 }

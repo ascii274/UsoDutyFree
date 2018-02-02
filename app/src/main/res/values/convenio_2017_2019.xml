@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <resources xmlns:android="http://schemas.android.com/tools">
     
     <string formatted="false" name="art01Head">
@@ -3028,13 +3029,13 @@
         Grupos profesionales II,III,IV,V.\n
         -------------------------------------------\n
 
-        Incremente de la productividad mensual
+        Incremente de la productividad mensual\n
         (Calculada en unidades)\n
         \t\t\t\t\t 15%\n
         -------------------------------------------\n
 
         Incremente de la productividad mensual \n
-        (Calculada en líneas \n
+        (Calculada en líneas) \n
         \t\t\t\t\t 15%\n
 
         -------------------------------------------\n
@@ -3068,9 +3069,9 @@
         \n\n
 
 
-    Productividad mensual año actual - Productividad mensual año anterior\n
-    ────────────────────────── x 100\n
-    Productividad mensual año anterior
+        Productividad mensual año actual - Productividad mensual año anterior\n
+        ──────────────────────────────────────────────── x 100\n
+        Productividad mensual año anterior
         \n\n\t
 
         Si el resultado obtenido es mayor o igual que 0 se determinará el porcentaje de
@@ -3080,18 +3081,18 @@
     Se define productividad mensual como:
         \n\n
 
-    Lineas movidas en elmes\n
-    ──────────────────────────\n
-    Plantilla media del mes
+        Lineas movidas en elmes\n
+        ──────────────────────────\n
+        Plantilla media del mes
         \n\n\t
 
-    El indicador será:
+        El indicador será:
         \n\n
 
 
-    Productividad mensual año actual - Productividad mensual año anterior\n
-    ────────────────────────── x 100\n
-    Productividad mensual año anterior
+      Productividad mensual año actual - Productividad mensual año anterior\n
+      ──────────────────────────────────────────────── x 100\n
+      Productividad mensual año anterior
         \n\n\t
 
 
@@ -3105,23 +3106,23 @@
         \n\n
 
 
-    Unidades movidas acumuladas\n
-    ────────────────────────── \n
-    Plantilla media acumulada presupuestada \n\n\t
+        Unidades movidas acumuladas\n
+        ────────────────────────── \n
+        Plantilla media acumulada presupuestada \n\n\t
 
     Se define como productividad real:
         \n\n
-    Unidades movidas acumuladas \n
-    ────────────────────────── \n
-    Plantilla media acumulada real
+        Unidades movidas acumuladas \n
+        ────────────────────────── \n
+        Plantilla media acumulada real
         \n\n\t
 
-        El indicador será:
+    El indicador será:
         \n\n
 
-    Productividad real - Productividad presupuestada
-        ────────────────────────── X 100 \n\t
-    Productividad presupuestada
+        Productividad real - Productividad presupuestada
+        ──────────────────────────────────────────────── X 100 \n\t
+         Productividad presupuestada
         \n\n\t
 
         Si el resultado obtenido es mayor o igual que 0 se determinará el porcentaje de
@@ -3237,7 +3238,7 @@
         \n\n
 
         Tablas salariales 2017.\n
-        1,25%
+        1,25%\n\n
 
     ---------------------------------------------\n
     Grupo\n
@@ -3265,8 +3266,7 @@
     ---------------------------------------------\n
     \t\t\t\t\t\t\t   ESPAÑA \n
     ---------------------------------------------\n
-    Grupo \t      | Dieta completa     | Media   \n
-    \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t |    dieta   \n
+    Grupo \t      | Dieta completa     | Media dieta   \n
     ---------------------------------------------\n
     \t II \t\t\t  | 47,09 € \t\t\t\t   | 28,24 € \n
     ---------------------------------------------\n

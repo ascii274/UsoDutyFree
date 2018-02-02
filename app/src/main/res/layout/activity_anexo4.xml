@@ -17,6 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
+
         <LinearLayout
             xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:tools="http://schemas.android.com/tools"
@@ -24,19 +25,20 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+
             <TextView
                 android:id="@+id/txtVwAnexo4Head"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/artAnexo4Head"/>
-
             <View
                 android:layout_width="match_parent"
-                android:layout_height="2dp"
+                android:layout_height="1dp"
                 android:background="@color/colLineaCabecera"
                 >
 
             </View>
+
 
             <TextView
                 android:id="@+id/txtVwAnexo4Content"

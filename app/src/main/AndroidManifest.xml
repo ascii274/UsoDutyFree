@@ -84,6 +84,7 @@
             android:parentActivityName=".MainActivity">
         </activity>
         <activity android:name=".Anexo4"
+                  android:screenOrientation="landscape"
                   android:label="@string/txtAnexo4"
                   android:parentActivityName=".MainActivity">
         </activity>
